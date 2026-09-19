@@ -24,10 +24,10 @@ jobs:
 
       - name: Install wkhtmltoimage & fonts
         run: |
-              sudo apt-get update -qq
-              sudo apt-get install -y wkhtmltopdf fonts-dejavu fonts-dejavu-extra
-    echo "--- DIAGNOSTIC ---"
-    which wkhtmltoimage || echo "wkhtmltoimage NOT FOUND"
+          sudo apt-get update -qq
+          sudo apt-get install -y wkhtmltopdf fonts-dejavu fonts-dejavu-extra
+          echo "--- DIAGNOSTIC ---"
+          which wkhtmltoimage || echo    "wkhtmltoimage NOT FOUND"
     which wkhtmltopdf || echo "wkhtmltopdf NOT FOUND"
     wkhtmltoimage --version || echo "VERSION CHECK FAILED"
     echo "--- END DIAGNOSTIC ---"
