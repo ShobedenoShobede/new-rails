@@ -31,14 +31,14 @@ jobs:
       - name: Run Writer Agent
         env:
           GROQ_API_KEY: ${{ secrets.GROQ_API_KEY }}
-    NEWSLETTER_NAME: "THE NEW RAILS"
-    TAGLINE: "Tracking the transformation of the financial system"
-       run: python writer_agent.py
+          NEWSLETTER_NAME: "THE NEW RAILS"
+          TAGLINE: "Tracking the transformation of the financial system"
+        run: python writer_agent.py
 
-       - name: Run Image Agent
-         env:
-    NEWSLETTER_NAME: "THE NEW RAILS"
-    TAGLINE: "Tracking the transformation of the financial system"
+      - name: Run Image Agent
+        env:
+          NEWSLETTER_NAME: "THE NEW RAILS"
+          TAGLINE: "Tracking the transformation of the financial system"
         run: python image_agent.py
 
       - name: Commit draft + image
