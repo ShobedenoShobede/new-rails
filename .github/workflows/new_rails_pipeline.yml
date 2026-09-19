@@ -51,7 +51,7 @@ jobs:
 
   weekly-teaser:
     runs-on: ubuntu-latest
-    if: github.event.schedule == '0 8 * * 1'
+         if: github.event.schedule == '0 8 * * 1'
     steps:
       - name: Checkout repo
         uses: actions/checkout@v4
