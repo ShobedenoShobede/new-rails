@@ -23,7 +23,8 @@ jobs:
           python-version: '3.11'
 
       - name: Install wkhtmltoimage & fonts
-         run: sudo apt-get update -qq
+         run: 
+              sudo apt-get update -qq
               sudo apt-get install -y    wkhtmltopdf fonts-dejavu fonts-dejavu-extra
 
       - name: Install dependencies
