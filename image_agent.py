@@ -11,10 +11,40 @@ BG = "#0F172A"          # slate-900 background
 
 def extract_headline(markdown_text):
     """Extract the first meaningful line as the headline."""
+    GARBAGE = {"headline", "title", "subject", "headline:", "title:", "subject:"}
+    
     lines = [l.strip() for l in markdown_text.split("\n") if l.strip()]
     if not lines:
-        return "Today's Regulatory Briefing"
+        return "Today's Briefing"
 
+    # First, scan for "HEADLINE" line and grab the NEXT line as the headline
+    for i, line in enumerate(lines[:10]):
+        cleaned = re.sub(r"^#+\s*", "", line).strip()
+        cleaned = re.sub(r"^\*\*|\*\*$", "", cleaned).strip()
+        cleaned = re.sub(r"^HEADLINE:?\s*", "", cleaned, flags=re.IGNORECASE).strip()
+        cleaned = re.sub(r"^TITLE:?\s*", "", cleaned, flags=re.IGNORECASE).strip()
+        cleaned = cleaned.strip('*_"\'').strip()
+
+        # If this line was just a label, take the NEXT line
+        if cleaned.lower() in GARBAGE or len(cleaned) < 10:
+            # Look at the next line
+            if i + 1 < len(lines):
+                next_line = lines[i + 1]
+                next_cleaned = re.sub(r"^#+\s*", "", next_line).strip()
+                next_cleaned = re.sub(r"^\*\*|\*\*$", "", next_cleaned).strip()
+                next_cleaned = next_cleaned.strip('*_"\'').strip()
+                if len(next_cleaned) >= 15:
+                    if len(next_cleaned) > 140:
+                        next_cleaned = next_cleaned[:137].rsplit(" ", 1)[0] + "..."
+                    return next_cleaned
+            continue
+
+        # Found a real headline on this line
+        if len(cleaned) > 140:
+            cleaned = cleaned[:137].rsplit(" ", 1)[0] + "..."
+        return cleaned
+
+    return "Today's Briefing"
 
     first = lines[0]
     first = re.sub(r"^#+\s*", "", first)
