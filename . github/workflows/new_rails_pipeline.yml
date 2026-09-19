@@ -1,0 +1,83 @@
+name: The New Rails Pipeline
+
+on:
+  schedule:
+    - cron: '0 6 * * *'
+    - cron: '0 8 * * 1'
+  workflow_dispatch:
+
+permissions:
+  contents: write
+
+jobs:
+  run-pipeline:
+    runs-on: ubuntu-latest
+    if: github.event.schedule == '0 6 * * *' || github.event_name == 'workflow_dispatch'
+    steps:
+      - name: Checkout repo
+        uses: actions/checkout@v4
+
+      - name: Setup Python
+        uses: actions/setup-python@v4
+        with:
+          python-version: '3.11'
+
+      - name: Install wkhtmltoimage & fonts
+        run: |
+          sudo apt-get update -qq
+          sudo apt-get install -y wkhtmltopdf fonts-dejavu fonts-dejavu-extra
+          echo "--- DIAGNOSTIC ---"
+          which wkhtmltoimage || echo "wkhtmltoimage NOT FOUND"
+          which wkhtmltopdf || echo "wkhtmltopdf NOT FOUND"
+          wkhtmltoimage --version || echo "VERSION CHECK FAILED"
+          echo "--- END DIAGNOSTIC ---"
+
+      - name: Install dependencies
+        run: pip install feedparser groq requests substack
+
+      - name: Run Curator Agent
+        run: python curator_agent.py
+
+      - name: Run Writer Agent
+        env:
+          GROQ_API_KEY: ${{ secrets.GROQ_API_KEY }}
+          NEWSLETTER_NAME: "THE NEW RAILS"
+          TAGLINE: "Tracking the transformation of the financial system"
+        run: python writer_agent.py
+
+      - name: Run Image Agent
+        env:
+          NEWSLETTER_NAME: "THE NEW RAILS"
+          TAGLINE: "Tracking the transformation of the financial system"
+        run: python image_agent.py
+
+      - name: Commit draft + image
+        run: |
+          git config user.name "New Rails Bot"
+          git config user.email "bot@newrails.io"
+          git add draft_*.md draft_*.png raw_intel.json
+          git commit -m "Daily financial system draft + header $(date +%Y-%m-%d)" || echo "No changes"
+          git push
+
+  weekly-teaser:
+    runs-on: ubuntu-latest
+    if: github.event.schedule == '0 8 * * 1'
+    steps:
+      - name: Checkout repo
+        uses: actions/checkout@v4
+
+      - name: Setup Python
+        uses: actions/setup-python@v4
+        with:
+          python-version: '3.11'
+
+      - name: Install dependencies
+        run: pip install requests
+
+      - name: Run Growth Agent
+        env:
+          WP_URL: ${{ secrets.WP_URL }}
+          WP_USERNAME: ${{ secrets.WP_USERNAME }}
+          WP_APP_PASSWORD: ${{ secrets.WP_APP_PASSWORD }}
+          SUBSTACK_URL: ${{ secrets.SUBSTACK_URL }}
+        run: python growth_agent.py
