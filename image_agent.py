@@ -9,12 +9,12 @@ TAGLINE = os.environ.get("TAGLINE", "Daily briefing for compliance teams")
 ACCENT = "#3B82F6"      # blue accent
 BG = "#0F172A"          # slate-900 background
 
-
 def extract_headline(markdown_text):
     """Extract the first meaningful line as the headline."""
     lines = [l.strip() for l in markdown_text.split("\n") if l.strip()]
     if not lines:
         return "Today's Regulatory Briefing"
+
 
     first = lines[0]
     first = re.sub(r"^#+\s*", "", first)
