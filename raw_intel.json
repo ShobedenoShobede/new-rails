@@ -1,75 +1,12 @@
 [
   {
-    "id": "6d04d080dfe3",
-    "source": "CoinTelegraph",
-    "title": "Bitget resumes Bitcoin withdrawals as hacker swaps ETH via THORChain",
-    "summary": "<p style=\"float: right; margin: 0 0 10px 15px; width: 240px;\"><img alt=\"Bitget resumes Bitcoin withdrawals as hacker swaps ETH via THORChain\" class=\"type:primaryImage\" src=\"https://s3-images.ctmedia.io/media/article-covers/2026/09/01M3KKY0E7P2KHSR2CF4H4E1SY/hi-bitget-blockchain-initiatives-overview.jpg\" /></p><p>Ether withdrawals are scheduled to return Tuesday and USDt on Wednesday as Bitget restores services following last week\u2019s $388 million hack.</p>",
-    "link": "https://cointelegraph.com/news/bitget-btc-withdrawal-hacker-eth-swap-thorchain?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-    "published": "Mon, 28 Sep 2026 11:05:24 +0000",
-    "fetched": "2026-09-29T12:00:42.283523"
-  },
-  {
-    "id": "ef13ab877e6d",
-    "source": "CoinTelegraph",
-    "title": "MiCA focus shifts from rulemaking to supervision, ESMA chair says",
-    "summary": "<p style=\"float: right; margin: 0 0 10px 15px; width: 240px;\"><img alt=\"MiCA focus shifts from rulemaking to supervision, ESMA chair says\" class=\"type:primaryImage\" src=\"https://s3-images.ctmedia.io/media/article-covers/2026/09/01M3M2KBZRZGPMFNM6GR5WJ7YC/hi-what-is-mica-markets-in-crypto-assets-regulation-esma-2.jpg\" /></p><p>ESMA will focus on CASP resilience, outsourcing and reverse solicitation while pursuing harmonized reporting across national regulators.</p>",
-    "link": "https://cointelegraph.com/news/mica-shift-rulemaking-to-supervision-esma-chair?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-    "published": "Mon, 28 Sep 2026 14:02:45 +0000",
-    "fetched": "2026-09-29T12:00:42.283421"
-  },
-  {
-    "id": "44ef75cbd433",
-    "source": "CoinTelegraph",
-    "title": "Bybit accepts Franklin Templeton tokenized funds as trading collateral",
-    "summary": "<p style=\"float: right; margin: 0 0 10px 15px; width: 240px;\"><img alt=\"Bybit accepts Franklin Templeton tokenized funds as trading collateral\" class=\"type:primaryImage\" src=\"https://s3-images.ctmedia.io/media/article-covers/2026/09/01M3MHTAW6FCEWPFXPKAW8DJG3/crypto-with-money.jpg\" /></p><p>Eligible institutions can pledge Benji-issued fund shares for stablecoin credit lines while keeping the underlying assets in off-exchange custody.\n</p>",
-    "link": "https://cointelegraph.com/news/bybit-accepts-franklin-templeton-tokenized-funds-trading-collateral?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-    "published": "Mon, 28 Sep 2026 18:02:54 +0000",
-    "fetched": "2026-09-29T12:00:42.283357"
-  },
-  {
-    "id": "a7eb9e3befec",
-    "source": "CoinTelegraph",
-    "title": "US SEC follows CFTC in staff guidance for crypto",
-    "summary": "<p style=\"float: right; margin: 0 0 10px 15px; width: 240px;\"><img alt=\"US SEC follows CFTC in staff guidance for crypto\" class=\"type:primaryImage\" src=\"https://s3-images.ctmedia.io/media/article-covers/2026/09/01M3MEF526Z3GMGWVA23CRVP2J/hi-sec-cftc-event-overview-1.jpg\" /></p><p>With the failed cloture vote on the CLARITY Act, the SEC announced updates on how federal securities laws could apply to token issuers, following similar guidance from the CFTC.</p>",
-    "link": "https://cointelegraph.com/news/sec-cftc-staff-guidance-crypto-clarity-fail?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-    "published": "Mon, 28 Sep 2026 18:39:09 +0000",
-    "fetched": "2026-09-29T12:00:42.283349"
-  },
-  {
-    "id": "bea554958206",
-    "source": "CoinTelegraph",
-    "title": "Blockchain.com eyes $500M IPO as crypto capital markets thaw: Report",
-    "summary": "<p style=\"float: right; margin: 0 0 10px 15px; width: 240px;\"><img alt=\"Blockchain.com eyes $500M IPO as crypto capital markets thaw: Report\" class=\"type:primaryImage\" src=\"https://s3-images.ctmedia.io/media/article-covers/2026/09/01M3MTCJ1E1J8KDT907A531CF3/hi-ipo-stocks-bitpgo.png\" /></p><p>The crypto company is seeking a valuation of up to $6 billion, well below its 2022 peak, as recently listed crypto stocks struggle to hold their gains.</p>",
-    "link": "https://cointelegraph.com/news/blockchain-com-500m-ipo-bloomberg-reports?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-    "published": "Mon, 28 Sep 2026 20:28:13 +0000",
-    "fetched": "2026-09-29T12:00:42.283328"
-  },
-  {
-    "id": "7f6e9e32b26f",
-    "source": "CoinTelegraph",
-    "title": "Canadian \u2018crypto king\u2019 set to represent himself at fraud trial",
-    "summary": "<p style=\"float: right; margin: 0 0 10px 15px; width: 240px;\"><img alt=\"Canadian \u2018crypto king\u2019 set to represent himself at fraud trial\" class=\"type:primaryImage\" src=\"https://s3-images.ctmedia.io/media/article-covers/2026/09/01M3MQWPR3MTCT9E31PTGCN3TH/court-law-judge-flags-canada.jpg\" /></p><p>Aiden Pleterski was allegedly behind a crypto Ponzi scheme between 2021 and 2022 that resulted in a kidnapping and related criminal charges.</p>",
-    "link": "https://cointelegraph.com/news/canada-aiden-pleterski-fraud-trial-crypto?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-    "published": "Mon, 28 Sep 2026 20:41:44 +0000",
-    "fetched": "2026-09-29T12:00:42.283313"
-  },
-  {
-    "id": "547ccb312a5a",
-    "source": "CoinTelegraph",
-    "title": "Here\u2019s what happened in crypto today",
-    "summary": "<p style=\"float: right; margin: 0 0 10px 15px; width: 240px;\"><img alt=\"Here\u2019s what happened in crypto today\" class=\"type:primaryImage\" src=\"https://s3-images.ctmedia.io/media/article-covers/article-covers-110589-what-happened-in-crypto-today.jpg\" /></p><p>Need to know what happened in crypto today? Here is the latest news on daily trends and events impacting Bitcoin price, blockchain, DeFi, Web3 and crypto regulation.</p>",
-    "link": "https://cointelegraph.com/news/what-happened-in-crypto-today?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-    "published": "Tue, 29 Sep 2026 05:37:56 +0000",
-    "fetched": "2026-09-29T12:00:42.283201"
-  },
-  {
     "id": "707175bd820f",
     "source": "CoinTelegraph",
     "title": "Greece gets first MiCA entrants as watchdog denies Binance-Lagarde claim",
     "summary": "<p style=\"float: right; margin: 0 0 10px 15px; width: 240px;\"><img alt=\"Greece gets first MiCA entrants as watchdog denies Binance-Lagarde claim\" class=\"type:primaryImage\" src=\"https://s3-images.ctmedia.io/media/article-covers/2026/09/01M3P1CC8JZ9CE9GXZ0SSDV4J0/111111.png\" /></p><p>Greece joined the EU MiCA register with four providers as HCMC expanded its denial of remarks attributed to officials in a report on Binance.</p>",
     "link": "https://cointelegraph.com/news/greece-first-mica-entrants-hcmc-binance-lagarde?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
     "published": "Tue, 29 Sep 2026 09:50:22 +0000",
-    "fetched": "2026-09-29T12:00:42.283161"
+    "fetched": "2026-09-30T11:49:25.246181"
   },
   {
     "id": "343f1b97ba23",
@@ -78,124 +15,196 @@
     "summary": "<p style=\"float: right; margin: 0 0 10px 15px; width: 240px;\"><img alt=\"Bitcoin bounces to $84K after US 30-year bond yield sets 24-year high\" class=\"type:primaryImage\" src=\"https://s3-images.ctmedia.io/media/article-covers/2026/09/01M285JYCZ9QMJKNR8RK6TQCBQ/hi-what-is-a-bitcoin-bond-etf-and-how-does-it-work.jpg\" /></p><p>Bitcoin price action consolidated after early-week losses while protecting a \u201ctrend-defining\u201d support zone.</p>",
     "link": "https://cointelegraph.com/markets/bitcoin-bounces-to-84k-after-us-30-year-bond-yield-sets-24-year-high?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
     "published": "Tue, 29 Sep 2026 10:04:42 +0000",
-    "fetched": "2026-09-29T12:00:42.283139"
+    "fetched": "2026-09-30T11:49:25.246161"
   },
   {
-    "id": "bf19c06d9eaf",
+    "id": "b51c2b4e727b",
+    "source": "CoinTelegraph",
+    "title": "ECB puts AI agent payments on the digital euro drawing board",
+    "summary": "<p style=\"float: right; margin: 0 0 10px 15px; width: 240px;\"><img alt=\"ECB puts AI agent payments on the digital euro drawing board\" class=\"type:primaryImage\" src=\"https://s3-images.ctmedia.io/media/article-covers/2026/09/01M3PG8ZXT8HQTWKJ0JHNKVNVA/hi-digital-euro.jpg\" /></p><p>The ECB is seeking firms to explore AI agents and machine-to-machine interactions as it prepares a separate digital euro pilot for 2027.</p>",
+    "link": "https://cointelegraph.com/news/ecb-private-firms-ai-agents-digital-euro?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+    "published": "Tue, 29 Sep 2026 12:00:45 +0000",
+    "fetched": "2026-09-30T11:49:25.246112"
+  },
+  {
+    "id": "52245bdf5ecf",
+    "source": "CoinTelegraph",
+    "title": "Kakaopay partners with Dinari, Ondo to explore tokenized Korean stocks",
+    "summary": "<p style=\"float: right; margin: 0 0 10px 15px; width: 240px;\"><img alt=\"Kakaopay partners with Dinari, Ondo to explore tokenized Korean stocks\" class=\"type:primaryImage\" src=\"https://s3-images.ctmedia.io/media/article-covers/2026/09/01M3Q9BFYJ1K3ZGM26SMYW5A0G/hi-south-korea-staking-lending-service.jpg\" /></p><p>Kakaopay Securities is working with Dinari and Ondo Finance to explore tokenizing Korean-listed equities and expanding their availability to investors in international markets.</p>",
+    "link": "https://cointelegraph.com/news/kakaopay-securities-dinari-ondo-tokenized-korean-stocks-push?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+    "published": "Tue, 29 Sep 2026 19:49:53 +0000",
+    "fetched": "2026-09-30T11:49:25.245975"
+  },
+  {
+    "id": "72fb8919f278",
+    "source": "CoinTelegraph",
+    "title": "OpenAI valuation could hit $1.4T in new funding round: Report",
+    "summary": "<p style=\"float: right; margin: 0 0 10px 15px; width: 240px;\"><img alt=\"OpenAI valuation could hit $1.4T in new funding round: Report\" class=\"type:primaryImage\" src=\"https://s3-images.ctmedia.io/media/article-covers/2026/09/01M3QA1RE3EPA6Q9FXEB536BXF/hi-where-to-discuss-chatgpt.jpg\" /></p><p>OpenAI is reportedly seeking another $30 billion from investors as the ChatGPT developer pushes its long-awaited public market debut into 2027.\n</p>",
+    "link": "https://cointelegraph.com/news/openai-30-billion-funding-round-1-4-trillion-valuation?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+    "published": "Tue, 29 Sep 2026 19:55:49 +0000",
+    "fetched": "2026-09-30T11:49:25.245967"
+  },
+  {
+    "id": "ca69800fb367",
+    "source": "CoinTelegraph",
+    "title": "Crypto regulation at SEC, CFTC to come down to 3 commissioners following key resignation",
+    "summary": "<p style=\"float: right; margin: 0 0 10px 15px; width: 240px;\"><img alt=\"Crypto regulation at SEC, CFTC to come down to 3 commissioners following key resignation\" class=\"type:primaryImage\" src=\"https://s3-images.ctmedia.io/media/article-covers/2026/09/01M3Q8PHD13FEXXYRXMDQWSRRZ/regulations-sec-cftc.png\" /></p><p>Seven commissioner seats at the SEC and CFTC will be empty after Friday, leaving only a few leaders at financial regulators to oversee aspects of the $3 trillion crypto industry.</p>",
+    "link": "https://cointelegraph.com/news/us-sec-cftc-crypto-regulation-few-commissioners?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+    "published": "Tue, 29 Sep 2026 19:59:43 +0000",
+    "fetched": "2026-09-30T11:49:25.245951"
+  },
+  {
+    "id": "8b557cd98c55",
+    "source": "CoinTelegraph",
+    "title": "Illinois draft crypto tax rules detail DeFi, stablecoin treatment",
+    "summary": "<p style=\"float: right; margin: 0 0 10px 15px; width: 240px;\"><img alt=\"Illinois draft crypto tax rules detail DeFi, stablecoin treatment\" class=\"type:primaryImage\" src=\"https://s3-images.ctmedia.io/media/article-covers/2026/09/01M3R8AEFZM0B2PMXZ51BF3E46/usa-tax.png\" /></p><p>Illinois\u2019 draft rules spell out how its 0.2% digital asset transaction tax would apply to stablecoins, DeFi platforms, crypto bridges and self-custody transfers.</p>",
+    "link": "https://cointelegraph.com/news/illinois-crypto-tax-rules-defi-stablecoins?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+    "published": "Wed, 30 Sep 2026 04:29:28 +0000",
+    "fetched": "2026-09-30T11:49:25.245866"
+  },
+  {
+    "id": "547ccb312a5a",
+    "source": "CoinTelegraph",
+    "title": "Here\u2019s what happened in crypto today",
+    "summary": "<p style=\"float: right; margin: 0 0 10px 15px; width: 240px;\"><img alt=\"Here\u2019s what happened in crypto today\" class=\"type:primaryImage\" src=\"https://s3-images.ctmedia.io/media/article-covers/article-covers-110589-what-happened-in-crypto-today.jpg\" /></p><p>Need to know what happened in crypto today? Here is the latest news on daily trends and events impacting Bitcoin price, blockchain, DeFi, Web3 and crypto regulation.</p>",
+    "link": "https://cointelegraph.com/news/what-happened-in-crypto-today?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+    "published": "Wed, 30 Sep 2026 06:00:00 +0000",
+    "fetched": "2026-09-30T11:49:25.245836"
+  },
+  {
+    "id": "3c281be78b51",
+    "source": "CoinTelegraph",
+    "title": "European stablecoin issuer AllUnity launches USD stablecoin USDAU",
+    "summary": "<p style=\"float: right; margin: 0 0 10px 15px; width: 240px;\"><img alt=\"European stablecoin issuer AllUnity launches USD stablecoin USDAU\" class=\"type:primaryImage\" src=\"https://s3-images.ctmedia.io/media/article-covers/2026/09/01M3Q01DCHR1M2F18EADTH89EF/stablecoin11.png\" /></p><p>AllUnity is launching USDAU, its fourth fiat-backed stablecoin, expanding a MiCA-regulated lineup that already covers the euro, Swiss franc and Swedish krona.</p>",
+    "link": "https://cointelegraph.com/news/allunity-europe-mica-usd-stablecoin-usdau?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+    "published": "Wed, 30 Sep 2026 07:00:00 +0000",
+    "fetched": "2026-09-30T11:49:25.245821"
+  },
+  {
+    "id": "f07e69dbb7f3",
+    "source": "CoinTelegraph",
+    "title": "A single market worth protecting: Getting the MiCA review right",
+    "summary": "<p style=\"float: right; margin: 0 0 10px 15px; width: 240px;\"><img alt=\"A single market worth protecting: Getting the MiCA review right \" class=\"type:primaryImage\" src=\"https://s3-images.ctmedia.io/media/article-covers/2026/09/01M3PGVN8T5865Q6391CM0SM9R/hi-digital-c-man-europe-mica-2.jpg\" /></p><p>As the European Commission\u2019s MiCA review consultation closes, Europe must decide whether its crypto rulebook is protecting the market without making it too costly to build in. </p>",
+    "link": "https://cointelegraph.com/opinion/a-single-market-worth-protecting-getting-the-mica-review-right?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+    "published": "Wed, 30 Sep 2026 11:00:00 +0000",
+    "fetched": "2026-09-30T11:49:25.245752"
+  },
+  {
+    "id": "192dc4641aaf",
     "source": "PYMNTS",
-    "title": "U.S. Bank Launches Cards to Meet Small Business Rewards Demand",
-    "summary": "<p>U.S. Bank has launched two new small business credit cards that are designed to deliver \u201cstraight-forward rewards\u201d on everyday business purchases, the bank said in a Monday (Sept. 28) press release. The new U.S. Bank Business Essentials Visa Card has no annual fee, offers unlimited 2% cash back on everyday business purchases, offers up to [&#8230;]</p>\n<p>The post <a href=\"https://www.pymnts.com/credit-cards/2026/u-s-bank-launches-cards-to-meet-small-business-rewards-demand/\">U.S. Bank Launches Cards to Meet Small Business Rewards Demand</a> appeared first on <a href=\"https://www.pymnts.com",
-    "link": "https://www.pymnts.com/credit-cards/2026/u-s-bank-launches-cards-to-meet-small-business-rewards-demand/",
-    "published": "Tue, 29 Sep 2026 01:32:04 +0000",
-    "fetched": "2026-09-29T12:00:41.915321"
+    "title": "Building the Foundation for Digital Money",
+    "summary": "<p>For years, digital assets were viewed as a parallel financial system, one whose earliest architecture, decentralized finance, was explicitly designed to route value around banks rather than through them. That distinction is rapidly disappearing. Stablecoins, tokenized deposits and other forms of digital money are becoming part of mainstream financial infrastructure, creating new opportunities and new [&#8230;]</p>\n<p>The post <a href=\"https://www.pymnts.com/tracker_posts/building-the-foundation-for-digital-money/\">Building the Foundation for Digital Money</a> appeared first on <a href=\"http",
+    "link": "https://www.pymnts.com/tracker_posts/building-the-foundation-for-digital-money/",
+    "published": "Wed, 30 Sep 2026 08:03:42 +0000",
+    "fetched": "2026-09-30T11:49:24.940869"
   },
   {
-    "id": "8d23b186e680",
+    "id": "83ab89ac9d7f",
     "source": "PYMNTS",
-    "title": "OpenAI Shelves New Model Due to Safety Worries",
-    "summary": "<p>OpenAI is reportedly cancelling the release of its next AI model due to safety concerns. That\u2019s according to a report Monday (Sept. 28) by the Wall Street Journal (WSJ), which calls this one of the clearest indicators to date that agentic AI troubles could slow industry progress.\u00a0 The cancellation comes after months of reports of [&#8230;]</p>\n<p>The post <a href=\"https://www.pymnts.com/news/artificial-intelligence/2026/openai-shelves-new-model-due-to-safety-worries/\">OpenAI Shelves New Model Due to Safety Worries</a> appeared first on <a href=\"https://www.pymnts.com\">PYMNTS.com</a>.</p>",
-    "link": "https://www.pymnts.com/news/artificial-intelligence/2026/openai-shelves-new-model-due-to-safety-worries/",
-    "published": "Tue, 29 Sep 2026 10:52:19 +0000",
-    "fetched": "2026-09-29T12:00:41.915162"
+    "title": "Zilch Looks to Take BNPL Firm Public in 2027",
+    "summary": "<p>U.K. FinTech Zilch is reportedly in discussions with banks as it prepares to go public. The company, whose offerings include buy now, pay later (BNPL) loans, is looking to list on the London Stock Exchange, the Financial Times (FT) reported Wednesday (Sept. 30).\u00a0 Sources familiar with the matter told the FT Zilch recently invited investment [&#8230;]</p>\n<p>The post <a href=\"https://www.pymnts.com/news/investment-tracker/ipo/2026/zilch-looks-to-take-bnpl-firm-public-in-2027/\">Zilch Looks to Take BNPL Firm Public in 2027</a> appeared first on <a href=\"https://www.pymnts.com\">PYMNTS.com</a>.<",
+    "link": "https://www.pymnts.com/news/investment-tracker/ipo/2026/zilch-looks-to-take-bnpl-firm-public-in-2027/",
+    "published": "Wed, 30 Sep 2026 10:19:47 +0000",
+    "fetched": "2026-09-30T11:49:24.940860"
   },
   {
-    "id": "342e05ca2620",
+    "id": "b1baeb0bbf47",
+    "source": "PYMNTS",
+    "title": "OpenAI Aims for $1.4 Trillion Valuation With New Funding",
+    "summary": "<p>OpenAI reportedly hopes to raise up to $30 billion after delaying plans to go public. The artificial intelligence (AI) company is targeting a valuation of roughly $1.4 trillion, not counting new funds raised, Bloomberg News reported Tuesday (Sept. 29), citing sources familiar with the matter.\u00a0 That figure could push OpenAI past rival Anthropic\u2019s most recent [&#8230;]</p>\n<p>The post <a href=\"https://www.pymnts.com/news/artificial-intelligence/2026/openai-aims-for-1-4-trillion-valuation-with-new-funding/\">OpenAI Aims for $1.4 Trillion Valuation With New Funding</a> appeared first on <a href=",
+    "link": "https://www.pymnts.com/news/artificial-intelligence/2026/openai-aims-for-1-4-trillion-valuation-with-new-funding/",
+    "published": "Wed, 30 Sep 2026 10:41:58 +0000",
+    "fetched": "2026-09-30T11:49:24.940833"
+  },
+  {
+    "id": "89b244ef89fc",
     "source": "Finextra",
-    "title": "Broadridge appoints Theo Golden as head of tokenized products, international",
-    "summary": "Broadridge, (NYSE: BR) today announced the appointment of Theo Golden, CFA as Head of Tokenized Product, International, a newly created role.",
-    "link": "https://www.finextra.com/pressarticle/111057/broadridge-appoints-theo-golden-as-head-of-tokenized-products-international?utm_medium=rssfinextra&utm_source=finextrafeed",
-    "published": "Tue, 29 Sep 2026 09:41:00 GMT",
-    "fetched": "2026-09-29T12:00:41.782636"
+    "title": "Brazil's CSD BR to use the XRP Ledger for recording and auditing financial assets and securities",
+    "summary": "CSD BR, a financial market infrastructure authorized to operate as a registrar, central securities depository and settlement system, today announced the first phase of a strategic partnership with Ripple, the leading provider of blockchain solutions across traditional and digital finance.",
+    "link": "https://www.finextra.com/pressarticle/111085/brazils-csd-br-to-use-the-xrp-ledger-for-recording-and-auditing-financial-assets-and-securities?utm_medium=rssfinextra&utm_source=finextrafeed",
+    "published": "Wed, 30 Sep 2026 10:03:00 GMT",
+    "fetched": "2026-09-30T11:49:24.808339"
   },
   {
-    "id": "faa98d1b2eca",
+    "id": "aa29199cbd6e",
     "source": "Finextra",
-    "title": "Icma examines the role of smart contracts in distributed ledger technology in fixed income markets",
-    "summary": "The International Capital Market Association (ICMA) has today published a new discussion paper, \"Smart contracts and DLT-based fixed income markets: What\u2019s next?\", examining the growing role of smart contracts in distributed ledger technology (DLT)-based fixed income markets and the challenges that will need to be addressed as the market develops.",
-    "link": "https://www.finextra.com/pressarticle/111054/icma-examines-the-role-of-smart-contracts-in-distributed-ledger-technology-in-fixed-income-markets?utm_medium=rssfinextra&utm_source=finextrafeed",
-    "published": "Tue, 29 Sep 2026 09:35:00 GMT",
-    "fetched": "2026-09-29T12:00:41.782604"
+    "title": "Kora debuts One Rail to support Pan-African stablecoin transactions",
+    "summary": "Pan-African payment infrastructure provider Kora has announced the launch of One Rail, a significant expansion of its payments infrastructure designed to support stablecoins.",
+    "link": "https://www.finextra.com/pressarticle/111083/kora-debuts-one-rail-to-support-pan-african-stablecoin-transactions?utm_medium=rssfinextra&utm_source=finextrafeed",
+    "published": "Wed, 30 Sep 2026 09:56:00 GMT",
+    "fetched": "2026-09-30T11:49:24.808317"
   },
   {
-    "id": "9354b0d11e6e",
+    "id": "d69d29baadd0",
     "source": "Finextra",
-    "title": "Nubank in talks to take over Monzo",
-    "summary": "Brazilian neobank Nubank is reportedly eyeing a takeover of UK digital bank Monzo, in a deal that would value the British challenger at $10 billion.",
-    "link": "https://www.finextra.com/newsarticle/48484/nubank-in-talks-to-take-over-monzo?utm_medium=rssfinextra&utm_source=finextrafeed",
-    "published": "Mon, 28 Sep 2026 08:51:00 GMT",
-    "fetched": "2026-09-29T12:00:41.782549"
+    "title": "Jeeves raises $110m for stablecoin banking platform",
+    "summary": "Corporate card and expense management platform Jeeves has raised $110 million to scale its stablecoin-native banking platform for global enterprises.",
+    "link": "https://www.finextra.com/newsarticle/48498/jeeves-raises-110m-for-stablecoin-banking-platform?utm_medium=rssfinextra&utm_source=finextrafeed",
+    "published": "Tue, 29 Sep 2026 18:26:00 GMT",
+    "fetched": "2026-09-30T11:49:24.808228"
   },
   {
-    "id": "c109695b7ff6",
+    "id": "e4b94506f828",
     "source": "Finextra",
-    "title": "New forms of intelligent money set to hit traditional bank B2B revenue streams",
-    "summary": "Stablecoins, tokenized deposits, and central bank digital currencies are projected to account for approximately four percent of global payments volume by 2030, diverting vast chunks of income from traditional bank revenue pools.",
-    "link": "https://www.finextra.com/newsarticle/48485/new-forms-of-intelligent-money-set-to-hit-traditional-bank-b2b-revenue-streams?utm_medium=rssfinextra&utm_source=finextrafeed",
-    "published": "Mon, 28 Sep 2026 11:14:00 GMT",
-    "fetched": "2026-09-29T12:00:41.782537"
+    "title": "Sibos 2026: What does sovereignty look like in a multi-rail payments landscape?",
+    "summary": "A hot conversation topic at Sibos this year is interoperability with emerging payments rails, which begs the question of what monetary sovereignty means in a multi-rail digital financial system.",
+    "link": "https://www.finextra.com/newsarticle/48501/sibos-2026-what-does-sovereignty-look-like-in-a-multi-rail-payments-landscape?utm_medium=rssfinextra&utm_source=finextrafeed",
+    "published": "Wed, 30 Sep 2026 00:00:00 GMT",
+    "fetched": "2026-09-30T11:49:24.808220"
   },
   {
-    "id": "0603909efa9c",
+    "id": "ed4c074a789a",
     "source": "Finextra",
-    "title": "BNY unveils Pay-to-Wallet technology option for banks",
-    "summary": "BNY has unveiled a Pay-to-Wallet capability, making it possible for banks to send cross-border payments from bank accounts to participating retail digital wallets, using existing Swift payment messages and correspondent banking infrastructure.",
-    "link": "https://www.finextra.com/newsarticle/48487/bny-unveils-pay-to-wallet-technology-option-for-banks?utm_medium=rssfinextra&utm_source=finextrafeed",
-    "published": "Mon, 28 Sep 2026 14:19:00 GMT",
-    "fetched": "2026-09-29T12:00:41.782518"
+    "title": "SMEs turn from banks to fintechs for cross-border payments",
+    "summary": "Most small and medium-sized businesses (SMEs) trading internationally are set to switch their current cross-border payment provider in the next two years, according to a Mastercard report.",
+    "link": "https://www.finextra.com/newsarticle/48497/smes-turn-from-banks-to-fintechs-for-cross-border-payments?utm_medium=rssfinextra&utm_source=finextrafeed",
+    "published": "Wed, 30 Sep 2026 00:01:00 GMT",
+    "fetched": "2026-09-30T11:49:24.808198"
   },
   {
-    "id": "411504ae4abc",
+    "id": "042c02045f49",
     "source": "Finextra",
-    "title": "Swift provides cross-border gateway to Bizum, PayID and Pix users",
-    "summary": "Swift has launched an initiative to bring the pay-by-alias experience of domestic national payment systems, Bizum, PayID and Pix, to cross-border transactions, enabling consumers to send money internationally using a mobile number or email address, rather than account details.",
-    "link": "https://www.finextra.com/newsarticle/48488/swift-provides-cross-border-gateway-to-bizum-payid-and-pix-users?utm_medium=rssfinextra&utm_source=finextrafeed",
-    "published": "Mon, 28 Sep 2026 14:54:00 GMT",
-    "fetched": "2026-09-29T12:00:41.782506"
+    "title": "Circle and Volante partner to help banks integrate stablecoins into payment operations",
+    "summary": "Payments-as-a-Service specialist Volante Technologies is working with USDC-issuer Circle to  help financial institutions integrate stablecoin payment and settlement capabilities into their existing operations.",
+    "link": "https://www.finextra.com/newsarticle/48496/circle-and-volante-partner-to-help-banks-integrate-stablecoins-into-payment-operations?utm_medium=rssfinextra&utm_source=finextrafeed",
+    "published": "Wed, 30 Sep 2026 00:01:00 GMT",
+    "fetched": "2026-09-30T11:49:24.808189"
   },
   {
-    "id": "6354db9558cc",
+    "id": "bde404081703",
     "source": "Finextra",
-    "title": "Sibos 2026: Keynote speakers explore interoperability, digital assets, and AI",
-    "summary": "Sibos 2026 in Miami kicked off with an introduction to the annual conference by Graeme Munro, chair of the board at Swift.",
-    "link": "https://www.finextra.com/newsarticle/48491/sibos-2026-keynote-speakers-explore-interoperability-digital-assets-and-ai?utm_medium=rssfinextra&utm_source=finextrafeed",
-    "published": "Tue, 29 Sep 2026 00:00:00 GMT",
-    "fetched": "2026-09-29T12:00:41.782475"
+    "title": "Zumo launches UK Crypto Regulation Tracker",
+    "summary": "UK digital asset firm Zumo has launcheed a Crypto Regulation Tracker to help firms cut through red tape and conquer the complexities associated with the incoming comprehensive regulatory regime.",
+    "link": "https://www.finextra.com/newsarticle/48494/zumo-launches-uk-crypto-regulation-tracker?utm_medium=rssfinextra&utm_source=finextrafeed",
+    "published": "Wed, 30 Sep 2026 08:00:00 GMT",
+    "fetched": "2026-09-30T11:49:24.808170"
   },
   {
-    "id": "c21cce8c3f12",
+    "id": "03760db1f45a",
     "source": "Finextra",
-    "title": "ECB invites expressions of interest for digital euro innovation workstreams",
-    "summary": "The European Central Bank is inviting private companies and organisations to join the digital euro innovation platform to collaborate on experiments with new value-added services and explore future technological developments.",
-    "link": "https://www.finextra.com/newsarticle/48490/ecb-invites-expressions-of-interest-for-digital-euro-innovation-workstreams?utm_medium=rssfinextra&utm_source=finextrafeed",
-    "published": "Tue, 29 Sep 2026 00:01:00 GMT",
-    "fetched": "2026-09-29T12:00:41.782464"
+    "title": "Visa and Lloyds complete live trials of stablecoin settlement",
+    "summary": "Visa and Lloyds Banking Group have completed a live pilot exploring how stablecoin-based settlement could support faster, more transparent and flexible cross-border transactions.",
+    "link": "https://www.finextra.com/newsarticle/48503/visa-and-lloyds-complete-live-trials-of-stablecoin-settlement?utm_medium=rssfinextra&utm_source=finextrafeed",
+    "published": "Wed, 30 Sep 2026 09:44:00 GMT",
+    "fetched": "2026-09-30T11:49:24.808138"
   },
   {
-    "id": "750f6bf2db46",
-    "source": "The Block",
-    "title": "Aave V4 on Base adds Coinbase tokenized stocks as collateral for USDC loans",
-    "summary": "Aave V4 added Apple, Nvidia, Tesla, and four more tokenized stocks as collateral for USDC loans for non-U.S. users.",
-    "link": "https://www.theblock.co/news/defi/2026-09-25-aave-v4-on-base-adds-coinbase-tokenized-stocks-as-collateral-for-usdc-loans-416372",
-    "published": "Fri, 25 Sep 2026 14:00:00 +0000",
-    "fetched": "2026-09-29T12:00:41.607298"
+    "id": "68811dfa67d1",
+    "source": "Finextra",
+    "title": "HSBC prepares for the launch of HK$-backed stablecoin, RedCoin",
+    "summary": "HSBC's forthcoming stablecoin launch in Hong Kong will bear the brand RedCoin.",
+    "link": "https://www.finextra.com/newsarticle/48504/hsbc-prepares-for-the-launch-of-hk-backed-stablecoin-redcoin?utm_medium=rssfinextra&utm_source=finextrafeed",
+    "published": "Wed, 30 Sep 2026 11:05:00 GMT",
+    "fetched": "2026-09-30T11:49:24.808111"
   },
   {
-    "id": "5611bdb9d5af",
-    "source": "The Block",
-    "title": "Blockchain Association CEO Summer Mersinger to step down, Kristin Smith to return as interim CEO",
-    "summary": "The Blockchain Association is switching up its leadership with CEO Summer Mersinger set to step down next month.",
-    "link": "https://www.theblock.co/news/regulation/2026-09-25-blockchain-association-ceo-summer-mersinger-tstep-down-kristin-smith-interim-ceo-416913",
-    "published": "Fri, 25 Sep 2026 19:48:07 +0000",
-    "fetched": "2026-09-29T12:00:41.607267"
-  },
-  {
-    "id": "ced5f7098ebc",
-    "source": "The Block",
-    "title": "\u2018It\u2019s really not just a blockchain anymore\u2019: Vitalik Buterin maps Ethereum\u2019s path to 2030",
-    "summary": "Ethereum co-founder Vitalik Buterin said Ethereum is \"really not just a blockchain anymore\" and laid out how its design will change by 2030 in a post.",
-    "link": "https://www.theblock.co/news/ecosystems/2026-09-27-its-really-not-just-a-blockchain-anymore-vitalik-buterin-maps-ethereums-path-to-2030-416953",
-    "published": "Sun, 27 Sep 2026 14:35:53 +0000",
-    "fetched": "2026-09-29T12:00:41.607219"
+    "id": "fe7623922d9c",
+    "source": "Finextra",
+    "title": "Robinhood deepens agentic AI offering in push to become go-to place for active traders",
+    "summary": "At yesterday evening\u2019s HOOD Summit: Engines of Creation, Robinhood chairman and CEO, Vlad Tenev, announced a clutch of new active trading products.",
+    "link": "https://www.finextra.com/newsarticle/48507/robinhood-deepens-agentic-ai-offering-in-push-to-become-go-to-place-for-active-traders?utm_medium=rssfinextra&utm_source=finextrafeed",
+    "published": "Wed, 30 Sep 2026 12:14:00 GMT",
+    "fetched": "2026-09-30T11:49:24.808081"
   },
   {
     "id": "fbd46919ea6d",
@@ -204,7 +213,7 @@
     "summary": "Coinbase is expanding partnership with Citi to provide businesses with infrastructure connecting traditional fiat payments and stablecoins.",
     "link": "https://www.theblock.co/news/business/2026-09-28-citi-coinbase-stablecoin-payments-corporate-clients-417082",
     "published": "Mon, 28 Sep 2026 17:22:06 +0000",
-    "fetched": "2026-09-29T12:00:41.607102"
+    "fetched": "2026-09-30T11:49:24.660467"
   },
   {
     "id": "73c87ec9f381",
@@ -213,16 +222,7 @@
     "summary": "Tether and its stablecoin have become central in \"Iran's shadow banking system,\" according to a new Senate investigation.",
     "link": "https://www.theblock.co/news/regulation/2026-09-28-tethers-usdt-center-iran-shadow-banking-network-new-senate-report-says-417094",
     "published": "Mon, 28 Sep 2026 19:10:42 +0000",
-    "fetched": "2026-09-29T12:00:41.607092"
-  },
-  {
-    "id": "90ab6532f5db",
-    "source": "CoinDesk",
-    "title": "Crypto-friendly institution Franklin Templeton brings its tokenized collateral service to Bybit",
-    "summary": "",
-    "link": "https://www.coindesk.com/business/2026/09/28/crypto-friendly-institution-franklin-templeton-brings-its-tokenized-collateral-service-to-bybit",
-    "published": "Mon, 28 Sep 2026 11:00:00 +0000",
-    "fetched": "2026-09-29T12:00:41.516990"
+    "fetched": "2026-09-30T11:49:24.660458"
   },
   {
     "id": "3a8e7a4cba3d",
@@ -231,7 +231,7 @@
     "summary": "",
     "link": "https://www.coindesk.com/business/2026/09/29/blockchain-com-targets-usd500-million-ipo-at-up-to-usd6-billion-valuation",
     "published": "Tue, 29 Sep 2026 10:13:40 +0000",
-    "fetched": "2026-09-29T12:00:41.516885"
+    "fetched": "2026-09-30T11:49:24.588243"
   },
   {
     "id": "576981bb6e2e",
@@ -240,7 +240,25 @@
     "summary": "",
     "link": "https://www.coindesk.com/markets/2026/09/29/aave-leads-defi-higher-as-crypto-shrugs-off-surging-treasury-yields",
     "published": "Tue, 29 Sep 2026 10:28:51 +0000",
-    "fetched": "2026-09-29T12:00:41.516866"
+    "fetched": "2026-09-30T11:49:24.588226"
+  },
+  {
+    "id": "dadbfe137398",
+    "source": "CoinDesk",
+    "title": "Democrats killed the Clarity Act",
+    "summary": "",
+    "link": "https://www.coindesk.com/opinion/2026/09/29/democrats-killed-the-clarity-act",
+    "published": "Tue, 29 Sep 2026 14:08:18 +0000",
+    "fetched": "2026-09-30T11:49:24.588202"
+  },
+  {
+    "id": "f8e3a8f8602c",
+    "source": "CoinDesk",
+    "title": "Cboe, S&P Dow Jones may explore tokenized options contracts under extended licensing deal",
+    "summary": "",
+    "link": "https://www.coindesk.com/business/2026/09/29/cboe-s-and-p-dow-jones-may-explore-tokenized-options-contracts-under-extended-licensing-deal",
+    "published": "Tue, 29 Sep 2026 18:21:07 +0000",
+    "fetched": "2026-09-30T11:49:24.588182"
   },
   {
     "id": "1bb8a04c96d3",
@@ -249,24 +267,6 @@
     "summary": "",
     "link": "https://www.ecb.europa.eu//press/pr/date/2026/html/ecb.pr260921_1~5a011ecbea.en.html",
     "published": "Mon, 21 Sep 2026 12:00:00 +0200",
-    "fetched": "2026-09-29T12:00:41.137077"
-  },
-  {
-    "id": "4090ad68b367",
-    "source": "Federal Reserve",
-    "title": "Federal Reserve Board requests public comment on two proposals related to establishing a regulatory framework for Board-supervised payment stablecoin issuers under the GENIUS Act",
-    "summary": "Federal Reserve Board requests public comment on two proposals related to establishing a regulatory framework for Board-supervised payment stablecoin issuers under the GENIUS Act",
-    "link": "https://www.federalreserve.gov/newsevents/pressreleases/bcreg20260924a.htm",
-    "published": "Thu, 24 Sep 2026 18:30:00 GMT",
-    "fetched": "2026-09-29T12:00:40.282578"
-  },
-  {
-    "id": "edb026136fdd",
-    "source": "a16z Crypto",
-    "title": "TradFi doesn\u2019t want DeFi. It wants blockchains.",
-    "summary": "How institutions are rebuilding finance from DeFi\u2019s primitives. And why open networks still matter.",
-    "link": "https://a16zcrypto.com/posts/article/tradfi-doesnt-want-defi-it-wants-blockchain",
-    "published": "Tue, 14 Jul 2026 11:46:02 GMT",
-    "fetched": "2026-09-29T12:00:38.951921"
+    "fetched": "2026-09-30T11:49:24.399690"
   }
 ]
