@@ -1,75 +1,12 @@
 [
   {
-    "id": "683d238a5530",
-    "source": "CoinTelegraph",
-    "title": "71% of UK finance leaders expect tokenization to reshape financial services: Lloyds",
-    "summary": "<p style=\"float: right; margin: 0 0 10px 15px; width: 240px;\"><img alt=\"71% of UK finance leaders expect tokenization to reshape financial services: Lloyds\" class=\"type:primaryImage\" src=\"https://s3-images.ctmedia.io/media/article-covers/2026/10/01M3YKMQ9ZKPKNFEAPV81NBPWJ/blockchainweek2020uk1.png\" /></p><p>A Lloyds survey found that faster payments and settlement are the most significant perceived benefits of tokenization, as the UK builds infrastructure for tokenized finance.</p>",
-    "link": "https://cointelegraph.com/news/71-percent-uk-finance-leaders-expect-tokenization-reshape-financial-services-lloyds?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-    "published": "Fri, 02 Oct 2026 16:20:24 +0000",
-    "fetched": "2026-10-05T13:25:23.835129"
-  },
-  {
-    "id": "d4a48a546ba4",
-    "source": "CoinTelegraph",
-    "title": "$4.2B crypto bank Anchorage Digital cuts 17% of workforce: Report",
-    "summary": "<p style=\"float: right; margin: 0 0 10px 15px; width: 240px;\"><img alt=\"$4.2B crypto bank Anchorage Digital cuts 17% of workforce: Report\" class=\"type:primaryImage\" src=\"https://s3-images.ctmedia.io/media/article-covers/2026/10/01M3YXTXPJFKWR2XDKAZGD2DR2/layoffs-fired-human-resource-hr-leaving-quit-1.jpg\" /></p><p>The reported cuts come as Anchorage expands its institutional footprint, including stablecoin issuance and a $100 million investment from Tether.</p>",
-    "link": "https://cointelegraph.com/news/anchorage-digital-cuts-workforce-report?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-    "published": "Fri, 02 Oct 2026 18:41:17 +0000",
-    "fetched": "2026-10-05T13:25:23.835099"
-  },
-  {
-    "id": "2a2773188057",
-    "source": "CoinTelegraph",
-    "title": "European crypto users have \u2018more faith\u2019 in regulated firms under MiCA: Bitpanda co-CEO",
-    "summary": "<p style=\"float: right; margin: 0 0 10px 15px; width: 240px;\"><img alt=\"European crypto users have \u2018more faith\u2019 in regulated firms under MiCA: Bitpanda co-CEO\" class=\"type:primaryImage\" src=\"https://s3-images.ctmedia.io/media/article-covers/2026/10/01M3Z204Z5E8HCQ1YYBGG9YAK4/hi-self-custody-of-cryptocurrencies-is-your-own-wallet-really-safer-for-private-investors.png\" /></p><p>Speaking on Cointelegraph\u2019s Chain Reaction, Christian Trummer said MiCA has increased trust in regulated platforms and called for stricter enforcement against noncompliant firms.</p>",
-    "link": "https://cointelegraph.com/news/mica-strengthened-retail-trust-regulated-crypto-exchanges-bitpanda-ceo-says?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-    "published": "Fri, 02 Oct 2026 20:40:47 +0000",
-    "fetched": "2026-10-05T13:25:23.835090"
-  },
-  {
-    "id": "03915ef87fb3",
-    "source": "CoinTelegraph",
-    "title": "Former SEC boss made AI Czar, Bitcoin may hit $600K this cycle: Hodler\u2019s Digest",
-    "summary": "<p style=\"float: right; margin: 0 0 10px 15px; width: 240px;\"><img alt=\"Former SEC boss made AI Czar, Bitcoin may hit $600K this cycle: Hodler\u2019s Digest\" class=\"type:primaryImage\" src=\"https://s3-images.ctmedia.io/media/article-covers/2026/10/01M44CDHE2CKEJ0000STF6RMVM/october-2-collage-cover.png\" /></p><p>Roman Storm and the XRP army aren\u2019t happy former SEC boss Jay Clayton is Trump\u2019s new AI czar, Peter Brandt flips bullish and says Bitcoin may reach as high as $600K by 2029.</p>",
-    "link": "https://cointelegraph.com/magazine/former-sec-boss-made-ai-czar-bitcoin-may-hit-600k-this-cycle-hodlers-digest?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-    "published": "Sun, 04 Oct 2026 22:31:12 +0000",
-    "fetched": "2026-10-05T13:25:23.834923"
-  },
-  {
-    "id": "e5926c189171",
-    "source": "CoinTelegraph",
-    "title": "Zcash gets a Washington lobbyist to push crypto policy",
-    "summary": "<p style=\"float: right; margin: 0 0 10px 15px; width: 240px;\"><img alt=\"Zcash gets a Washington lobbyist to push crypto policy\" class=\"type:primaryImage\" src=\"https://s3-images.ctmedia.io/media/article-covers/2026/10/01M44PCPNQJ0FDJMVNEEJEXBKG/zcash-1.jpg\" /></p><p>The newly registered lobbying operation lists the CLARITY Act and two digital asset tax proposals among the issues it plans to lobby on in Washington.</p>",
-    "link": "https://cointelegraph.com/news/zcash-gets-a-washington-lobbyist-to-push-crypto-policy?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-    "published": "Mon, 05 Oct 2026 00:35:34 +0000",
-    "fetched": "2026-10-05T13:25:23.834902"
-  },
-  {
-    "id": "95e980c03b04",
-    "source": "CoinTelegraph",
-    "title": "OKX, NYSE parent file to launch tokenized US stock platform",
-    "summary": "<p style=\"float: right; margin: 0 0 10px 15px; width: 240px;\"><img alt=\"OKX, NYSE parent file to launch tokenized US stock platform\" class=\"type:primaryImage\" src=\"https://s3-images.ctmedia.io/media/article-covers/2026/10/01M4525XQ0CWP5J7P1KKQ3CD7J/stock-trading.jpg\" /></p><p>The stock trading platform seeks to offer tokenized shares in more than 60 US-listed companies under the SEC\u2019s recently introduced innovation exemption.</p>",
-    "link": "https://cointelegraph.com/news/okx-nyse-parent-file-to-launch-tokenized-us-stock-platform?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-    "published": "Mon, 05 Oct 2026 03:44:09 +0000",
-    "fetched": "2026-10-05T13:25:23.834863"
-  },
-  {
-    "id": "af6377606c74",
-    "source": "CoinTelegraph",
-    "title": "Kraken parent adds 24/7 dollar settlement with Singapore Gulf Bank",
-    "summary": "<p style=\"float: right; margin: 0 0 10px 15px; width: 240px;\"><img alt=\"Kraken parent adds 24/7 dollar settlement with Singapore Gulf Bank\" class=\"type:primaryImage\" src=\"https://s3-images.ctmedia.io/media/article-covers/2026/10/01M45KJV5VBE5TPQ68MSVPPNMG/hi-how-us-banks-are-quietly-preparing-for-an-onchain-future.jpg\" /></p><p>The partnership will enable select institutions in Asia and the Gulf region to instantly settle US dollar transactions through the bank\u2019s SGB Net</p>",
-    "link": "https://cointelegraph.com/news/payward-partners-singapore-gulf-bank-settlement?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-    "published": "Mon, 05 Oct 2026 08:56:10 +0000",
-    "fetched": "2026-10-05T13:25:23.834812"
-  },
-  {
     "id": "8aa732449321",
     "source": "CoinTelegraph",
     "title": "Vivek Ramaswamy\u2019s gubernatorial run lacks the crypto rhetoric of his presidential bid",
     "summary": "<p style=\"float: right; margin: 0 0 10px 15px; width: 240px;\"><img alt=\"Vivek Ramaswamy\u2019s gubernatorial run lacks the crypto rhetoric of his presidential bid\" class=\"type:primaryImage\" src=\"https://s3-images.ctmedia.io/media/article-covers/2026/09/01M3AA4ZNADXTBYDCDTTV3CT3X/hi-vivek-waving-hello.png\" /></p><p>The Ohio Republican candidate holds a stake in a digital asset manager and received donations from many in the industry, but has avoided making crypto a central campaign issue.</p>",
     "link": "https://cointelegraph.com/news/vivek-ramaswamy-crypto-gubernatorial-campaign?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
     "published": "Mon, 05 Oct 2026 10:11:26 +0000",
-    "fetched": "2026-10-05T13:25:23.834776"
+    "fetched": "2026-10-06T12:39:15.374064"
   },
   {
     "id": "b624e69fe6a2",
@@ -78,7 +15,43 @@
     "summary": "<p style=\"float: right; margin: 0 0 10px 15px; width: 240px;\"><img alt=\"China P2P stablecoin wallets grew 43x despite crypto restrictions: Chainalysis\" class=\"type:primaryImage\" src=\"https://s3-images.ctmedia.io/media/article-covers/2026/10/01M45C7SQN6DV5Z1GMPSEJ4CRN/china-ban-bitcoin.png\" /></p><p>Unique wallets sending P2P stablecoin transactions in China grew 43-fold between Q1 2024 and Q2 2026 as crypto activity increasingly shifted toward direct wallet-to-wallet transfers.</p>",
     "link": "https://cointelegraph.com/news/china-stablecoin-p2p-wallets-crypto-restrictions?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
     "published": "Mon, 05 Oct 2026 13:00:00 +0000",
-    "fetched": "2026-10-05T13:25:23.834689"
+    "fetched": "2026-10-06T12:39:15.374019"
+  },
+  {
+    "id": "193aa190b4ae",
+    "source": "CoinTelegraph",
+    "title": "CFTC joins SEC in proposing crypto framework after failed CLARITY vote",
+    "summary": "<p style=\"float: right; margin: 0 0 10px 15px; width: 240px;\"><img alt=\"CFTC joins SEC in proposing crypto framework after failed CLARITY vote\" class=\"type:primaryImage\" src=\"https://s3-images.ctmedia.io/media/article-covers/2026/10/01M46D7RJ8BZQ9ZZ2SAF1K58DG/analys-analytics-bisiness-man-woman-up-city-takeoff-cftc-1.jpg\" /></p><p>CFTC Chair Michael Selig claimed that the agency was using its \u201cexisting statutory authorities\u201c to address crypto regulation after Congress failed to advance a market structure bill.</p>",
+    "link": "https://cointelegraph.com/news/cftc-proposed-crypto-framework-failed-clarity-vote?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+    "published": "Mon, 05 Oct 2026 17:40:23 +0000",
+    "fetched": "2026-10-06T12:39:15.373926"
+  },
+  {
+    "id": "824febeb6558",
+    "source": "CoinTelegraph",
+    "title": "S&P Global brings risk assessments to growing crypto lending vault sector",
+    "summary": "<p style=\"float: right; margin: 0 0 10px 15px; width: 240px;\"><img alt=\"S&amp;P Global brings risk assessments to growing crypto lending vault sector\" class=\"type:primaryImage\" src=\"https://s3-images.ctmedia.io/media/article-covers/2026/10/01M46DVHDP0PNNPK9656H84WRQ/hi-ai-based-credit-scoring-benefits-and-risks.png\" /></p><p>S&amp;P Global\u2019s new framework evaluates digital asset lending vaults across six risk categories as deposits in the sector climb to about $10 billion. </p>",
+    "link": "https://cointelegraph.com/news/sp-global-launches-risk-assessments-for-10b-crypto-lending-vault-market?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+    "published": "Mon, 05 Oct 2026 17:58:58 +0000",
+    "fetched": "2026-10-06T12:39:15.373900"
+  },
+  {
+    "id": "c6e41f62602e",
+    "source": "CoinTelegraph",
+    "title": "Modern Treasury seeks US trust bank charter for digital asset custody",
+    "summary": "<p style=\"float: right; margin: 0 0 10px 15px; width: 240px;\"><img alt=\"Modern Treasury seeks US trust bank charter for digital asset custody\" class=\"type:primaryImage\" src=\"https://s3-images.ctmedia.io/media/article-covers/2026/10/01M46QKCZ18CWHSEVV2WKRKN0Z/hi-ice-pushes-for-bakkt-bitcoin-custody-license-cftc-approval-imminent1.png\" /></p><p>The payments infrastructure company is seeking federal approval to offer stablecoin custody and related fiat services through a limited-purpose national trust bank. </p>",
+    "link": "https://cointelegraph.com/news/modern-treasury-seeks-us-trust-bank-charter-for-stablecoin-custody?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+    "published": "Mon, 05 Oct 2026 19:53:52 +0000",
+    "fetched": "2026-10-06T12:39:15.373837"
+  },
+  {
+    "id": "5ea82ea52c5d",
+    "source": "CoinTelegraph",
+    "title": "OKX eyes emerging markets with yield-offering stablecoin savings and payments app",
+    "summary": "<p style=\"float: right; margin: 0 0 10px 15px; width: 240px;\"><img alt=\"OKX eyes emerging markets with yield-offering stablecoin savings and payments app\" class=\"type:primaryImage\" src=\"https://s3-images.ctmedia.io/media/article-covers/2026/10/01M45MMRBBBCCYARXBC1TB2KW8/coins-analytics-new-stablecoin.jpg\" /></p><p>OKX Money lets users hold, send and spend dollar-backed stablecoins, with qualifying USDG balances earning up to 10% APY.</p>",
+    "link": "https://cointelegraph.com/news/okx-money-stablecoin-savings-payments-emerging-markets?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+    "published": "Tue, 06 Oct 2026 03:40:00 +0000",
+    "fetched": "2026-10-06T12:39:15.373765"
   },
   {
     "id": "547ccb312a5a",
@@ -86,134 +59,107 @@
     "title": "Here\u2019s what happened in crypto today",
     "summary": "<p style=\"float: right; margin: 0 0 10px 15px; width: 240px;\"><img alt=\"Here\u2019s what happened in crypto today\" class=\"type:primaryImage\" src=\"https://s3-images.ctmedia.io/media/article-covers/article-covers-110589-what-happened-in-crypto-today.jpg\" /></p><p>Need to know what happened in crypto today? Here is the latest news on daily trends and events impacting Bitcoin price, blockchain, DeFi, Web3 and crypto regulation.</p>",
     "link": "https://cointelegraph.com/news/what-happened-in-crypto-today?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-    "published": "Mon, 05 Oct 2026 13:04:57 +0000",
-    "fetched": "2026-10-05T13:25:23.834678"
+    "published": "Tue, 06 Oct 2026 06:00:00 +0000",
+    "fetched": "2026-10-06T12:39:15.373715"
   },
   {
-    "id": "9f5cda3abc7d",
+    "id": "191dfec47370",
+    "source": "CoinTelegraph",
+    "title": "Solana Foundation targets settlement in seconds with DvP launch",
+    "summary": "<p style=\"float: right; margin: 0 0 10px 15px; width: 240px;\"><img alt=\"Solana Foundation targets settlement in seconds with DvP launch\" class=\"type:primaryImage\" src=\"https://s3-images.ctmedia.io/media/article-covers/2026/10/01M4860PG9THHFYD42RP00GSN1/hi-solana-sol-ecosystem-1.jpg\" /></p><p>Solana DvP offers financial institutions an open-source settlement program designed to complete asset transfers and payments in seconds.</p>",
+    "link": "https://cointelegraph.com/news/solana-foundation-settlement-seconds-dvp?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+    "published": "Tue, 06 Oct 2026 09:11:26 +0000",
+    "fetched": "2026-10-06T12:39:15.373661"
+  },
+  {
+    "id": "e2668cb4ea14",
+    "source": "CoinTelegraph",
+    "title": "Ondo opens private markets with tokenized pre-IPO AI exposure",
+    "summary": "<p style=\"float: right; margin: 0 0 10px 15px; width: 240px;\"><img alt=\"Ondo opens private markets with tokenized pre-IPO AI exposure\" class=\"type:primaryImage\" src=\"https://s3-images.ctmedia.io/media/article-covers/2026/10/01M487HXC16SDNYAD6KJFE3J4V/paper-document-man-office-rwa-1.jpg\" /></p><p>Ondo\u2019s tokenized notes will give eligible investors exposure to private companies, with the first tied to an unnamed pre-IPO AI company.</p>",
+    "link": "https://cointelegraph.com/news/ondo-private-markets-tokenized-pre-ipo-ai?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+    "published": "Tue, 06 Oct 2026 09:21:38 +0000",
+    "fetched": "2026-10-06T12:39:15.373649"
+  },
+  {
+    "id": "233d669b0a3c",
+    "source": "CoinTelegraph",
+    "title": "Binance BTC outflows hit highest since mid-2023 as whales deposit stablecoins",
+    "summary": "<p style=\"float: right; margin: 0 0 10px 15px; width: 240px;\"><img alt=\"Binance BTC outflows hit highest since mid-2023 as whales deposit stablecoins\" class=\"type:primaryImage\" src=\"https://s3-images.ctmedia.io/media/article-covers/2026/10/01M489V6KADJ5PEVWVG55W2YFF/hi-quantum-threat-to-bitcoin-80000-btc-just-moved-after-14-years.jpg\" /></p><p>Binance BTC reserves fell by nearly 40,000 coins since Sept. 20 as whales returned stablecoin capital to their exchange wallets.</p>",
+    "link": "https://cointelegraph.com/markets/binance-btc-outflows-hit-highest-since-mid-2023-as-whales-deposit-stablecoins?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+    "published": "Tue, 06 Oct 2026 09:59:12 +0000",
+    "fetched": "2026-10-06T12:39:15.373637"
+  },
+  {
+    "id": "a5a9f59132d4",
+    "source": "CoinTelegraph",
+    "title": "Hong Kong officials double down on end-2026 deadline for crypto licensing bill",
+    "summary": "<p style=\"float: right; margin: 0 0 10px 15px; width: 240px;\"><img alt=\"Hong Kong officials double down on end-2026 deadline for crypto licensing bill\" class=\"type:primaryImage\" src=\"https://s3-images.ctmedia.io/media/article-covers/2026/10/01M489R6N7E1AB2YW1Y7Q9J3JB/hi-how-hong-kong-is-turning-tokenized-bonds-into-real-market-infrastructure-1.jpg\" /></p><p>Hong Kong regulators plan to establish a licensing regime for four categories, including digital asset trading, custody, advisory and management services.</p>",
+    "link": "https://cointelegraph.com/news/hong-kong-govt-end-2026-deadline-crypto-licensing-bill?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+    "published": "Tue, 06 Oct 2026 10:16:55 +0000",
+    "fetched": "2026-10-06T12:39:15.373626"
+  },
+  {
+    "id": "51983d5fdfe7",
     "source": "PYMNTS",
-    "title": "Crypto Dealmaking Jumps 44% Despite Clarity Act Uncertainty",
-    "summary": "<p>Last month, the Senate failed to advance the Clarity Act, a bill designed to establish a regulatory framework for cryptocurrency. And as CoinDesk reported Sunday (Oct. 4), there is a shrinking window for lawmakers to pass the law this year, leaving regulatory bodies to fill the gap and raising questions about the future of crypto [&#8230;]</p>\n<p>The post <a href=\"https://www.pymnts.com/cryptocurrency/2026/crypto-dealmaking-jumps-44-percent-despite-clarity-act-uncertainty/\">Crypto Dealmaking Jumps 44% Despite Clarity Act Uncertainty</a> appeared first on <a href=\"https://www.pymnts.com\">PYM",
-    "link": "https://www.pymnts.com/cryptocurrency/2026/crypto-dealmaking-jumps-44-percent-despite-clarity-act-uncertainty/",
-    "published": "Mon, 05 Oct 2026 00:27:23 +0000",
-    "fetched": "2026-10-05T13:25:23.659138"
+    "title": "Tokenization\u2019s Faster Markets Could Come With a Liquidity Squeeze",
+    "summary": "<p>Watch more: TechReg Talks With Beatrice Fares of DG FISMA and Peter Kerstens of European Commission Tokenization promises to eliminate financial market friction, but it may take new friction to get there. The transition introduces a consequential trade-off. Removing intermediaries and settlement delays could also eliminate mechanisms that financial institutions rely on to manage liquidity, [&#8230;]</p>\n<p>The post <a href=\"https://www.pymnts.com/digital-payments/2026/tokenizations-faster-markets-could-come-with-a-liquidity-squeeze/\">Tokenization\u2019s Faster Markets Could Come With a Liquidity",
+    "link": "https://www.pymnts.com/digital-payments/2026/tokenizations-faster-markets-could-come-with-a-liquidity-squeeze/",
+    "published": "Tue, 06 Oct 2026 08:01:13 +0000",
+    "fetched": "2026-10-06T12:39:14.941459"
   },
   {
-    "id": "f3d7bd29fe11",
+    "id": "f6e215c8b19a",
     "source": "PYMNTS",
-    "title": "OpenPayd Sets Groundwork for 2027 US Stock Market Listing",
-    "summary": "<p>Payments infrastructure firm OpenPayd is reportedly setting the stage to go public in the U.S. The U.K. company expects to list on the Nasdaq by the year\u2019s end as it prepares to enter the America market and embark on new acquisitions, CEO Iana Dimitrova said in an interview with CoinDesk published Sunday (Oct. 4). OpenPayd [&#8230;]</p>\n<p>The post <a href=\"https://www.pymnts.com/news/investment-tracker/ipo/2026/openpayd-sets-groundwork-for-2027-us-stock-market-listing/\">OpenPayd Sets Groundwork for 2027 US Stock Market Listing</a> appeared first on <a href=\"https://www.pymnts.com\">PYMNTS.c",
-    "link": "https://www.pymnts.com/news/investment-tracker/ipo/2026/openpayd-sets-groundwork-for-2027-us-stock-market-listing/",
-    "published": "Mon, 05 Oct 2026 00:51:37 +0000",
-    "fetched": "2026-10-05T13:25:23.659113"
+    "title": "DeepSeek Looks to Raise $12 Billion Ahead of IPO",
+    "summary": "<p>Chinese artificial intelligence startup\u00a0DeepSeek\u00a0is reportedly close to raising $12 billion in a new funding round. That figure would surpass the company\u2019s financing target as it prepares to go public next year, Bloomberg News\u00a0reported Tuesday (Oct. 6). Contemporary Amperex Technology Co. and tech giant Tencent are among the biggest backers in the new round, due to [&#8230;]</p>\n<p>The post <a href=\"https://www.pymnts.com/news/artificial-intelligence/2026/deepseek-looks-to-raise-12-billion-ahead-of-ipo/\">DeepSeek Looks to Raise $12 Billion Ahead of IPO</a> appeared first on <a href=\"https:/",
+    "link": "https://www.pymnts.com/news/artificial-intelligence/2026/deepseek-looks-to-raise-12-billion-ahead-of-ipo/",
+    "published": "Tue, 06 Oct 2026 12:26:25 +0000",
+    "fetched": "2026-10-06T12:39:14.941352"
   },
   {
-    "id": "d800fbeab7c6",
-    "source": "PYMNTS",
-    "title": "Apple IDs iPhone Bug That Requires Device Replacements",
-    "summary": "<p>Apple has reportedly identified a glitch affecting some new iPhone models. The bug applies to a \u201csmall number\u201d of AT&#38;T customers who recently upgraded to the company\u2019s $1,299 iPhone 18 Pro Max, Bloomberg News reported Friday (Oct. 2). These users will need to replace their devices after the glitch caused them to lose cell service. [&#8230;]</p>\n<p>The post <a href=\"https://www.pymnts.com/apple/2026/apple-ids-iphone-bug-that-requires-device-replacements/\">Apple IDs iPhone Bug That Requires Device Replacements</a> appeared first on <a href=\"https://www.pymnts.com\">PYMNTS.com</a>.</p>",
-    "link": "https://www.pymnts.com/apple/2026/apple-ids-iphone-bug-that-requires-device-replacements/",
-    "published": "Mon, 05 Oct 2026 01:08:46 +0000",
-    "fetched": "2026-10-05T13:25:23.659089"
-  },
-  {
-    "id": "c0493e3cb216",
-    "source": "PYMNTS",
-    "title": "Nubank Alum Launches Decade to Give Money an AI Copilot",
-    "summary": "<p>Watch more: Monday Conversation With Decade\u2019s Vitor Olivier Vitor Olivier spent years building the infrastructure behind Nubank, the Brazilian digital bank that gave roughly 100 million people a cheaper, simpler way to handle everyday transactions. Now he is going after the part of financial life that mobile banking\u2019s first wave never touched: investment advice. His [&#8230;]</p>\n<p>The post <a href=\"https://www.pymnts.com/news/investment-tracker/2026/nubank-alum-launches-decade-to-give-money-an-ai-copilot/\">Nubank Alum Launches Decade to Give Money an AI Copilot</a> appeared first on <a hr",
-    "link": "https://www.pymnts.com/news/investment-tracker/2026/nubank-alum-launches-decade-to-give-money-an-ai-copilot/",
-    "published": "Mon, 05 Oct 2026 08:00:46 +0000",
-    "fetched": "2026-10-05T13:25:23.659037"
-  },
-  {
-    "id": "04bbb12befdc",
-    "source": "PYMNTS",
-    "title": "AI Agents Get to Work in Retail",
-    "summary": "<p>Retail competition used to happen on shelves and screens. AI agents are moving it to data feeds and API endpoints. The retailer with the most machine-readable, real-time product data is the one the agent recommends. Everything else is a visibility problem. That shift is already underway. AI agents are personalizing recommendations, auto-replenishing inventory, and completing [&#8230;]</p>\n<p>The post <a href=\"https://www.pymnts.com/news/artificial-intelligence/2026/ai-agents-get-to-work-in-retail/\">AI Agents Get to Work in Retail</a> appeared first on <a href=\"https://www.pymnts.com\">PYMNTS",
-    "link": "https://www.pymnts.com/news/artificial-intelligence/2026/ai-agents-get-to-work-in-retail/",
-    "published": "Mon, 05 Oct 2026 08:00:47 +0000",
-    "fetched": "2026-10-05T13:25:23.659012"
-  },
-  {
-    "id": "beac1d8ad64c",
-    "source": "PYMNTS",
-    "title": "Going Global Exposes Payments\u2019 Weak Spots",
-    "summary": "<p>Watch more: Need to Know With Spreedly\u2019s Nick Daley Selling in another country can force a merchant to find out how much growth its payments infrastructure can actually support. New markets bring local payment preferences, new providers and different transaction economics, while every connection adds another system that has to be integrated, reconciled and maintained. [&#8230;]</p>\n<p>The post <a href=\"https://www.pymnts.com/news/cross-border-payments/2026/going-global-exposes-payments-weak-spots/\">Going Global Exposes Payments\u2019 Weak Spots</a> appeared first on <a href=\"https://www.pymnts.c",
-    "link": "https://www.pymnts.com/news/cross-border-payments/2026/going-global-exposes-payments-weak-spots/",
-    "published": "Mon, 05 Oct 2026 08:01:18 +0000",
-    "fetched": "2026-10-05T13:25:23.658991"
-  },
-  {
-    "id": "cd6019a3c615",
+    "id": "a12032eeafb3",
     "source": "Finextra",
-    "title": "How Can Digital Assets Bridge the Bank Modernisation Gap?",
-    "summary": "At Sibos 2026, Capgemini\u2019s Gareth Wilson talks about the ongoing challenges with modernisation in banking as customer expectations, regulation and competition continue to evolve.",
-    "link": "https://www.finextra.com/videoarticle/3603/how-can-digital-assets-bridge-the-bank-modernisation-gap?utm_medium=rssfinextra&utm_source=finextrafeed",
-    "published": "Fri, 02 Oct 2026 15:00:00 GMT",
-    "fetched": "2026-10-05T13:25:23.552335"
+    "title": "Tokenization and Digital Assets: What is the Real End Goal?",
+    "summary": "At Sibos 2026, Swift\u2019s Jack Pouderoyen reveals how a new blockchain ledger solves tokenization fragmentation for 24/7 global settlements.",
+    "link": "https://www.finextra.com/videoarticle/3605/tokenization-and-digital-assets-what-is-the-real-end-goal?utm_medium=rssfinextra&utm_source=finextrafeed",
+    "published": "Tue, 06 Oct 2026 11:00:00 GMT",
+    "fetched": "2026-10-06T12:39:14.799762"
   },
   {
-    "id": "98c2d691688b",
+    "id": "546dc69c8049",
     "source": "Finextra",
-    "title": "Consortium launched for euro stablecoin adoption",
-    "summary": "European digital-finance companies, joined by Nasdaq-listed etoro, today announced the formation of the Eur\u00f8pe Consortium, an industry-led coalition intended to accelerate the practical adoption of euro-denominated onchain finance.",
-    "link": "https://www.finextra.com/pressarticle/111126/consortium-launched-for-euro-stablecoin-adoption?utm_medium=rssfinextra&utm_source=finextrafeed",
-    "published": "Mon, 05 Oct 2026 13:05:00 GMT",
-    "fetched": "2026-10-05T13:25:23.552271"
+    "title": "Crypto echange OKX launches standalone app",
+    "summary": "OKX, a leading global cryptocurrency exchange and onchain technology company with more than 150 million customers worldwide, today announced the launch of OKX Money, a standalone app that lets people save, send and spend digital dollars.",
+    "link": "https://www.finextra.com/pressarticle/111147/crypto-echange-okx-launches-standalone-app?utm_medium=rssfinextra&utm_source=finextrafeed",
+    "published": "Tue, 06 Oct 2026 13:17:00 GMT",
+    "fetched": "2026-10-06T12:39:14.799716"
   },
   {
-    "id": "ed1b23a59310",
+    "id": "e208672db423",
     "source": "Finextra",
-    "title": "Moorwand to issue new multi-currency Tap card",
-    "summary": "Tap Global Group plc (AIM: TAP, OTCID: TAPIF), the regulated digital finance platform, announces that it has appointed Moorwand Ltd (\"Moorwand\") as issuer and Bank Identification Number (\"BIN\") sponsor for a new Tap Mastercard programme.",
-    "link": "https://www.finextra.com/pressarticle/111125/moorwand-to-issue-new-multi-currency-tap-card?utm_medium=rssfinextra&utm_source=finextrafeed",
-    "published": "Mon, 05 Oct 2026 13:10:00 GMT",
-    "fetched": "2026-10-05T13:25:23.552261"
+    "title": "BNP Paribas SS implements Proxymity's Vote Connect",
+    "summary": "BNP Paribas\u2019 Securities Services business, a leading global custodian with USD 17.5 trillion in assets under custody1, today announces the implementation of Proxymity\u2019s Vote Connect Global solution as part of its general meetings services for global custody clients across EMEA and Asia Pacific, directly connecting issuers, intermediaries and investors through a near real-time, transparent and efficient digital ecosystem.",
+    "link": "https://www.finextra.com/pressarticle/111146/bnp-paribas-ss-implements-proxymitys-vote-connect?utm_medium=rssfinextra&utm_source=finextrafeed",
+    "published": "Tue, 06 Oct 2026 10:51:00 GMT",
+    "fetched": "2026-10-06T12:39:14.799705"
   },
   {
-    "id": "ef5ed8db03af",
+    "id": "0af1536cce36",
     "source": "Finextra",
-    "title": "CRX Trade launches platform for crypto-trading hedge funds",
-    "summary": "CRX Trade, the Swiss institutional prime brokerage for digital assets, today launched a platform that gives hedge funds and trading firms a single account spanning the leading crypto exchanges and traditional US markets.",
-    "link": "https://www.finextra.com/pressarticle/111122/crx-trade-launches-platform-for-crypto-trading-hedge-funds?utm_medium=rssfinextra&utm_source=finextrafeed",
-    "published": "Mon, 05 Oct 2026 10:45:00 GMT",
-    "fetched": "2026-10-05T13:25:23.552224"
+    "title": "HSBC and Ant International expand treasury management services in Middle East",
+    "summary": "Ant International today announced an expanded collaboration with HSBC to enhance real-time treasury management services in the Middle East.",
+    "link": "https://www.finextra.com/pressarticle/111145/hsbc-and-ant-international-expand-treasury-management-services-in-middle-east?utm_medium=rssfinextra&utm_source=finextrafeed",
+    "published": "Tue, 06 Oct 2026 10:42:00 GMT",
+    "fetched": "2026-10-06T12:39:14.799679"
   },
   {
-    "id": "72e4c3cb4dd8",
+    "id": "55eec777fb38",
     "source": "Finextra",
-    "title": "Australia's WeMoney launches AI and open banking-powered lending assessment service",
-    "summary": "Australia's WeMoney has launched an AI-powered lending assessment service built on the country's Consumer Data Right.",
-    "link": "https://www.finextra.com/newsarticle/48525/australias-wemoney-launches-ai-and-open-banking-powered-lending-assessment-service?utm_medium=rssfinextra&utm_source=finextrafeed",
-    "published": "Fri, 02 Oct 2026 00:01:00 GMT",
-    "fetched": "2026-10-05T13:25:23.552147"
-  },
-  {
-    "id": "f3d20b34adfb",
-    "source": "Finextra",
-    "title": "Monarch acquires HMBradley",
-    "summary": "Personal finance platform Monarch has acquired MBI, the digital banking fintech formerly known as HMBradley.",
-    "link": "https://www.finextra.com/newsarticle/48523/monarch-acquires-hmbradley?utm_medium=rssfinextra&utm_source=finextrafeed",
-    "published": "Fri, 02 Oct 2026 00:01:00 GMT",
-    "fetched": "2026-10-05T13:25:23.552138"
-  },
-  {
-    "id": "2c29d8321b1d",
-    "source": "Finextra",
-    "title": "Community finance and open banking technology can support \u2018credit invisibles\u2019 \u2013 Salad Finance",
-    "summary": "People with low credit, whether due to a missed payment or a period of financial insecurity, are often disproportionately punished by the financial system by not being given loans, credit cards, and other forms of consumer credit.",
-    "link": "https://www.finextra.com/newsarticle/48515/community-finance-and-open-banking-technology-can-support-credit-invisibles--salad-finance?utm_medium=rssfinextra&utm_source=finextrafeed",
-    "published": "Mon, 05 Oct 2026 07:00:00 GMT",
-    "fetched": "2026-10-05T13:25:23.552087"
-  },
-  {
-    "id": "59621559c19e",
-    "source": "Finextra",
-    "title": "APAC consumers show appetite for stablecoin",
-    "summary": "Almost half of consumers in Asia Pacific would be willing to use stablecoins in the next five years, according to recently published research from Visa",
-    "link": "https://www.finextra.com/newsarticle/48529/apac-consumers-show-appetite-for-stablecoin?utm_medium=rssfinextra&utm_source=finextrafeed",
-    "published": "Mon, 05 Oct 2026 10:50:00 GMT",
-    "fetched": "2026-10-05T13:25:23.552058"
+    "title": "Qupital launches onchain e-commerce lending protocol",
+    "summary": "Qupital, Asia's leading AI-driven fintech platform specializing in cross-border e-commerce trade finance, today announced the official launch of the world's first AI-driven on-chain e-commerce lending protocol.",
+    "link": "https://www.finextra.com/pressarticle/111141/qupital-launches-onchain-e-commerce-lending-protocol?utm_medium=rssfinextra&utm_source=finextrafeed",
+    "published": "Tue, 06 Oct 2026 09:29:00 GMT",
+    "fetched": "2026-10-06T12:39:14.799632"
   },
   {
     "id": "2d23602965de",
@@ -222,43 +168,43 @@
     "summary": "The US Securities and Exchange Commission has proposed new rules designed to establish a dedicated legal framework for crypto custody within the wealth management and advisory market",
     "link": "https://www.finextra.com/newsarticle/48530/sec-publishes-new-crypto-custody-rules?utm_medium=rssfinextra&utm_source=finextrafeed",
     "published": "Mon, 05 Oct 2026 11:46:00 GMT",
-    "fetched": "2026-10-05T13:25:23.552048"
+    "fetched": "2026-10-06T12:39:14.799589"
   },
   {
-    "id": "55b89c5a25c6",
-    "source": "The Block",
-    "title": "Hyperliquid Policy Center, Circle press EU on perps and stablecoin reserves in MiCA review",
-    "summary": "Hyperliquid's policy group wants perps under MiFID II, while Circle targets MiCA's bank deposit floor in filings to the European Commission's MiCA review.",
-    "link": "https://www.theblock.co/news/regulation/2026-10-01-hyperliquid-circle-mica-review-417452",
-    "published": "Thu, 01 Oct 2026 19:10:36 +0000",
-    "fetched": "2026-10-05T13:25:23.380699"
+    "id": "8e15bebb7ce1",
+    "source": "Finextra",
+    "title": "Morgan Stanley sets up digital asset lab",
+    "summary": "Morgan Stanley has built a digital asset lab where it can test things like stablecoins, tokenisation and decentralised finance applications.",
+    "link": "https://www.finextra.com/newsarticle/48536/morgan-stanley-sets-up-digital-asset-lab?utm_medium=rssfinextra&utm_source=finextrafeed",
+    "published": "Mon, 05 Oct 2026 18:24:00 GMT",
+    "fetched": "2026-10-06T12:39:14.799533"
   },
   {
-    "id": "cc41beff2e72",
-    "source": "The Block",
-    "title": "SEC proposes framework allowing investment advisers, funds to self-custody crypto",
-    "summary": "SEC proposed a crypto framework for investment advisers &amp; funds, allowing self-custody in some cases &amp; state trust companies as custodians.",
-    "link": "https://www.theblock.co/news/regulation/2026-10-01-sec-proposes-crypto-custody-rule-investment-advisers-funds-417498",
-    "published": "Thu, 01 Oct 2026 21:00:53 +0000",
-    "fetched": "2026-10-05T13:25:23.380691"
+    "id": "471449949112",
+    "source": "Finextra",
+    "title": "Anchorage Digital expands global services with Standard Chartered",
+    "summary": "Digital asset custody services provider Anchorage Digital has formed a partnership with Standard Chartered through which it will offer USD accounts and access to Swift wires, including transfers to and from third parties, to eligible non-US institutional clients.",
+    "link": "https://www.finextra.com/newsarticle/48535/anchorage-digital-expands-global-services-with-standard-chartered?utm_medium=rssfinextra&utm_source=finextrafeed",
+    "published": "Tue, 06 Oct 2026 00:01:00 GMT",
+    "fetched": "2026-10-06T12:39:14.799526"
   },
   {
-    "id": "708a7bc52072",
-    "source": "The Block",
-    "title": "SEC\u2019s innovation exemption poses constraint on bringing stock tokens to US, Robinhood crypto chief says",
-    "summary": "Robinhood's Johann Kerbrat told The Block that Robinhood is still working through the SEC's latest innovation exemption on tokenized stocks.",
-    "link": "https://www.theblock.co/news/regulation/2026-10-02-secs-innovation-exemption-robinhood-417538",
-    "published": "Fri, 02 Oct 2026 05:04:41 +0000",
-    "fetched": "2026-10-05T13:25:23.380666"
+    "id": "1e27d290a021",
+    "source": "Finextra",
+    "title": "ANZ completes cross-border tokenised deposit payment with Swift ledger",
+    "summary": "Australia's ANZ has carried out a live corporate treasury transactions using tokenised deposits and Swift\u2019s blockchain ledger.",
+    "link": "https://www.finextra.com/newsarticle/48534/anz-completes-cross-border-tokenised-deposit-payment-with-swift-ledger?utm_medium=rssfinextra&utm_source=finextrafeed",
+    "published": "Tue, 06 Oct 2026 00:01:00 GMT",
+    "fetched": "2026-10-06T12:39:14.799510"
   },
   {
-    "id": "8b5c80a01800",
-    "source": "The Block",
-    "title": "ECB outlines three models for putting central bank money onchain",
-    "summary": "The ECB outlined three models for bringing central bank money onchain as financial institutions explore settlement infrastructure.",
-    "link": "https://www.theblock.co/news/regulation/2026-10-02-ecb-outlines-three-models-for-putting-central-bank-money-onchain-417552",
-    "published": "Fri, 02 Oct 2026 10:17:39 +0000",
-    "fetched": "2026-10-05T13:25:23.380645"
+    "id": "1428e57c4441",
+    "source": "Finextra",
+    "title": "DNB to lay off 400 and expand use of AI agents",
+    "summary": "Norway's biggest bank, DNB, is set to lay off 400 staff in its technology teams while it increases its investment in AI agents.",
+    "link": "https://www.finextra.com/newsarticle/48538/dnb-to-lay-off-400-and-expand-use-of-ai-agents?utm_medium=rssfinextra&utm_source=finextrafeed",
+    "published": "Tue, 06 Oct 2026 11:13:00 GMT",
+    "fetched": "2026-10-06T12:39:14.799477"
   },
   {
     "id": "eee1e905cba8",
@@ -267,6 +213,60 @@
     "summary": "BitGo CEO Mike Belshe warned that Clarity's failure left systemic risks arising from one firm holding exchange, brokerage, and custody functions.",
     "link": "https://www.theblock.co/news/regulation/2026-10-02-mike-belshe-bitgo-interview-clarity-417560",
     "published": "Fri, 02 Oct 2026 12:28:54 +0000",
-    "fetched": "2026-10-05T13:25:23.380634"
+    "fetched": "2026-10-06T12:39:14.260489"
+  },
+  {
+    "id": "c6f0291be42f",
+    "source": "The Block",
+    "title": "OKX, NYSE parent ICE joint venture seeks to launch tokenized US stock trading venue",
+    "summary": "OKXICE has notified the SEC that it intends to launch a tokenized securities trading venue under the innovation exemption.",
+    "link": "https://www.theblock.co/news/business/2026-10-05-okx-ice-joint-venture-tokenized-stock-trading-417613",
+    "published": "Mon, 05 Oct 2026 06:38:24 +0000",
+    "fetched": "2026-10-06T12:39:14.260448"
+  },
+  {
+    "id": "cd928fd1e14d",
+    "source": "The Block",
+    "title": "Visa, CoinShares find growing crypto appetite among consumers and affluent investors",
+    "summary": "Visa and CoinShares surveys show rising stablecoin interest in Asia Pacific alongside strong digital-asset ownership among affluent investors.",
+    "link": "https://www.theblock.co/news/business/2026-10-05-visa-coinshares-find-growing-crypto-appetite-among-consumers-and-affluent-investors-417642",
+    "published": "Mon, 05 Oct 2026 12:01:06 +0000",
+    "fetched": "2026-10-06T12:39:14.260433"
+  },
+  {
+    "id": "8f283bd35bdf",
+    "source": "The Block",
+    "title": "DeFi Development sees NAV per share more than doubling, holds 2.56 million SOL",
+    "summary": "DFDV says preliminary Q3 estimates show NAV per share more than doubled as its Solana treasury grew to 2.56 million SOL.",
+    "link": "https://www.theblock.co/news/markets/2026-10-05-defi-development-nav-per-share-doubles-2-56-million-sol-417674",
+    "published": "Mon, 05 Oct 2026 14:33:14 +0000",
+    "fetched": "2026-10-06T12:39:14.260385"
+  },
+  {
+    "id": "e41f5c820754",
+    "source": "The Block",
+    "title": "Ondo launches onchain private-company exposure, starting with AI",
+    "summary": "Ondo Finance launched a private-markets platform with tokenized notes tied initially to a pre-IPO artificial intelligence company.",
+    "link": "https://www.theblock.co/news/business/2026-10-06-ondo-launches-onchain-private-company-exposure-starting-with-ai-417762",
+    "published": "Tue, 06 Oct 2026 09:38:28 +0000",
+    "fetched": "2026-10-06T12:39:14.260329"
+  },
+  {
+    "id": "ad138116ba7e",
+    "source": "The Block",
+    "title": "Spiko raises $90 million to expand tokenized cash funds across markets",
+    "summary": "Spiko raised $90 million in Series B funding to scale its $2.7 billion tokenized cash fund business and expand into new markets.",
+    "link": "https://www.theblock.co/news/business/2026-10-06-spiko-raises-90-million-to-expand-tokenized-cash-funds-across-markets-417774",
+    "published": "Tue, 06 Oct 2026 10:58:29 +0000",
+    "fetched": "2026-10-06T12:39:14.260310"
+  },
+  {
+    "id": "5bcd2b7cd505",
+    "source": "CoinDesk",
+    "title": "Kraken operator Payward and Singapore Gulf Bank partner for 24/7 institutional crypto settlement",
+    "summary": "",
+    "link": "https://www.coindesk.com/business/2026/10/05/kraken-operator-payward-and-singapore-gulf-bank-platform-for-24-7-institutional-crypto-settlement",
+    "published": "Mon, 05 Oct 2026 09:26:24 +0000",
+    "fetched": "2026-10-06T12:39:14.151396"
   }
 ]
