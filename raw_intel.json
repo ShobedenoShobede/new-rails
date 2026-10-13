@@ -1,75 +1,12 @@
 [
   {
-    "id": "28eba9140677",
-    "source": "CoinTelegraph",
-    "title": "HSBC, Ant Digital test AI-agent payments using tokenized deposits",
-    "summary": "<p style=\"float: right; margin: 0 0 10px 15px; width: 240px;\"><img alt=\"HSBC, Ant Digital test AI-agent payments using tokenized deposits\" class=\"type:primaryImage\" src=\"https://s3-images.ctmedia.io/media/article-covers/2026/10/01M4GS7BG4ZGWXJ6GRW1QETMHP/hi-trading-bots-vs-ai-agents-everything-you-need-to-know2-3.png\" /></p><p>The technical trial showed how AI agents could discover services and make micropayments using HSBC\u2019s tokenized deposits, with real-time settlement and risk checks.</p>",
-    "link": "https://cointelegraph.com/news/hsbc-ant-digital-test-ai-agent-payments-using-tokenized-deposits?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-    "published": "Fri, 09 Oct 2026 17:21:07 +0000",
-    "fetched": "2026-10-12T14:15:14.164202"
-  },
-  {
-    "id": "18ff7abc0faf",
-    "source": "CoinTelegraph",
-    "title": "New York permanently bars Celsius founder Mashinsky in $35M fraud settlement",
-    "summary": "<p style=\"float: right; margin: 0 0 10px 15px; width: 240px;\"><img alt=\"New York permanently bars Celsius founder Mashinsky in $35M fraud settlement\" class=\"type:primaryImage\" src=\"https://s3-images.ctmedia.io/media/article-covers/2026/10/01M4H3BAEH9JKD3WDH6MG84JNW/interviewalex-mashinsky2.png\" /></p><p>The agreement resolves a 2023 civil fraud lawsuit against the Celsius founder and permanently bars him from the cryptocurrency, securities and commodities industries.</p>",
-    "link": "https://cointelegraph.com/news/celsius-founder-alex-mashinsky-permanently-banned-from-crypto-industry-in-ny-settlement?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-    "published": "Fri, 09 Oct 2026 20:14:02 +0000",
-    "fetched": "2026-10-12T14:15:14.164175"
-  },
-  {
-    "id": "6d0310bf92c7",
-    "source": "CoinTelegraph",
-    "title": "US plans to seize $1B in crypto linked to Iran this week: Scott Bessent",
-    "summary": "<p style=\"float: right; margin: 0 0 10px 15px; width: 240px;\"><img alt=\"US plans to seize $1B in crypto linked to Iran this week: Scott Bessent\" class=\"type:primaryImage\" src=\"https://s3-images.ctmedia.io/media/article-covers/2026/10/01M4H3BG1JYYXKKGEB4KD8923P/hi-us-has-seized-iranian-crypto-1.jpg\" /></p><p>The Treasury Department has announced several digital asset seizures related to sanctions on Iran as part of US sanctions.</p>",
-    "link": "https://cointelegraph.com/news/scott-bessent-us-seize-crypto-iran-sanctions?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-    "published": "Fri, 09 Oct 2026 20:39:17 +0000",
-    "fetched": "2026-10-12T14:15:14.164162"
-  },
-  {
-    "id": "0db5ea92750c",
-    "source": "CoinTelegraph",
-    "title": "Ledger attack spreads to EU, AI finds \u201918 trillion XRP\u2019 bug: Hodler\u2019s Digest",
-    "summary": "<p style=\"float: right; margin: 0 0 10px 15px; width: 240px;\"><img alt=\"Ledger attack spreads to EU, AI finds \u201918 trillion XRP\u2019 bug: Hodler\u2019s Digest \" class=\"type:primaryImage\" src=\"https://s3-images.ctmedia.io/media/article-covers/2026/10/01M4PCWNDZ4KC7D9SH89H62G5A/updated-cover-collage-oct-9.png\" /></p><p>An user reports buying a tampered Ledger from a big retailer in Europe. Security researchers use AI to uncover a \u201c$94 billion\u201d XRP bug \u2014 but receive just a $250K bounty. </p>",
-    "link": "https://cointelegraph.com/magazine/ledger-attack-spreads-to-eu-ai-finds-18-trillion-xrp-bug-hodlers-digest?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-    "published": "Sun, 11 Oct 2026 22:57:53 +0000",
-    "fetched": "2026-10-12T14:15:14.163965"
-  },
-  {
-    "id": "069c4f417f5e",
-    "source": "CoinTelegraph",
-    "title": "DATA Network to migrate to Sui, retire own chain",
-    "summary": "<p style=\"float: right; margin: 0 0 10px 15px; width: 240px;\"><img alt=\"DATA Network to migrate to Sui, retire own chain \" class=\"type:primaryImage\" src=\"https://s3-images.ctmedia.io/media/article-covers/2026/10/01M4Q7JSD7Z2H5EKPCK19PNAQK/blockchain-2.jpg\" /></p><p>The migration is backed by a $30 million investment from Sui Foundation.</p>",
-    "link": "https://cointelegraph.com/news/data-network-to-migrate-to-sui-retire-its-own-chain?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-    "published": "Mon, 12 Oct 2026 05:15:43 +0000",
-    "fetched": "2026-10-12T14:15:14.163909"
-  },
-  {
-    "id": "a24b1bfdbfbb",
-    "source": "CoinTelegraph",
-    "title": "Global watchdog flags stablecoin risks, AI threats ahead of G20",
-    "summary": "<p style=\"float: right; margin: 0 0 10px 15px; width: 240px;\"><img alt=\"Global watchdog flags stablecoin risks, AI threats ahead of G20\" class=\"type:primaryImage\" src=\"https://s3-images.ctmedia.io/media/article-covers/2026/10/01M4QBHGDKZ7W5F58K506PQBRF/g20-meeting.png\" /></p><p>The Financial Stability Board flagged cross-border stablecoin risks and AI-related cybersecurity threats while urging G20 policymakers to support stronger safeguards.</p>",
-    "link": "https://cointelegraph.com/news/fsb-stablecoin-ai-risks-g20-finance-meeting?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-    "published": "Mon, 12 Oct 2026 06:30:21 +0000",
-    "fetched": "2026-10-12T14:15:14.163895"
-  },
-  {
-    "id": "801087e5e072",
-    "source": "CoinTelegraph",
-    "title": "South Korean bank launches Bitcoin-backed business loans: Report",
-    "summary": "<p style=\"float: right; margin: 0 0 10px 15px; width: 240px;\"><img alt=\"South Korean bank launches Bitcoin-backed business loans: Report\" class=\"type:primaryImage\" src=\"https://s3-images.ctmedia.io/media/article-covers/2026/10/01M4QKGRPPCEHYJ6JB01H5VKKA/south-korea-bank.png\" /></p><p>Jeonbuk Bank reportedly began offering Bitcoin-backed loans to corporate customers, with a third-party custodian holding the cryptocurrency used as collateral.</p>",
-    "link": "https://cointelegraph.com/news/south-korea-jeonbuk-bank-bitcoin-backed-business-loans?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-    "published": "Mon, 12 Oct 2026 08:45:58 +0000",
-    "fetched": "2026-10-12T14:15:14.163888"
-  },
-  {
     "id": "f0c8450bfd75",
     "source": "CoinTelegraph",
     "title": "Standard Chartered adds Ripple USD custody, eyes LMAX collateral deal",
     "summary": "<p style=\"float: right; margin: 0 0 10px 15px; width: 240px;\"><img alt=\"Standard Chartered adds Ripple USD custody, eyes LMAX collateral deal \" class=\"type:primaryImage\" src=\"https://s3-images.ctmedia.io/media/article-covers/2026/10/01M4QN28R2EHW4F96B10PK4FS6/hi-ripple-labs-rlusd-stablecoin-everything-you-need-to-know-1.jpg\" /></p><p>Standard Chartered has launched custody for Ripple\u2019s RLUSD stablecoin on the XRP Ledger and plans to let institutions use the tokens as trading collateral.</p>",
     "link": "https://cointelegraph.com/news/standard-chartered-rlusd-custody-lmax-deal?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
     "published": "Mon, 12 Oct 2026 09:30:57 +0000",
-    "fetched": "2026-10-12T14:15:14.163871"
+    "fetched": "2026-10-13T13:25:00.038827"
   },
   {
     "id": "4675724b270e",
@@ -78,7 +15,7 @@
     "summary": "<p style=\"float: right; margin: 0 0 10px 15px; width: 240px;\"><img alt=\"Kraken parent clears Dubai\u2019s final hurdle for dirham trading rollout\" class=\"type:primaryImage\" src=\"https://s3-images.ctmedia.io/media/article-covers/2026/10/01M4QPPQ7MEQR102YQ3DC7RK03/hi-overview-of-crypto-in-the-uae-kraken.jpg\" /></p><p>Payward received full market approval from Dubai\u2019s VARA to expand its digital asset services in the UAE, building on the preliminary approval received in May.\n</p>",
     "link": "https://cointelegraph.com/news/kraken-receives-vara-approval-uae-expansion?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
     "published": "Mon, 12 Oct 2026 09:41:17 +0000",
-    "fetched": "2026-10-12T14:15:14.163858"
+    "fetched": "2026-10-13T13:25:00.038815"
   },
   {
     "id": "c82773f6ce0f",
@@ -87,16 +24,7 @@
     "summary": "<p style=\"float: right; margin: 0 0 10px 15px; width: 240px;\"><img alt=\"Australia proposes leverage caps for crypto-settled derivatives\" class=\"type:primaryImage\" src=\"https://s3-images.ctmedia.io/media/article-covers/2026/10/01M4QWSHXW7QGDJW1DDTNHBJ0X/cfds.png\" /></p><p>ASIC\u2019s proposal would extend leverage limits and protections against negative balances to certain derivatives settled in digital assets.</p>",
     "link": "https://cointelegraph.com/news/australia-asic-crypto-settled-cfd-protections?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
     "published": "Mon, 12 Oct 2026 11:41:58 +0000",
-    "fetched": "2026-10-12T14:15:14.163814"
-  },
-  {
-    "id": "547ccb312a5a",
-    "source": "CoinTelegraph",
-    "title": "Here\u2019s what happened in crypto today",
-    "summary": "<p style=\"float: right; margin: 0 0 10px 15px; width: 240px;\"><img alt=\"Here\u2019s what happened in crypto today\" class=\"type:primaryImage\" src=\"https://s3-images.ctmedia.io/media/article-covers/article-covers-110589-what-happened-in-crypto-today.jpg\" /></p><p>Need to know what happened in crypto today? Here is the latest news on daily trends and events impacting Bitcoin price, blockchain, DeFi, Web3 and crypto regulation.</p>",
-    "link": "https://cointelegraph.com/news/what-happened-in-crypto-today?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-    "published": "Mon, 12 Oct 2026 12:46:51 +0000",
-    "fetched": "2026-10-12T14:15:14.163762"
+    "fetched": "2026-10-13T13:25:00.038773"
   },
   {
     "id": "80cbbe526009",
@@ -105,43 +33,115 @@
     "summary": "<p style=\"float: right; margin: 0 0 10px 15px; width: 240px;\"><img alt=\"Ledger implant tests Bitcoin ETFs as safer custodial solutions than hardware wallets \" class=\"type:primaryImage\" src=\"https://s3-images.ctmedia.io/media/article-covers/2026/10/01M4R688Z9BFT3CGH1NFQ6QZ8X/hi-ledger3.jpg\" /></p><p>The discovery of an unauthorized Ledger hardware implant reignited debate on whether Bitcoin ETFs are safer than self-custodying Bitcoin via hardware wallet devices.</p>",
     "link": "https://cointelegraph.com/news/ledger-implant-bitcoin-etfs-hardware-wallets?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
     "published": "Mon, 12 Oct 2026 14:07:00 +0000",
-    "fetched": "2026-10-12T14:15:14.163742"
+    "fetched": "2026-10-13T13:25:00.038722"
   },
   {
-    "id": "2810c23c482d",
-    "source": "PYMNTS",
-    "title": "White House Says All AI Companies Must Report Security Incidents",
-    "summary": "<p>The White House is reportedly requiring artificial intelligence companies to report and correct security incidents. The mandate from the White House Super Intelligence Force came Friday (Oct. 9) after Anthropic disclosed a series of breaches, Axios reported. \u201cThis notification and remediation process is not optional,\u201d the White House said in a statement exclusively shared with [&#8230;]</p>\n<p>The post <a href=\"https://www.pymnts.com/news/artificial-intelligence/2026/white-house-says-all-ai-companies-must-report-security-incidents/\">White House Says All AI Companies Must Report Security Inc",
-    "link": "https://www.pymnts.com/news/artificial-intelligence/2026/white-house-says-all-ai-companies-must-report-security-incidents/",
-    "published": "Mon, 12 Oct 2026 00:43:49 +0000",
-    "fetched": "2026-10-12T14:15:13.661805"
+    "id": "97f8cda1518b",
+    "source": "CoinTelegraph",
+    "title": "XRP treasury Evernorth\u2019s shares rise 5% at Nasdaq opening print",
+    "summary": "<p style=\"float: right; margin: 0 0 10px 15px; width: 240px;\"><img alt=\"XRP treasury Evernorth\u2019s shares rise 5% at Nasdaq opening print \" class=\"type:primaryImage\" src=\"https://s3-images.ctmedia.io/media/article-covers/2026/10/01M4R2M78QA8KZ200MJ7SRZ0MQ/hi-how-xrps-legal-victory-turned-it-into-wall-streets-favorite-crypto-1.jpg\" /></p><p>Evernorth\u2019s share price rose by 5% as investors welcomed the Nasdaq debut of the first pure-play XRP digital asset treasury.</p>",
+    "link": "https://cointelegraph.com/news/xrp-treasury-evernorth-rise-nasdaq-opening?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+    "published": "Mon, 12 Oct 2026 14:18:49 +0000",
+    "fetched": "2026-10-13T13:25:00.038702"
   },
   {
-    "id": "775e46745588",
-    "source": "PYMNTS",
-    "title": "Amazon Weighs $7 Billion Purchase of AI Startup Decart",
-    "summary": "<p>Amazon is reportedly in discussions to purchase artificial intelligence startup Decart in a roughly $7 billion deal. That\u2019s according to a report Sunday (Oct. 11) by The Wall Street Journal (WSJ), citing sources familiar with the matter. Those sources say a deal could come together soon, provided the talks don\u2019t collapse and another contender doesn\u2019t [&#8230;]</p>\n<p>The post <a href=\"https://www.pymnts.com/news/artificial-intelligence/2026/amazon-weighs-7-billion-purchase-of-ai-startup-decart/\">Amazon Weighs $7 Billion Purchase of AI Startup Decart</a> appeared first on <a href=\"https://ww",
-    "link": "https://www.pymnts.com/news/artificial-intelligence/2026/amazon-weighs-7-billion-purchase-of-ai-startup-decart/",
-    "published": "Mon, 12 Oct 2026 01:02:37 +0000",
-    "fetched": "2026-10-12T14:15:13.661776"
+    "id": "e7d1ed227a35",
+    "source": "CoinTelegraph",
+    "title": "US accounting overhaul could make stablecoins more attractive to corporations: Tempo",
+    "summary": "<p style=\"float: right; margin: 0 0 10px 15px; width: 240px;\"><img alt=\"US accounting overhaul could make stablecoins more attractive to corporations: Tempo \" class=\"type:primaryImage\" src=\"https://s3-images.ctmedia.io/media/article-covers/2026/10/01M4RKW2W64HMZE3GZ4F3Q7GM6/anger-regulation-paper-stablecoin.jpg\" /></p><p>A Tempo report examines how proposed US accounting rules could change corporate stablecoin holdings, with direct redemption rights determining which tokens qualify as cash.</p>",
+    "link": "https://cointelegraph.com/news/fasb-stablecoin-accounting-rules-corporate-adoption?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+    "published": "Mon, 12 Oct 2026 18:38:14 +0000",
+    "fetched": "2026-10-13T13:25:00.038634"
   },
   {
-    "id": "be0b6385a5c8",
-    "source": "PYMNTS",
-    "title": "AI Agents Give Main Street Businesses Big Business Muscle",
-    "summary": "<p>Running a small business has always meant doing more with less. The owner takes the morning shift, answers customer emails on lunch, reconciles the books at night and handles scheduling on weekends. Every hour spent on operations is an hour not spent on the work that grows the business. Artificial intelligence agents are changing that [&#8230;]</p>\n<p>The post <a href=\"https://www.pymnts.com/news/artificial-intelligence/2026/ai-agents-give-main-street-businesses-big-business-muscle/\">AI Agents Give Main Street Businesses Big Business Muscle</a> appeared first on <a href=\"https://www.pymnts.",
-    "link": "https://www.pymnts.com/news/artificial-intelligence/2026/ai-agents-give-main-street-businesses-big-business-muscle/",
-    "published": "Mon, 12 Oct 2026 08:00:28 +0000",
-    "fetched": "2026-10-12T14:15:13.661680"
+    "id": "b6b6d6f87020",
+    "source": "CoinTelegraph",
+    "title": "FTX\u2019s crypto mining venture is now used to advance AI",
+    "summary": "<p style=\"float: right; margin: 0 0 10px 15px; width: 240px;\"><img alt=\"FTX\u2019s crypto mining venture is now used to advance AI \" class=\"type:primaryImage\" src=\"https://s3-images.ctmedia.io/media/article-covers/2026/10/01M4RW88XV464BJDJNJTY3D37E/hi-top-5-biggest-mining-farms.jpg\" /></p><p>The defunct exchange acquired a 20% stake in Genesis Digital Assets before FTX declared bankruptcy in November 2022.</p>",
+    "link": "https://cointelegraph.com/news/ftx-crypto-mining-ai-data-center?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+    "published": "Mon, 12 Oct 2026 21:11:26 +0000",
+    "fetched": "2026-10-13T13:25:00.038597"
   },
   {
-    "id": "bfb864670ce1",
+    "id": "547ccb312a5a",
+    "source": "CoinTelegraph",
+    "title": "Here\u2019s what happened in crypto today",
+    "summary": "<p style=\"float: right; margin: 0 0 10px 15px; width: 240px;\"><img alt=\"Here\u2019s what happened in crypto today\" class=\"type:primaryImage\" src=\"https://s3-images.ctmedia.io/media/article-covers/article-covers-110589-what-happened-in-crypto-today.jpg\" /></p><p>Need to know what happened in crypto today? Here is the latest news on daily trends and events impacting Bitcoin price, blockchain, DeFi, Web3 and crypto regulation.</p>",
+    "link": "https://cointelegraph.com/news/what-happened-in-crypto-today?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+    "published": "Tue, 13 Oct 2026 05:51:31 +0000",
+    "fetched": "2026-10-13T13:25:00.038465"
+  },
+  {
+    "id": "0d5264e5a52e",
     "source": "PYMNTS",
-    "title": "Finance Teams Embrace AI but Many Still Struggle to Unlock Working Capital",
-    "summary": "<p>Corporate treasury is approaching an uncomfortable reality about artificial intelligence. Almost every firm has it, but relatively few companies can demonstrate that it is making them financially better off. Findings in the latest 2026 edition of the Working Capital Index (WCI) from PYMNTS Intelligence reveal that 97% of the lowest-performing middle-market firms use AI in [&#8230;]</p>\n<p>The post <a href=\"https://www.pymnts.com/news/artificial-intelligence/2026/finance-teams-embrace-ai-but-many-still-struggle-to-unlock-working-capital/\">Finance Teams Embrace AI but Many Still Struggle to U",
-    "link": "https://www.pymnts.com/news/artificial-intelligence/2026/finance-teams-embrace-ai-but-many-still-struggle-to-unlock-working-capital/",
-    "published": "Mon, 12 Oct 2026 08:02:28 +0000",
-    "fetched": "2026-10-12T14:15:13.661598"
+    "title": "Digital Assets: The Changing Talent Picture",
+    "summary": "<p>Banks investing in digital money need more than the technology to issue, custody or move digital assets. They need people who can connect those capabilities to the systems and controls already running the bank. Forty-two percent of financial institutions identify skills gaps as an obstacle to digital-asset adoption, according to PYMNTS Intelligence\u2019s \u201cBuilding the Foundation [&#8230;]</p>\n<p>The post <a href=\"https://www.pymnts.com/blockchain/2026/digital-assets-the-changing-talent-picture/\">Digital Assets: The Changing Talent Picture</a> appeared first on <a href=\"https://www.pymnts.com\">P",
+    "link": "https://www.pymnts.com/blockchain/2026/digital-assets-the-changing-talent-picture/",
+    "published": "Tue, 13 Oct 2026 08:00:48 +0000",
+    "fetched": "2026-10-13T13:24:59.703876"
+  },
+  {
+    "id": "b11466fafdf2",
+    "source": "PYMNTS",
+    "title": "Entrust Says Millions of AI Agents Will Test the Limits of Enterprise Controls",
+    "summary": "<p>Watch more: Building a Trusted Foundation for Agentic AI Companies have spent the past several years making it possible for employees to safely use artificial intelligence to retrieve information, summarize documents and generate recommendations. Agentic AI is turning that operating model on its head because the software is no longer simply answering questions. It can [&#8230;]</p>\n<p>The post <a href=\"https://www.pymnts.com/news/artificial-intelligence/2026/entrust-says-millions-ai-agnts-test-limits-enterprise-controls/\">Entrust Says Millions of AI Agents Will Test the Limits of Enterprise",
+    "link": "https://www.pymnts.com/news/artificial-intelligence/2026/entrust-says-millions-ai-agnts-test-limits-enterprise-controls/",
+    "published": "Tue, 13 Oct 2026 08:00:54 +0000",
+    "fetched": "2026-10-13T13:24:59.703851"
+  },
+  {
+    "id": "ad84b717d820",
+    "source": "PYMNTS",
+    "title": "Treasury\u2019s Next Big Challenge Is Connecting the Systems It Already Has",
+    "summary": "<p>Watch more: Need to Know with Bank of America\u2019s Daniel Stanton Companies have upgraded their treasury systems while the payment networks, banks and data they rely on remain fragmented. The sheer number of ways to move money has increased. Wires and domestic clearing systems remain. Real-time networks have joined them, along with pay-to-card services and [&#8230;]</p>\n<p>The post <a href=\"https://www.pymnts.com/news/cross-border-payments/2026/treasury-next-big-challenge-connecting-the-systems-it-already-has/\">Treasury\u2019s Next Big Challenge Is Connecting the Systems It Already Has</a> appeared",
+    "link": "https://www.pymnts.com/news/cross-border-payments/2026/treasury-next-big-challenge-connecting-the-systems-it-already-has/",
+    "published": "Tue, 13 Oct 2026 08:02:21 +0000",
+    "fetched": "2026-10-13T13:24:59.703803"
+  },
+  {
+    "id": "c696285efcc2",
+    "source": "PYMNTS",
+    "title": "Banking Regulators Tighten Oversight of Possible AI Risks",
+    "summary": "<p>Banking watchdogs are reportedly ramping up efforts to control increasing risks from artificial intelligence (AI). This heightened oversight is being driven in part by the threat of cyberattacks on banks or rogue AI agents hindering financial stability, Reuters reported Tuesday (Oct. 13), citing sources familiar with the matter. Those sources say this scrutiny is a [&#8230;]</p>\n<p>The post <a href=\"https://www.pymnts.com/news/banking/2026/banking-regulators-tighten-oversight-of-possible-ai-risks/\">Banking Regulators Tighten Oversight of Possible AI Risks</a> appeared first on <a href=\"http",
+    "link": "https://www.pymnts.com/news/banking/2026/banking-regulators-tighten-oversight-of-possible-ai-risks/",
+    "published": "Tue, 13 Oct 2026 10:44:14 +0000",
+    "fetched": "2026-10-13T13:24:59.703748"
+  },
+  {
+    "id": "c72f857b1ec1",
+    "source": "Finextra",
+    "title": "How Banks Can Safely Scale Agentic AI From Pilot to Production",
+    "summary": "At Sibos 2026, Smartstream\u2019s CEO Akber Jaffer discusses how banks can safely scale agentic AI from pilot to production with robust governance.",
+    "link": "https://www.finextra.com/videoarticle/3610/how-banks-can-safely-scale-agentic-ai-from-pilot-to-production?utm_medium=rssfinextra&utm_source=finextrafeed",
+    "published": "Tue, 13 Oct 2026 11:00:00 GMT",
+    "fetched": "2026-10-13T13:24:59.609215"
+  },
+  {
+    "id": "074ed2b88b24",
+    "source": "Finextra",
+    "title": "MoonPay appopints CFO",
+    "summary": "MoonPay, the global financial technology company powering the movement of value across fiat and digital assets, today named Anne Giviskos as Chief Financial Officer.",
+    "link": "https://www.finextra.com/pressarticle/111231/moonpay-appopints-cfo?utm_medium=rssfinextra&utm_source=finextrafeed",
+    "published": "Tue, 13 Oct 2026 14:06:00 GMT",
+    "fetched": "2026-10-13T13:24:59.609204"
+  },
+  {
+    "id": "b5e9224ab225",
+    "source": "Finextra",
+    "title": "Bitget launches token stock transfer service",
+    "summary": "Bitget, the world's largest Universal Exchange (UEX), has launched rToken Stock Transfer, enabling users to transfer eligible US-listed stocks and ETFs from traditional brokerage accounts into Bitget as tokenized stocks (rTokens).",
+    "link": "https://www.finextra.com/pressarticle/111228/bitget-launches-token-stock-transfer-service?utm_medium=rssfinextra&utm_source=finextrafeed",
+    "published": "Tue, 13 Oct 2026 12:10:00 GMT",
+    "fetched": "2026-10-13T13:24:59.609169"
+  },
+  {
+    "id": "8c12f1c558e4",
+    "source": "Finextra",
+    "title": "Zumo and SaaScada partner for crypto banking",
+    "summary": "SaaScada, the cloud-native core banking platform, and Zumo, the UK digital assets platform, today announced a strategic partnership giving UK financial institutions a ready-built route to offering regulated crypto services, alongside the cash accounts used to fund them.",
+    "link": "https://www.finextra.com/pressarticle/111224/zumo-and-saascada-partner-for-crypto-banking?utm_medium=rssfinextra&utm_source=finextrafeed",
+    "published": "Tue, 13 Oct 2026 09:29:00 GMT",
+    "fetched": "2026-10-13T13:24:59.609099"
   },
   {
     "id": "8fdf19775f0f",
@@ -150,7 +150,7 @@
     "summary": "3iQ Corp. (\u201c3iQ\u201d), a global pioneer in digital asset investment solutions, is pleased to announce that its United Arab Emirates (UAE) based sister company 3iQ Middle East Ltd has secured In-Principal Approval (IPA) for a Category 4 license from the Financial Services Authority (FSRA) of ADGM, the international financial centre of Abu Dhabi, the capital of UAE.",
     "link": "https://www.finextra.com/pressarticle/111223/digital-assets-firm-3iq-secures-in-principal-approval-in-abu-dhabi?utm_medium=rssfinextra&utm_source=finextrafeed",
     "published": "Mon, 12 Oct 2026 11:46:00 GMT",
-    "fetched": "2026-10-12T14:15:13.560047"
+    "fetched": "2026-10-13T13:24:59.609072"
   },
   {
     "id": "7e26a1664a70",
@@ -159,25 +159,7 @@
     "summary": "Bank NXT, a leading provider of integrated retail and corporate banking solutions in Egypt, announced the extension of its collaboration with Network International (Network), a leading fintech company in the Middle East and Africa, to accelerate the digitalization of its payment services and further modernize its payments infrastructure.",
     "link": "https://www.finextra.com/pressarticle/111220/bank-nxt-and-network-international-extend-payments-partnership?utm_medium=rssfinextra&utm_source=finextrafeed",
     "published": "Mon, 12 Oct 2026 11:22:00 GMT",
-    "fetched": "2026-10-12T14:15:13.559999"
-  },
-  {
-    "id": "d4d2086c54fd",
-    "source": "Finextra",
-    "title": "Anyflo emerges from stealth to simplify stablecoin payments for enterprises",
-    "summary": "Stablecoin payments orchestration service Anyflo has emerged from stealth with news that it has acquired bitcoin lending platform Native.",
-    "link": "https://www.finextra.com/newsarticle/48561/anyflo-emerges-from-stealth-to-simplify-stablecoin-payments-for-enterprises?utm_medium=rssfinextra&utm_source=finextrafeed",
-    "published": "Fri, 09 Oct 2026 00:01:00 GMT",
-    "fetched": "2026-10-12T14:15:13.559830"
-  },
-  {
-    "id": "a2d104486118",
-    "source": "Finextra",
-    "title": "Amex hit with $350m penalty for AML deficiencies",
-    "summary": "The Office of the Comptroller of the Currency (OCC), the main banking regulator in the US, has issued a $350m civil money penalty against American Express National Bank for deficiencies in its anti-money laundering (AML) and bank secrecy act (BSA) processes.",
-    "link": "https://www.finextra.com/newsarticle/48562/amex-hit-with-350m-penalty-for-aml-deficiencies?utm_medium=rssfinextra&utm_source=finextrafeed",
-    "published": "Fri, 09 Oct 2026 09:36:00 GMT",
-    "fetched": "2026-10-12T14:15:13.559822"
+    "fetched": "2026-10-13T13:24:59.609022"
   },
   {
     "id": "e891be56f431",
@@ -186,7 +168,7 @@
     "summary": "Banks in the EU and UK are under pressure to demonstrate their operational readiness for the upcoming move to next day settlement, with just one year to go before the deadline for T+1.",
     "link": "https://www.finextra.com/newsarticle/48564/eu-and-uk-banks-face-1-year-deadline-for-t1?utm_medium=rssfinextra&utm_source=finextrafeed",
     "published": "Fri, 09 Oct 2026 11:38:00 GMT",
-    "fetched": "2026-10-12T14:15:13.559802"
+    "fetched": "2026-10-13T13:24:59.609006"
   },
   {
     "id": "c92bf0a00e59",
@@ -195,7 +177,7 @@
     "summary": "Japan's SBI Group is teaming up with crypto infrastructure provider Mesh Connect and Money Forward on a digital asset joint venture.",
     "link": "https://www.finextra.com/newsarticle/48567/sbi-group-and-mesh-prep-digital-asset-jv?utm_medium=rssfinextra&utm_source=finextrafeed",
     "published": "Mon, 12 Oct 2026 00:01:00 GMT",
-    "fetched": "2026-10-12T14:15:13.559764"
+    "fetched": "2026-10-13T13:24:59.608971"
   },
   {
     "id": "e02af5fae71f",
@@ -204,43 +186,7 @@
     "summary": "Banking technology vendor FIS has built an agentic AI suite designed to help CFOs manage collections, liquidity, risk and cash flow.",
     "link": "https://www.finextra.com/newsarticle/48568/fis-launches-agentic-ai-suite-for-the-office-of-the-cfo?utm_medium=rssfinextra&utm_source=finextrafeed",
     "published": "Mon, 12 Oct 2026 05:01:00 GMT",
-    "fetched": "2026-10-12T14:15:13.559751"
-  },
-  {
-    "id": "847a39185e84",
-    "source": "The Block",
-    "title": "JPMorgan estimates $50 billion has flowed into crypto this year as momentum improves into Q4",
-    "summary": "JPMorgan analysts estimate around $50 billion has flowed into digital assets this year, equal to an annualized pace of $66 billion.",
-    "link": "https://www.theblock.co/news/markets/2026-10-08-jpmorgan-crypto-inflows-50-billion-etf-futures-q4-418115",
-    "published": "Thu, 08 Oct 2026 18:46:59 +0000",
-    "fetched": "2026-10-12T14:15:13.377926"
-  },
-  {
-    "id": "ab99287f0b46",
-    "source": "The Block",
-    "title": "Thailand SEC issues bitcoin and ether ETF rules set to take effect Oct. 16",
-    "summary": "Thailand's SEC has limited initial crypto ETFs to bitcoin and ether, with new custody, exposure, and trading rules taking effect Oct. 16.",
-    "link": "https://www.theblock.co/news/regulation/2026-10-09-thailand-sec-issues-bitcoin-and-ether-etf-rules-set-to-take-effect-oct-16-418132",
-    "published": "Fri, 09 Oct 2026 10:40:59 +0000",
-    "fetched": "2026-10-12T14:15:13.377900"
-  },
-  {
-    "id": "50d207ca5144",
-    "source": "The Block",
-    "title": "Base creator Jesse Pollak says equities and non-dollar stablecoins will lead upcoming \u2018tokenization supercycle\u2019",
-    "summary": "Coinbase launched tokenized stocks on Base six weeks ago, with about $70 million to $100 million in daily volume, according to Pollak.",
-    "link": "https://www.theblock.co/news/defi/2026-10-09-tokenization-supercycle-base-jesse-pollak-418144",
-    "published": "Fri, 09 Oct 2026 13:12:57 +0000",
-    "fetched": "2026-10-12T14:15:13.377886"
-  },
-  {
-    "id": "f91922fdd022",
-    "source": "The Block",
-    "title": "Blockchain.com seeks CFTC greenlight for US prediction markets, crypto derivatives trading: CNBC",
-    "summary": "Blockchain.com has applied for DCM and FCM licenses to offer ahead of a planned $500 million IPO.",
-    "link": "https://www.theblock.co/news/business/2026-10-09-blockchain-com-cftc-license-prediction-markets-derivatives-418192",
-    "published": "Fri, 09 Oct 2026 16:05:22 +0000",
-    "fetched": "2026-10-12T14:15:13.377836"
+    "fetched": "2026-10-13T13:24:59.608958"
   },
   {
     "id": "2d523db0fb4b",
@@ -249,7 +195,7 @@
     "summary": "The bank is working with Ripple and LMAX Group to enable RLUSD as collateral for certain LMAX products under its collateral mirroring model.",
     "link": "https://www.theblock.co/news/business/2026-10-12-standard-chartered-custody-ripple-rlusd-418258",
     "published": "Mon, 12 Oct 2026 09:35:21 +0000",
-    "fetched": "2026-10-12T14:15:13.377722"
+    "fetched": "2026-10-13T13:24:59.386471"
   },
   {
     "id": "6f6d0cafcaa5",
@@ -258,15 +204,69 @@
     "summary": "Morgan Stanley is actively building the necessary infrastructure for tokenized equities while monitoring industry developments.",
     "link": "https://www.theblock.co/news/markets/2026-10-12-morgan-stanley-tokenized-equities-q1-2027-418256",
     "published": "Mon, 12 Oct 2026 10:10:13 +0000",
-    "fetched": "2026-10-12T14:15:13.377701"
+    "fetched": "2026-10-13T13:24:59.386454"
   },
   {
-    "id": "3e7c53173eac",
+    "id": "d446350bfb95",
+    "source": "The Block",
+    "title": "DeFi Development grows SOL holdings 12% as CHAD hits record highs",
+    "summary": "DFDV added 22,070 SOL last week, lifting holdings to 2.59 million SOL, as its CHAD preferred stock hit record highs despite a selloff.",
+    "link": "https://www.theblock.co/news/business/2026-10-12-defi-development-sol-holdings-2-59-million-chad-418307",
+    "published": "Mon, 12 Oct 2026 14:53:25 +0000",
+    "fetched": "2026-10-13T13:24:59.386404"
+  },
+  {
+    "id": "ce886df2b7aa",
+    "source": "The Block",
+    "title": "StoneX raises Securitize price target 50% as tokenized stock platform opens new revenue stream",
+    "summary": "StoneX lifts SECZ price target to $18 from $12, citing new revenue from the Securitize Stocks tokenized trading platform on Solana.",
+    "link": "https://www.theblock.co/news/markets/2026-10-12-stonex-raises-securitize-price-target-tokenized-stocks-418313",
+    "published": "Mon, 12 Oct 2026 17:06:25 +0000",
+    "fetched": "2026-10-13T13:24:59.386396"
+  },
+  {
+    "id": "0fe2fbf6f730",
+    "source": "The Block",
+    "title": "CFTC\u2019s new crypto framework could face 2028 election deadline, says TD Cowen",
+    "summary": "Newly proposed rules for leveraged and margined crypto trading may be too late as the 2028 election cycle looms, according to TD Cowen.",
+    "link": "https://www.theblock.co/news/regulation/2026-10-12-cftcs-new-crypto-framework-could-face-2028-election-deadline-td-cowen-418358",
+    "published": "Mon, 12 Oct 2026 20:53:54 +0000",
+    "fetched": "2026-10-13T13:24:59.386364"
+  },
+  {
+    "id": "0fcdca351928",
+    "source": "The Block",
+    "title": "Blur to shut down frontend next month as NFT trading volume dwindles",
+    "summary": "The NFT marketplace's frontend next month while the protocol stays onchain. The BLUR token fell more than 20%.",
+    "link": "https://www.theblock.co/news/ecosystems/2026-10-12-blur-nft-marketplace-shutting-down-frontend-blend-418363",
+    "published": "Mon, 12 Oct 2026 21:49:02 +0000",
+    "fetched": "2026-10-13T13:24:59.386343"
+  },
+  {
+    "id": "28e21baf4c3b",
     "source": "CoinDesk",
-    "title": "Visa survey says nearly half of APAC consumers open to using stablecoins by 2031",
+    "title": "Global financial watchdog calls for cross-border information sharing, planning for stablecoin crisis",
     "summary": "",
-    "link": "https://www.coindesk.com/business/2026/10/05/1-2-billion-apac-consumers-could-adopt-stablecoins-by-2031-according-to-visa",
-    "published": "Sat, 10 Oct 2026 03:00:00 +0000",
-    "fetched": "2026-10-12T14:15:13.278197"
+    "link": "https://www.coindesk.com/policy/2026/10/12/global-financial-watchdog-calls-for-cross-border-information-sharing-planning-for-stablecoin-crisis",
+    "published": "Mon, 12 Oct 2026 11:02:38 +0000",
+    "fetched": "2026-10-13T13:24:59.249270"
+  },
+  {
+    "id": "0ab44c406ef1",
+    "source": "CoinDesk",
+    "title": "Standard Chartered offers RLUSD custody in Dubai and plans LMAX collateral link",
+    "summary": "",
+    "link": "https://www.coindesk.com/business/2026/10/12/standard-chartered-offers-rlusd-custody-in-dubai-and-plans-lmax-collateral-link",
+    "published": "Mon, 12 Oct 2026 12:09:09 +0000",
+    "fetched": "2026-10-13T13:24:59.249247"
+  },
+  {
+    "id": "5fe4ba016acb",
+    "source": "CoinDesk",
+    "title": "Tokenized catastrophe bonds target the disaster-insurance gap",
+    "summary": "",
+    "link": "https://www.coindesk.com/business/2026/10/12/tokenized-catastrophe-bonds-target-the-disaster-insurance-gap",
+    "published": "Mon, 12 Oct 2026 15:00:00 +0000",
+    "fetched": "2026-10-13T13:24:59.249237"
   }
 ]
