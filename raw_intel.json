@@ -1,66 +1,30 @@
 [
   {
-    "id": "f0c8450bfd75",
+    "id": "f0b5168ab332",
     "source": "CoinTelegraph",
-    "title": "Standard Chartered adds Ripple USD custody, eyes LMAX collateral deal",
-    "summary": "<p style=\"float: right; margin: 0 0 10px 15px; width: 240px;\"><img alt=\"Standard Chartered adds Ripple USD custody, eyes LMAX collateral deal \" class=\"type:primaryImage\" src=\"https://s3-images.ctmedia.io/media/article-covers/2026/10/01M4QN28R2EHW4F96B10PK4FS6/hi-ripple-labs-rlusd-stablecoin-everything-you-need-to-know-1.jpg\" /></p><p>Standard Chartered has launched custody for Ripple\u2019s RLUSD stablecoin on the XRP Ledger and plans to let institutions use the tokens as trading collateral.</p>",
-    "link": "https://cointelegraph.com/news/standard-chartered-rlusd-custody-lmax-deal?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-    "published": "Mon, 12 Oct 2026 09:30:57 +0000",
-    "fetched": "2026-10-13T13:25:00.038827"
+    "title": "How the SEC\u2019s lack of leadership could facilitate crypto rulemaking",
+    "summary": "<p style=\"float: right; margin: 0 0 10px 15px; width: 240px;\"><img alt=\"How the SEC\u2019s lack of leadership could facilitate crypto rulemaking \" class=\"type:primaryImage\" src=\"https://s3-images.ctmedia.io/media/article-covers/2026/10/01M4TVYVZ1FNMZJVJ3R95B1ES5/sec-meeting-edited.png\" /></p><p>A recent change in the SEC\u2019s rules on quorum could make it easier for the agency to amend its approach to crypto regulation in the absence of a market structure bill.</p>",
+    "link": "https://cointelegraph.com/news/sec-leadership-facilitate-crypto-rulemaking?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+    "published": "Tue, 13 Oct 2026 16:51:25 +0000",
+    "fetched": "2026-10-14T11:03:36.658545"
   },
   {
-    "id": "4675724b270e",
+    "id": "88b8aad337e5",
     "source": "CoinTelegraph",
-    "title": "Kraken parent clears Dubai\u2019s final hurdle for dirham trading rollout",
-    "summary": "<p style=\"float: right; margin: 0 0 10px 15px; width: 240px;\"><img alt=\"Kraken parent clears Dubai\u2019s final hurdle for dirham trading rollout\" class=\"type:primaryImage\" src=\"https://s3-images.ctmedia.io/media/article-covers/2026/10/01M4QPPQ7MEQR102YQ3DC7RK03/hi-overview-of-crypto-in-the-uae-kraken.jpg\" /></p><p>Payward received full market approval from Dubai\u2019s VARA to expand its digital asset services in the UAE, building on the preliminary approval received in May.\n</p>",
-    "link": "https://cointelegraph.com/news/kraken-receives-vara-approval-uae-expansion?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-    "published": "Mon, 12 Oct 2026 09:41:17 +0000",
-    "fetched": "2026-10-13T13:25:00.038815"
+    "title": "Most tokenized stock trading on Solana, BNB Chain occurs outside US market hours",
+    "summary": "<p style=\"float: right; margin: 0 0 10px 15px; width: 240px;\"><img alt=\"Most tokenized stock trading on Solana, BNB Chain occurs outside US market hours\" class=\"type:primaryImage\" src=\"https://s3-images.ctmedia.io/media/article-covers/2026/10/01M4VA9NB54GWFZ29JZYNA4293/hi-how-ripple-plans-to-bridge-crypto-and-wall-street.jpg\" /></p><p>Tokenized equities have reached nearly $3.3 billion in value as investors embrace round-the-clock access beyond Wall Street hours.\n</p>",
+    "link": "https://cointelegraph.com/news/tokenized-stocks-after-hours-trading-solana-bnb-chain?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+    "published": "Tue, 13 Oct 2026 19:48:06 +0000",
+    "fetched": "2026-10-14T11:03:36.658473"
   },
   {
-    "id": "c82773f6ce0f",
+    "id": "ad0844d17464",
     "source": "CoinTelegraph",
-    "title": "Australia proposes leverage caps for crypto-settled derivatives",
-    "summary": "<p style=\"float: right; margin: 0 0 10px 15px; width: 240px;\"><img alt=\"Australia proposes leverage caps for crypto-settled derivatives\" class=\"type:primaryImage\" src=\"https://s3-images.ctmedia.io/media/article-covers/2026/10/01M4QWSHXW7QGDJW1DDTNHBJ0X/cfds.png\" /></p><p>ASIC\u2019s proposal would extend leverage limits and protections against negative balances to certain derivatives settled in digital assets.</p>",
-    "link": "https://cointelegraph.com/news/australia-asic-crypto-settled-cfd-protections?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-    "published": "Mon, 12 Oct 2026 11:41:58 +0000",
-    "fetched": "2026-10-13T13:25:00.038773"
-  },
-  {
-    "id": "80cbbe526009",
-    "source": "CoinTelegraph",
-    "title": "Ledger implant tests Bitcoin ETFs as safer custodial solutions than hardware wallets",
-    "summary": "<p style=\"float: right; margin: 0 0 10px 15px; width: 240px;\"><img alt=\"Ledger implant tests Bitcoin ETFs as safer custodial solutions than hardware wallets \" class=\"type:primaryImage\" src=\"https://s3-images.ctmedia.io/media/article-covers/2026/10/01M4R688Z9BFT3CGH1NFQ6QZ8X/hi-ledger3.jpg\" /></p><p>The discovery of an unauthorized Ledger hardware implant reignited debate on whether Bitcoin ETFs are safer than self-custodying Bitcoin via hardware wallet devices.</p>",
-    "link": "https://cointelegraph.com/news/ledger-implant-bitcoin-etfs-hardware-wallets?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-    "published": "Mon, 12 Oct 2026 14:07:00 +0000",
-    "fetched": "2026-10-13T13:25:00.038722"
-  },
-  {
-    "id": "97f8cda1518b",
-    "source": "CoinTelegraph",
-    "title": "XRP treasury Evernorth\u2019s shares rise 5% at Nasdaq opening print",
-    "summary": "<p style=\"float: right; margin: 0 0 10px 15px; width: 240px;\"><img alt=\"XRP treasury Evernorth\u2019s shares rise 5% at Nasdaq opening print \" class=\"type:primaryImage\" src=\"https://s3-images.ctmedia.io/media/article-covers/2026/10/01M4R2M78QA8KZ200MJ7SRZ0MQ/hi-how-xrps-legal-victory-turned-it-into-wall-streets-favorite-crypto-1.jpg\" /></p><p>Evernorth\u2019s share price rose by 5% as investors welcomed the Nasdaq debut of the first pure-play XRP digital asset treasury.</p>",
-    "link": "https://cointelegraph.com/news/xrp-treasury-evernorth-rise-nasdaq-opening?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-    "published": "Mon, 12 Oct 2026 14:18:49 +0000",
-    "fetched": "2026-10-13T13:25:00.038702"
-  },
-  {
-    "id": "e7d1ed227a35",
-    "source": "CoinTelegraph",
-    "title": "US accounting overhaul could make stablecoins more attractive to corporations: Tempo",
-    "summary": "<p style=\"float: right; margin: 0 0 10px 15px; width: 240px;\"><img alt=\"US accounting overhaul could make stablecoins more attractive to corporations: Tempo \" class=\"type:primaryImage\" src=\"https://s3-images.ctmedia.io/media/article-covers/2026/10/01M4RKW2W64HMZE3GZ4F3Q7GM6/anger-regulation-paper-stablecoin.jpg\" /></p><p>A Tempo report examines how proposed US accounting rules could change corporate stablecoin holdings, with direct redemption rights determining which tokens qualify as cash.</p>",
-    "link": "https://cointelegraph.com/news/fasb-stablecoin-accounting-rules-corporate-adoption?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-    "published": "Mon, 12 Oct 2026 18:38:14 +0000",
-    "fetched": "2026-10-13T13:25:00.038634"
-  },
-  {
-    "id": "b6b6d6f87020",
-    "source": "CoinTelegraph",
-    "title": "FTX\u2019s crypto mining venture is now used to advance AI",
-    "summary": "<p style=\"float: right; margin: 0 0 10px 15px; width: 240px;\"><img alt=\"FTX\u2019s crypto mining venture is now used to advance AI \" class=\"type:primaryImage\" src=\"https://s3-images.ctmedia.io/media/article-covers/2026/10/01M4RW88XV464BJDJNJTY3D37E/hi-top-5-biggest-mining-farms.jpg\" /></p><p>The defunct exchange acquired a 20% stake in Genesis Digital Assets before FTX declared bankruptcy in November 2022.</p>",
-    "link": "https://cointelegraph.com/news/ftx-crypto-mining-ai-data-center?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-    "published": "Mon, 12 Oct 2026 21:11:26 +0000",
-    "fetched": "2026-10-13T13:25:00.038597"
+    "title": "Starknet introduces wallet privacy feature for DeFi activity",
+    "summary": "<p style=\"float: right; margin: 0 0 10px 15px; width: 240px;\"><img alt=\"Starknet introduces wallet privacy feature for DeFi activity\" class=\"type:primaryImage\" src=\"https://s3-images.ctmedia.io/media/article-covers/2026/10/01M4WDYJ6RECS35PSEZTD40N6J/added-starknet-logo.png\" /></p><p>Starknet\u2019s Shadow Accounts allow users to obscure connections between their main wallets and DeFi activity, though transactions remain visible onchain.</p>",
+    "link": "https://cointelegraph.com/news/starknet-introduces-wallet-privacy-feature-for-defi-activity?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+    "published": "Wed, 14 Oct 2026 05:32:14 +0000",
+    "fetched": "2026-10-14T11:03:36.658402"
   },
   {
     "id": "547ccb312a5a",
@@ -68,116 +32,89 @@
     "title": "Here\u2019s what happened in crypto today",
     "summary": "<p style=\"float: right; margin: 0 0 10px 15px; width: 240px;\"><img alt=\"Here\u2019s what happened in crypto today\" class=\"type:primaryImage\" src=\"https://s3-images.ctmedia.io/media/article-covers/article-covers-110589-what-happened-in-crypto-today.jpg\" /></p><p>Need to know what happened in crypto today? Here is the latest news on daily trends and events impacting Bitcoin price, blockchain, DeFi, Web3 and crypto regulation.</p>",
     "link": "https://cointelegraph.com/news/what-happened-in-crypto-today?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-    "published": "Tue, 13 Oct 2026 05:51:31 +0000",
-    "fetched": "2026-10-13T13:25:00.038465"
+    "published": "Wed, 14 Oct 2026 05:35:52 +0000",
+    "fetched": "2026-10-14T11:03:36.658388"
   },
   {
-    "id": "0d5264e5a52e",
+    "id": "bdb630b5c055",
+    "source": "CoinTelegraph",
+    "title": "Standard Chartered expands Bitcoin and Ether trading to professional investors in UAE",
+    "summary": "<p style=\"float: right; margin: 0 0 10px 15px; width: 240px;\"><img alt=\"Standard Chartered expands Bitcoin and Ether trading to professional investors in UAE \" class=\"type:primaryImage\" src=\"https://s3-images.ctmedia.io/media/article-covers/2026/10/01M4WQPH22MB1PQE91PWD5QS21/hi-dubai-overview-crypto-and-blockchain.jpg\" /></p><p>Standard Chartered expanded its spot crypto trading services to professional investors in the UAE region, with plans to offer access to more market participants.</p>",
+    "link": "https://cointelegraph.com/news/standard-chartered-bitcoin-ether-trading-professional-investors-uae?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+    "published": "Wed, 14 Oct 2026 10:07:03 +0000",
+    "fetched": "2026-10-14T11:03:36.658372"
+  },
+  {
+    "id": "ac5888062c3e",
     "source": "PYMNTS",
-    "title": "Digital Assets: The Changing Talent Picture",
-    "summary": "<p>Banks investing in digital money need more than the technology to issue, custody or move digital assets. They need people who can connect those capabilities to the systems and controls already running the bank. Forty-two percent of financial institutions identify skills gaps as an obstacle to digital-asset adoption, according to PYMNTS Intelligence\u2019s \u201cBuilding the Foundation [&#8230;]</p>\n<p>The post <a href=\"https://www.pymnts.com/blockchain/2026/digital-assets-the-changing-talent-picture/\">Digital Assets: The Changing Talent Picture</a> appeared first on <a href=\"https://www.pymnts.com\">P",
-    "link": "https://www.pymnts.com/blockchain/2026/digital-assets-the-changing-talent-picture/",
-    "published": "Tue, 13 Oct 2026 08:00:48 +0000",
-    "fetched": "2026-10-13T13:24:59.703876"
+    "title": "33% of US Shoppers Use Digital Wallets Online",
+    "summary": "<p>Merchants could keep more ready buyers at checkout by accepting the digital wallets those shoppers already use, with wallet gaps putting roughly 36 million U.S. consumers at risk of walking away. That finding comes from \u201cThe Hidden Cost of Checkout Gaps: What 56 Million Abandoned Carts Mean for U.S. Merchants and How Agentic AI is [&#8230;]</p>\n<p>The post <a href=\"https://www.pymnts.com/consumer-insights/2026/33percent-of-us-shoppers-use-digital-wallets-online/\">33% of US Shoppers Use Digital Wallets Online</a> appeared first on <a href=\"https://www.pymnts.com\">PYMNTS.com</a>.</p>",
+    "link": "https://www.pymnts.com/consumer-insights/2026/33percent-of-us-shoppers-use-digital-wallets-online/",
+    "published": "Wed, 14 Oct 2026 08:00:05 +0000",
+    "fetched": "2026-10-14T11:03:36.378593"
   },
   {
-    "id": "b11466fafdf2",
+    "id": "f25dc7846c1b",
     "source": "PYMNTS",
-    "title": "Entrust Says Millions of AI Agents Will Test the Limits of Enterprise Controls",
-    "summary": "<p>Watch more: Building a Trusted Foundation for Agentic AI Companies have spent the past several years making it possible for employees to safely use artificial intelligence to retrieve information, summarize documents and generate recommendations. Agentic AI is turning that operating model on its head because the software is no longer simply answering questions. It can [&#8230;]</p>\n<p>The post <a href=\"https://www.pymnts.com/news/artificial-intelligence/2026/entrust-says-millions-ai-agnts-test-limits-enterprise-controls/\">Entrust Says Millions of AI Agents Will Test the Limits of Enterprise",
-    "link": "https://www.pymnts.com/news/artificial-intelligence/2026/entrust-says-millions-ai-agnts-test-limits-enterprise-controls/",
-    "published": "Tue, 13 Oct 2026 08:00:54 +0000",
-    "fetched": "2026-10-13T13:24:59.703851"
+    "title": "Credit Unions Could Land More FinTech Partners by Simplifying Onboarding",
+    "summary": "<p>A FinTech that wants to sell to 10 credit unions can face 10 separate onboarding processes. For a market made up of thousands of individual institutions, that repetition can affect whether a provider decides the opportunity is worth pursuing. Among FinTechs hesitant to sell to credit unions, 58% said a bundled, one-time onboarding process that [&#8230;]</p>\n<p>The post <a href=\"https://www.pymnts.com/credit-unions/2026/fintech-demand-gives-credit-unions-onboarding-opportunity/\">Credit Unions Could Land More FinTech Partners by Simplifying Onboarding</a> appeared first on <a href=\"https://ww",
+    "link": "https://www.pymnts.com/credit-unions/2026/fintech-demand-gives-credit-unions-onboarding-opportunity/",
+    "published": "Wed, 14 Oct 2026 08:00:43 +0000",
+    "fetched": "2026-10-14T11:03:36.378577"
   },
   {
-    "id": "ad84b717d820",
+    "id": "07cbf9f78adb",
     "source": "PYMNTS",
-    "title": "Treasury\u2019s Next Big Challenge Is Connecting the Systems It Already Has",
-    "summary": "<p>Watch more: Need to Know with Bank of America\u2019s Daniel Stanton Companies have upgraded their treasury systems while the payment networks, banks and data they rely on remain fragmented. The sheer number of ways to move money has increased. Wires and domestic clearing systems remain. Real-time networks have joined them, along with pay-to-card services and [&#8230;]</p>\n<p>The post <a href=\"https://www.pymnts.com/news/cross-border-payments/2026/treasury-next-big-challenge-connecting-the-systems-it-already-has/\">Treasury\u2019s Next Big Challenge Is Connecting the Systems It Already Has</a> appeared",
-    "link": "https://www.pymnts.com/news/cross-border-payments/2026/treasury-next-big-challenge-connecting-the-systems-it-already-has/",
-    "published": "Tue, 13 Oct 2026 08:02:21 +0000",
-    "fetched": "2026-10-13T13:24:59.703803"
+    "title": "Payments\u2019 Next Scaling Problem Is Complexity, Not Transaction Volume",
+    "summary": "<p>Watch more:\u00a0Beyond the Rails: The Infrastructure Powering Payment Partner Ecosystems Payments companies have spent years bragging about how much volume their technology can handle. That could be the wrong measure. The harder problem is what happens when every new dollar of payment volume arrives carrying another processor relationship, sponsor bank, software integration, distribution partner, underwriting [&#8230;]</p>\n<p>The post <a href=\"https://www.pymnts.com/news/payments-innovation/2026/payments-next-scaling-problem-is-complexity-not-transaction-volume/\">Payments\u2019 Next Scaling Problem ",
+    "link": "https://www.pymnts.com/news/payments-innovation/2026/payments-next-scaling-problem-is-complexity-not-transaction-volume/",
+    "published": "Wed, 14 Oct 2026 08:03:18 +0000",
+    "fetched": "2026-10-14T11:03:36.378470"
   },
   {
-    "id": "c696285efcc2",
-    "source": "PYMNTS",
-    "title": "Banking Regulators Tighten Oversight of Possible AI Risks",
-    "summary": "<p>Banking watchdogs are reportedly ramping up efforts to control increasing risks from artificial intelligence (AI). This heightened oversight is being driven in part by the threat of cyberattacks on banks or rogue AI agents hindering financial stability, Reuters reported Tuesday (Oct. 13), citing sources familiar with the matter. Those sources say this scrutiny is a [&#8230;]</p>\n<p>The post <a href=\"https://www.pymnts.com/news/banking/2026/banking-regulators-tighten-oversight-of-possible-ai-risks/\">Banking Regulators Tighten Oversight of Possible AI Risks</a> appeared first on <a href=\"http",
-    "link": "https://www.pymnts.com/news/banking/2026/banking-regulators-tighten-oversight-of-possible-ai-risks/",
-    "published": "Tue, 13 Oct 2026 10:44:14 +0000",
-    "fetched": "2026-10-13T13:24:59.703748"
-  },
-  {
-    "id": "c72f857b1ec1",
+    "id": "dfdf5d11267c",
     "source": "Finextra",
-    "title": "How Banks Can Safely Scale Agentic AI From Pilot to Production",
-    "summary": "At Sibos 2026, Smartstream\u2019s CEO Akber Jaffer discusses how banks can safely scale agentic AI from pilot to production with robust governance.",
-    "link": "https://www.finextra.com/videoarticle/3610/how-banks-can-safely-scale-agentic-ai-from-pilot-to-production?utm_medium=rssfinextra&utm_source=finextrafeed",
-    "published": "Tue, 13 Oct 2026 11:00:00 GMT",
-    "fetched": "2026-10-13T13:24:59.609215"
+    "title": "Agentic AI and Digital Assets: How Can Banks Future-Proof Payments?",
+    "summary": "At Sibos 2026, Bottomline\u2019s Natasha Lapierre reveals how banks can future-proof payments using agentic AI, orchestration, and digital assets.",
+    "link": "https://www.finextra.com/videoarticle/3613/agentic-ai-and-digital-assets-how-can-banks-future-proof-payments?utm_medium=rssfinextra&utm_source=finextrafeed",
+    "published": "Wed, 14 Oct 2026 11:00:00 GMT",
+    "fetched": "2026-10-14T11:03:36.150531"
   },
   {
-    "id": "074ed2b88b24",
+    "id": "0e96cf9c9108",
     "source": "Finextra",
-    "title": "MoonPay appopints CFO",
-    "summary": "MoonPay, the global financial technology company powering the movement of value across fiat and digital assets, today named Anne Giviskos as Chief Financial Officer.",
-    "link": "https://www.finextra.com/pressarticle/111231/moonpay-appopints-cfo?utm_medium=rssfinextra&utm_source=finextrafeed",
-    "published": "Tue, 13 Oct 2026 14:06:00 GMT",
-    "fetched": "2026-10-13T13:24:59.609204"
+    "title": "National Bank of Bahrain and TerraPay link up for cross-border payments",
+    "summary": "The National Bank of Bahrain (NBB), a leading bank in Bahrain has entered into a strategic partnership with TerraPay, a global digital money movement company, to expand its international payout capabilities and enhance cross-border payment experiences for its customers.",
+    "link": "https://www.finextra.com/pressarticle/111239/national-bank-of-bahrain-and-terrapay-link-up-for-cross-border-payments?utm_medium=rssfinextra&utm_source=finextrafeed",
+    "published": "Tue, 13 Oct 2026 23:03:00 GMT",
+    "fetched": "2026-10-14T11:03:36.150423"
   },
   {
-    "id": "b5e9224ab225",
+    "id": "527c0c2aa256",
     "source": "Finextra",
-    "title": "Bitget launches token stock transfer service",
-    "summary": "Bitget, the world's largest Universal Exchange (UEX), has launched rToken Stock Transfer, enabling users to transfer eligible US-listed stocks and ETFs from traditional brokerage accounts into Bitget as tokenized stocks (rTokens).",
-    "link": "https://www.finextra.com/pressarticle/111228/bitget-launches-token-stock-transfer-service?utm_medium=rssfinextra&utm_source=finextrafeed",
-    "published": "Tue, 13 Oct 2026 12:10:00 GMT",
-    "fetched": "2026-10-13T13:24:59.609169"
+    "title": "Bajaj Broking launches algorithmic trading platform",
+    "summary": "Bajaj Broking, a full-service stockbroker, today announced the launch of its algorithmic trading platform, enabling users to access ready-made, exchange-registered strategies or build customised trading strategies using a range of technical indicators and predefined trading conditions.",
+    "link": "https://www.finextra.com/pressarticle/111237/bajaj-broking-launches-algorithmic-trading-platform?utm_medium=rssfinextra&utm_source=finextrafeed",
+    "published": "Tue, 13 Oct 2026 22:45:00 GMT",
+    "fetched": "2026-10-14T11:03:36.150402"
   },
   {
-    "id": "8c12f1c558e4",
+    "id": "882ea4c0ac4f",
     "source": "Finextra",
-    "title": "Zumo and SaaScada partner for crypto banking",
-    "summary": "SaaScada, the cloud-native core banking platform, and Zumo, the UK digital assets platform, today announced a strategic partnership giving UK financial institutions a ready-built route to offering regulated crypto services, alongside the cash accounts used to fund them.",
-    "link": "https://www.finextra.com/pressarticle/111224/zumo-and-saascada-partner-for-crypto-banking?utm_medium=rssfinextra&utm_source=finextrafeed",
-    "published": "Tue, 13 Oct 2026 09:29:00 GMT",
-    "fetched": "2026-10-13T13:24:59.609099"
+    "title": "HID appointed to FIDO board",
+    "summary": "HID, a worldwide leader in trusted identity solutions, has joined the FIDO Alliance Board of Directors to help accelerate the shift to passwordless authentication across the enterprise.",
+    "link": "https://www.finextra.com/pressarticle/111235/hid-appointed-to-fido-board?utm_medium=rssfinextra&utm_source=finextrafeed",
+    "published": "Tue, 13 Oct 2026 16:38:00 GMT",
+    "fetched": "2026-10-14T11:03:36.150380"
   },
   {
-    "id": "8fdf19775f0f",
+    "id": "b24c854594ba",
     "source": "Finextra",
-    "title": "Digital assets firm 3iQ secures in-principal approval in Abu Dhabi",
-    "summary": "3iQ Corp. (\u201c3iQ\u201d), a global pioneer in digital asset investment solutions, is pleased to announce that its United Arab Emirates (UAE) based sister company 3iQ Middle East Ltd has secured In-Principal Approval (IPA) for a Category 4 license from the Financial Services Authority (FSRA) of ADGM, the international financial centre of Abu Dhabi, the capital of UAE.",
-    "link": "https://www.finextra.com/pressarticle/111223/digital-assets-firm-3iq-secures-in-principal-approval-in-abu-dhabi?utm_medium=rssfinextra&utm_source=finextrafeed",
-    "published": "Mon, 12 Oct 2026 11:46:00 GMT",
-    "fetched": "2026-10-13T13:24:59.609072"
-  },
-  {
-    "id": "7e26a1664a70",
-    "source": "Finextra",
-    "title": "Bank NXT and Network International extend payments partnership",
-    "summary": "Bank NXT, a leading provider of integrated retail and corporate banking solutions in Egypt, announced the extension of its collaboration with Network International (Network), a leading fintech company in the Middle East and Africa, to accelerate the digitalization of its payment services and further modernize its payments infrastructure.",
-    "link": "https://www.finextra.com/pressarticle/111220/bank-nxt-and-network-international-extend-payments-partnership?utm_medium=rssfinextra&utm_source=finextrafeed",
-    "published": "Mon, 12 Oct 2026 11:22:00 GMT",
-    "fetched": "2026-10-13T13:24:59.609022"
-  },
-  {
-    "id": "e891be56f431",
-    "source": "Finextra",
-    "title": "EU and UK banks face 1 year deadline for T+1",
-    "summary": "Banks in the EU and UK are under pressure to demonstrate their operational readiness for the upcoming move to next day settlement, with just one year to go before the deadline for T+1.",
-    "link": "https://www.finextra.com/newsarticle/48564/eu-and-uk-banks-face-1-year-deadline-for-t1?utm_medium=rssfinextra&utm_source=finextrafeed",
-    "published": "Fri, 09 Oct 2026 11:38:00 GMT",
-    "fetched": "2026-10-13T13:24:59.609006"
-  },
-  {
-    "id": "c92bf0a00e59",
-    "source": "Finextra",
-    "title": "SBI Group and Mesh prep digital asset JV",
-    "summary": "Japan's SBI Group is teaming up with crypto infrastructure provider Mesh Connect and Money Forward on a digital asset joint venture.",
-    "link": "https://www.finextra.com/newsarticle/48567/sbi-group-and-mesh-prep-digital-asset-jv?utm_medium=rssfinextra&utm_source=finextrafeed",
-    "published": "Mon, 12 Oct 2026 00:01:00 GMT",
-    "fetched": "2026-10-13T13:24:59.608971"
+    "title": "Rain launches stablecoin wallet",
+    "summary": "Rain, the global stablecoin payments platform, today announced Rain wallets, embedded stablecoin wallets that partners can offer their users inside their own apps, with the ability to earn on balances to follow by end of year.",
+    "link": "https://www.finextra.com/pressarticle/111233/rain-launches-stablecoin-wallet?utm_medium=rssfinextra&utm_source=finextrafeed",
+    "published": "Tue, 13 Oct 2026 15:59:00 GMT",
+    "fetched": "2026-10-14T11:03:36.150353"
   },
   {
     "id": "e02af5fae71f",
@@ -186,25 +123,16 @@
     "summary": "Banking technology vendor FIS has built an agentic AI suite designed to help CFOs manage collections, liquidity, risk and cash flow.",
     "link": "https://www.finextra.com/newsarticle/48568/fis-launches-agentic-ai-suite-for-the-office-of-the-cfo?utm_medium=rssfinextra&utm_source=finextrafeed",
     "published": "Mon, 12 Oct 2026 05:01:00 GMT",
-    "fetched": "2026-10-13T13:24:59.608958"
+    "fetched": "2026-10-14T11:03:36.150345"
   },
   {
-    "id": "2d523db0fb4b",
-    "source": "The Block",
-    "title": "Standard Chartered launches custody for Ripple\u2019s RLUSD on XRP Ledger",
-    "summary": "The bank is working with Ripple and LMAX Group to enable RLUSD as collateral for certain LMAX products under its collateral mirroring model.",
-    "link": "https://www.theblock.co/news/business/2026-10-12-standard-chartered-custody-ripple-rlusd-418258",
-    "published": "Mon, 12 Oct 2026 09:35:21 +0000",
-    "fetched": "2026-10-13T13:24:59.386471"
-  },
-  {
-    "id": "6f6d0cafcaa5",
-    "source": "The Block",
-    "title": "Morgan Stanley expects to support tokenized equities in Q1 2027, digital asset strategy head says",
-    "summary": "Morgan Stanley is actively building the necessary infrastructure for tokenized equities while monitoring industry developments.",
-    "link": "https://www.theblock.co/news/markets/2026-10-12-morgan-stanley-tokenized-equities-q1-2027-418256",
-    "published": "Mon, 12 Oct 2026 10:10:13 +0000",
-    "fetched": "2026-10-13T13:24:59.386454"
+    "id": "e91fafd131a6",
+    "source": "Finextra",
+    "title": "BoA fined $1.2bn over \"egregious\" AML deficiencies",
+    "summary": "Bank of America (BoA) has been fined $1.2bn for its \"deficient and ineffective\" anti-money laundering (AML) process as well as \"egregious and continued\" violations of the Bank Secrecy Act (BSA).",
+    "link": "https://www.finextra.com/newsarticle/48579/boa-fined-12bn-over-egregious-aml-deficiencies?utm_medium=rssfinextra&utm_source=finextrafeed",
+    "published": "Wed, 14 Oct 2026 10:37:00 GMT",
+    "fetched": "2026-10-14T11:03:36.150224"
   },
   {
     "id": "d446350bfb95",
@@ -213,7 +141,7 @@
     "summary": "DFDV added 22,070 SOL last week, lifting holdings to 2.59 million SOL, as its CHAD preferred stock hit record highs despite a selloff.",
     "link": "https://www.theblock.co/news/business/2026-10-12-defi-development-sol-holdings-2-59-million-chad-418307",
     "published": "Mon, 12 Oct 2026 14:53:25 +0000",
-    "fetched": "2026-10-13T13:24:59.386404"
+    "fetched": "2026-10-14T11:03:35.975343"
   },
   {
     "id": "ce886df2b7aa",
@@ -222,7 +150,7 @@
     "summary": "StoneX lifts SECZ price target to $18 from $12, citing new revenue from the Securitize Stocks tokenized trading platform on Solana.",
     "link": "https://www.theblock.co/news/markets/2026-10-12-stonex-raises-securitize-price-target-tokenized-stocks-418313",
     "published": "Mon, 12 Oct 2026 17:06:25 +0000",
-    "fetched": "2026-10-13T13:24:59.386396"
+    "fetched": "2026-10-14T11:03:35.975335"
   },
   {
     "id": "0fe2fbf6f730",
@@ -231,7 +159,7 @@
     "summary": "Newly proposed rules for leveraged and margined crypto trading may be too late as the 2028 election cycle looms, according to TD Cowen.",
     "link": "https://www.theblock.co/news/regulation/2026-10-12-cftcs-new-crypto-framework-could-face-2028-election-deadline-td-cowen-418358",
     "published": "Mon, 12 Oct 2026 20:53:54 +0000",
-    "fetched": "2026-10-13T13:24:59.386364"
+    "fetched": "2026-10-14T11:03:35.975316"
   },
   {
     "id": "0fcdca351928",
@@ -240,33 +168,105 @@
     "summary": "The NFT marketplace's frontend next month while the protocol stays onchain. The BLUR token fell more than 20%.",
     "link": "https://www.theblock.co/news/ecosystems/2026-10-12-blur-nft-marketplace-shutting-down-frontend-blend-418363",
     "published": "Mon, 12 Oct 2026 21:49:02 +0000",
-    "fetched": "2026-10-13T13:24:59.386343"
+    "fetched": "2026-10-14T11:03:35.975300"
   },
   {
-    "id": "28e21baf4c3b",
-    "source": "CoinDesk",
-    "title": "Global financial watchdog calls for cross-border information sharing, planning for stablecoin crisis",
-    "summary": "",
-    "link": "https://www.coindesk.com/policy/2026/10/12/global-financial-watchdog-calls-for-cross-border-information-sharing-planning-for-stablecoin-crisis",
-    "published": "Mon, 12 Oct 2026 11:02:38 +0000",
-    "fetched": "2026-10-13T13:24:59.249270"
+    "id": "235bbc9898e2",
+    "source": "The Block",
+    "title": "DRW and Marex complete OTC swap referencing tokenized S&P iBoxx Index",
+    "summary": "DRW and Marex completed the first OTC swap referencing a fully tokenized index on Derivnex via the Canton Network, with Kaiko data.",
+    "link": "https://www.theblock.co/news/markets/2026-10-13-drw-marex-first-otc-swap-tokenized-sp-iboxx-index-canton-network-418440",
+    "published": "Tue, 13 Oct 2026 15:00:29 +0000",
+    "fetched": "2026-10-14T11:03:35.975209"
   },
   {
-    "id": "0ab44c406ef1",
+    "id": "ede26fcd6b16",
     "source": "CoinDesk",
-    "title": "Standard Chartered offers RLUSD custody in Dubai and plans LMAX collateral link",
+    "title": "Tokenized SanDisk bets saw more liquidations than XRP as Asia\u2019s chip rout wipes out $800 million",
     "summary": "",
-    "link": "https://www.coindesk.com/business/2026/10/12/standard-chartered-offers-rlusd-custody-in-dubai-and-plans-lmax-collateral-link",
-    "published": "Mon, 12 Oct 2026 12:09:09 +0000",
-    "fetched": "2026-10-13T13:24:59.249247"
+    "link": "https://www.coindesk.com/markets/2026/10/13/tokenized-sandisk-bets-saw-more-liquidations-than-xrp-as-asia-s-chip-rout-wipes-out-usd800-million",
+    "published": "Tue, 13 Oct 2026 05:27:17 +0000",
+    "fetched": "2026-10-14T11:03:35.853890"
   },
   {
-    "id": "5fe4ba016acb",
+    "id": "cb4682ce6940",
     "source": "CoinDesk",
-    "title": "Tokenized catastrophe bonds target the disaster-insurance gap",
+    "title": "Federated Hermes joins Wall Street's tokenization push with plans for first onchain fund shares",
     "summary": "",
-    "link": "https://www.coindesk.com/business/2026/10/12/tokenized-catastrophe-bonds-target-the-disaster-insurance-gap",
-    "published": "Mon, 12 Oct 2026 15:00:00 +0000",
-    "fetched": "2026-10-13T13:24:59.249237"
+    "link": "https://www.coindesk.com/business/2026/10/13/federated-hermes-joins-wall-street-s-tokenization-push-with-plans-for-first-onchain-fund-shares",
+    "published": "Tue, 13 Oct 2026 11:56:04 +0000",
+    "fetched": "2026-10-14T11:03:35.853810"
+  },
+  {
+    "id": "6466d230f8cf",
+    "source": "CoinDesk",
+    "title": "BNY, Citadel Securities test tokenized U.S. Treasuries to speed up Wall Street financing",
+    "summary": "",
+    "link": "https://www.coindesk.com/business/2026/10/13/bny-citadel-securities-test-tokenized-u-s-treasuries-to-speed-up-wall-street-financing",
+    "published": "Tue, 13 Oct 2026 21:52:00 +0000",
+    "fetched": "2026-10-14T11:03:35.853776"
+  },
+  {
+    "id": "0516e8e1d7a2",
+    "source": "CoinDesk",
+    "title": "Proposed 31.4% French tax on regulated stablecoins could drive crypto traders offshore",
+    "summary": "",
+    "link": "https://www.coindesk.com/policy/2026/10/14/proposed-french-tax-on-regulated-stablecoins-could-drive-crypto-traders-offshore",
+    "published": "Wed, 14 Oct 2026 08:48:11 +0000",
+    "fetched": "2026-10-14T11:03:35.853704"
+  },
+  {
+    "id": "2c81b6ddd2ce",
+    "source": "ECB",
+    "title": "Isabel Schnabel: Central banks on-chain",
+    "summary": "",
+    "link": "https://www.ecb.europa.eu//press/key/date/2026/html/ecb.sp261001_1~a0be67193b.en.pdf",
+    "published": "Thu, 01 Oct 2026 17:30:00 +0200",
+    "fetched": "2026-10-14T11:03:35.605873"
+  },
+  {
+    "id": "3a790dc22465",
+    "source": "ECB",
+    "title": "Piero Cipollone: Money in the digital age: digital euro, tokenisation and the role of central banks",
+    "summary": "",
+    "link": "https://www.ecb.europa.eu//press/key/date/2026/html/ecb.sp261006~0da978f159.en.html",
+    "published": "Tue, 06 Oct 2026 15:00:00 +0200",
+    "fetched": "2026-10-14T11:03:35.605820"
+  },
+  {
+    "id": "4090ad68b367",
+    "source": "Federal Reserve",
+    "title": "Federal Reserve Board requests public comment on two proposals related to establishing a regulatory framework for Board-supervised payment stablecoin issuers under the GENIUS Act",
+    "summary": "Federal Reserve Board requests public comment on two proposals related to establishing a regulatory framework for Board-supervised payment stablecoin issuers under the GENIUS Act",
+    "link": "https://www.federalreserve.gov/newsevents/pressreleases/bcreg20260924a.htm",
+    "published": "Thu, 24 Sep 2026 18:30:00 GMT",
+    "fetched": "2026-10-14T11:03:34.608022"
+  },
+  {
+    "id": "edb026136fdd",
+    "source": "a16z Crypto",
+    "title": "TradFi doesn\u2019t want DeFi. It wants blockchains.",
+    "summary": "How institutions are rebuilding finance from DeFi\u2019s primitives. And why open networks still matter.",
+    "link": "https://a16zcrypto.com/posts/article/tradfi-doesnt-want-defi-it-wants-blockchain",
+    "published": "Tue, 14 Jul 2026 11:46:02 GMT",
+    "fetched": "2026-10-14T11:03:33.572241"
+  },
+  {
+    "id": "c04cad99338c",
+    "source": "a16z Crypto",
+    "title": "3 charts on the tokenized stocks boom",
+    "summary": "Tokenized equities \u2014 or tokenized stocks, as they\u2019re more commonly known \u2014 show the inroads crypto is making into Wall Street. These are blockchain-based tokens that represent traditional equities such as corporate shares, ETFs, and index products. Unlike traditional equities, tokenized stocks can b...",
+    "link": "https://a16zcrypto.com/posts/article/charts-tokenized-stocks",
+    "published": "Mon, 20 Jul 2026 19:20:51 GMT",
+    "fetched": "2026-10-14T11:03:33.572221"
+  },
+  {
+    "id": "62900291a0a1",
+    "source": "a16z Crypto",
+    "title": "It's time to pass the CLARITY Act",
+    "summary": "Every generation gets a chance to upgrade its infrastructure. In the 1990s, it was the internet. Policymakers worried that it would disrupt existing industries and create new risks. But instead of cramming the technology into outdated regulatory boxes, lawmakers established rules that let innovation...",
+    "link": "https://a16zcrypto.com/posts/article/clarity-act-time-to-pass",
+    "published": "Wed, 22 Jul 2026 17:45:03 GMT",
+    "fetched": "2026-10-14T11:03:33.572210"
   }
 ]
