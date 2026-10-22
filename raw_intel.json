@@ -1,93 +1,12 @@
 [
   {
-    "id": "070ade85b838",
-    "source": "CoinTelegraph",
-    "title": "Tx launches USTX stablecoin to pull RWA liquidity onto its chain",
-    "summary": "<p style=\"float: right; margin: 0 0 10px 15px; width: 240px;\"><img alt=\"Tx launches USTX stablecoin to pull RWA liquidity onto its chain \" class=\"type:primaryImage\" src=\"https://s3-images.ctmedia.io/media/article-covers/2026/10/01M5CB3DG99Z15CC7ASVQCSCA8/hi-you-cant-talk-about-blockchain-and-not-bring-up-rwas-and-stablecoins.jpg\" /></p><p>The Brale-issued token can be minted with USDC from eight networks and is designed to settle tokenized stocks and other assets on tx.</p>",
-    "link": "https://cointelegraph.com/news/tx-ustx-stablecoin-rwa-liquidity-chain?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-    "published": "Tue, 20 Oct 2026 12:30:00 +0000",
-    "fetched": "2026-10-21T11:03:41.989085"
-  },
-  {
-    "id": "2d36b899c46d",
-    "source": "CoinTelegraph",
-    "title": "Alphabet, Microsoft add objections to OKX-ICE proposed tokenized stock platform",
-    "summary": "<p style=\"float: right; margin: 0 0 10px 15px; width: 240px;\"><img alt=\"Alphabet, Microsoft add objections to OKX-ICE proposed tokenized stock platform\" class=\"type:primaryImage\" src=\"https://s3-images.ctmedia.io/media/article-covers/2026/10/01M5CW3NTKT5PSES4HTCWWPBKD/new-york-stock-exchange-nyse.jpg\" /></p><p>About 25% of the US-listed companies in OKXICE\u2019s initial tokenized stock platform proposal are asking to opt-out of the venture.</p>",
-    "link": "https://cointelegraph.com/news/alphabet-microsoft-goldman-object-okx-ice-tokenized-stock?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-    "published": "Tue, 20 Oct 2026 16:23:17 +0000",
-    "fetched": "2026-10-21T11:03:41.989007"
-  },
-  {
-    "id": "506763547a65",
-    "source": "CoinTelegraph",
-    "title": "Stablecoin transfers quadruple to $891B as US banks expand adoption: Report",
-    "summary": "<p style=\"float: right; margin: 0 0 10px 15px; width: 240px;\"><img alt=\"Stablecoin transfers quadruple to $891B as US banks expand adoption: Report\" class=\"type:primaryImage\" src=\"https://s3-images.ctmedia.io/media/article-covers/2026/10/01M5D18A9EH2CRG7XQSQ4MBY0Z/hi-global-standards-intergovernmental-groups-overview-of-different-bodies.png\" /></p><p>Coinbase reports growing adoption by banks and businesses, even as stablecoin market capitalization remains largely unchanged over the past year.</p>",
-    "link": "https://cointelegraph.com/news/stablecoins-move-400m-an-hour-as-73-of-volume-occurs-outside-banking-hours-coinbase-report?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-    "published": "Tue, 20 Oct 2026 16:38:13 +0000",
-    "fetched": "2026-10-21T11:03:41.988999"
-  },
-  {
-    "id": "2fcd95e4f0be",
-    "source": "CoinTelegraph",
-    "title": "Injective, BDACS plan Korean won stablecoin settlement for tokenized assets",
-    "summary": "<p style=\"float: right; margin: 0 0 10px 15px; width: 240px;\"><img alt=\"Injective, BDACS plan Korean won stablecoin settlement for tokenized assets \" class=\"type:primaryImage\" src=\"https://s3-images.ctmedia.io/media/article-covers/2026/10/01M5CY3MR3WZ537VDFZE18DZR5/south-korea-coin2.jpg\" /></p><p>Injective and BDACS plan to bring won-backed stablecoin KRW1 to tokenized asset markets as South Korea develops a regulatory framework for local currency stablecoins.</p>",
-    "link": "https://cointelegraph.com/news/injective-bdacs-korean-won-stablecoin-tokenized-assets?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-    "published": "Tue, 20 Oct 2026 16:47:48 +0000",
-    "fetched": "2026-10-21T11:03:41.988993"
-  },
-  {
-    "id": "8003d949d2c9",
-    "source": "CoinTelegraph",
-    "title": "Crypto\u2019s 2026 shutdown wave claims 82 projects. What went wrong?",
-    "summary": "<p style=\"float: right; margin: 0 0 10px 15px; width: 240px;\"><img alt=\"Crypto\u2019s 2026 shutdown wave claims 82 projects. What went wrong? \" class=\"type:primaryImage\" src=\"https://s3-images.ctmedia.io/media/article-covers/2026/09/01M1H2YME5WK16MEE643RQSSVQ/layoffs-fired-human-resource-hr-leaving-quit-closing-breaking-news-3.jpg\" /></p><p>Crypto projects are struggling to survive as falling revenues, depleted funding and security breaches force closures across DeFi, blockchain infrastructure and gaming.\n</p>",
-    "link": "https://cointelegraph.com/news/crypto-project-shutdowns-2026-what-went-wrong?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-    "published": "Tue, 20 Oct 2026 19:59:39 +0000",
-    "fetched": "2026-10-21T11:03:41.988966"
-  },
-  {
-    "id": "f087df33e227",
-    "source": "CoinTelegraph",
-    "title": "Bitwise, Hyperliquid seek SEC rule changes for token trading, airdrops",
-    "summary": "<p style=\"float: right; margin: 0 0 10px 15px; width: 240px;\"><img alt=\"Bitwise, Hyperliquid seek SEC rule changes for token trading, airdrops\" class=\"type:primaryImage\" src=\"https://s3-images.ctmedia.io/media/article-covers/2026/10/01M5DEQWS5T9NWD3NCPZKH095N/hi-how-you-could-save-money-when-reporting-crypto-mica.png\" /></p><p>The firms are seeking clearer guidance on the classification of crypto assets and secondary-market trading as the SEC\u2019s public comment period comes to a close.</p>",
-    "link": "https://cointelegraph.com/news/bitwise-hyperliquid-seek-sec-rule-changes-for-token-trading-airdrops?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-    "published": "Tue, 20 Oct 2026 20:38:00 +0000",
-    "fetched": "2026-10-21T11:03:41.988955"
-  },
-  {
-    "id": "c608fd4ef5fb",
-    "source": "CoinTelegraph",
-    "title": "Qubic restarts blockchain, opens recovery claims after $1.4M hack",
-    "summary": "<p style=\"float: right; margin: 0 0 10px 15px; width: 240px;\"><img alt=\"Qubic restarts blockchain, opens recovery claims after $1.4M hack\" class=\"type:primaryImage\" src=\"https://s3-images.ctmedia.io/media/article-covers/2026/10/01M5DSAH36P14HYENYBM6CHPAW/blockchain-network.jpg\" /></p><p>The network\u2019s validators approved a recovery plan and opened claims until May 1, 2027.</p>",
-    "link": "https://cointelegraph.com/news/qubic-restarts-blockchain-opens-recovery-claims-after-14m-hack?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-    "published": "Tue, 20 Oct 2026 23:26:02 +0000",
-    "fetched": "2026-10-21T11:03:41.988914"
-  },
-  {
-    "id": "4d2e21421375",
-    "source": "CoinTelegraph",
-    "title": "Malaysia central bank launches DLT platform for tokenized bonds",
-    "summary": "<p style=\"float: right; margin: 0 0 10px 15px; width: 240px;\"><img alt=\"Malaysia central bank launches DLT platform for tokenized bonds\" class=\"type:primaryImage\" src=\"https://s3-images.ctmedia.io/media/article-covers/2026/10/01M5EFRAEF78CJAMAFGA606YZ5/hi-us-banks-have-deeper-interest-in-digital-than-previously-thought-1.png\" /></p><p>The platform tracks tokenized securities ownership and transfers, linking to Malaysia\u2019s RENTAS+ system to settle corresponding payments in central bank money.</p>",
-    "link": "https://cointelegraph.com/news/malaysia-central-bank-tokenized-bonds-sukuk-dlt-platform?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-    "published": "Wed, 21 Oct 2026 05:56:29 +0000",
-    "fetched": "2026-10-21T11:03:41.988866"
-  },
-  {
-    "id": "547ccb312a5a",
-    "source": "CoinTelegraph",
-    "title": "Here\u2019s what happened in crypto today",
-    "summary": "<p style=\"float: right; margin: 0 0 10px 15px; width: 240px;\"><img alt=\"Here\u2019s what happened in crypto today\" class=\"type:primaryImage\" src=\"https://s3-images.ctmedia.io/media/article-covers/article-covers-110589-what-happened-in-crypto-today.jpg\" /></p><p>Need to know what happened in crypto today? Here is the latest news on daily trends and events impacting Bitcoin price, blockchain, DeFi, Web3 and crypto regulation.</p>",
-    "link": "https://cointelegraph.com/news/what-happened-in-crypto-today?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-    "published": "Wed, 21 Oct 2026 06:00:00 +0000",
-    "fetched": "2026-10-21T11:03:41.988857"
-  },
-  {
     "id": "8f6b7c347dc3",
     "source": "CoinTelegraph",
     "title": "Zcash rallies 12% as developers finalize NU7 activation height",
     "summary": "<p style=\"float: right; margin: 0 0 10px 15px; width: 240px;\"><img alt=\"Zcash rallies 12% as developers finalize NU7 activation height\" class=\"type:primaryImage\" src=\"https://s3-images.ctmedia.io/media/article-covers/2026/10/01M5EY9NGAQBRRNWG4WW84BF23/zcash-with-blockchain-elements.png\" /></p><p>Zcash extended triple-digit year-to-date gains as developers agreed on the NU7 mainnet activation height, targeting Nov. 5, with node synchronization work still pending.</p>",
     "link": "https://cointelegraph.com/markets/zcash-zec-rallies-12-percent-nu7-mainnet-upgrade?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
     "published": "Wed, 21 Oct 2026 10:15:00 +0000",
-    "fetched": "2026-10-21T11:03:41.988811"
+    "fetched": "2026-10-22T11:02:19.489828"
   },
   {
     "id": "2f3d72b6cdd0",
@@ -96,7 +15,7 @@
     "summary": "<p style=\"float: right; margin: 0 0 10px 15px; width: 240px;\"><img alt=\"Shinhan, SBI make Japan-Korea tourist spending a test case for yen stablecoins\" class=\"type:primaryImage\" src=\"https://s3-images.ctmedia.io/media/article-covers/2026/10/01M5ES4410V5T0TB2Z1ESB86ZY/hi-south-korea-lifts-9-year-corporate-crypto-ban-what-the-policy-change-means-2.jpg\" /></p><p>The companies will assess safeguards for travelers and whether stablecoins can speed up trade settlement between South Korea and Japan.</p>",
     "link": "https://cointelegraph.com/news/shinhan-sbi-japan-korea-travel-yen-stablecoin?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
     "published": "Wed, 21 Oct 2026 10:22:44 +0000",
-    "fetched": "2026-10-21T11:03:41.988797"
+    "fetched": "2026-10-22T11:02:19.489817"
   },
   {
     "id": "e17fb1e80fa5",
@@ -105,7 +24,7 @@
     "summary": "<p style=\"float: right; margin: 0 0 10px 15px; width: 240px;\"><img alt=\"Bitcoin \u2018top buyers\u2019 halt BTC price upside with $87.7K now key: Glassnode \" class=\"type:primaryImage\" src=\"https://s3-images.ctmedia.io/media/article-covers/2026/10/01M5F0PB0PYRW4ADV979RY5M5W/hi-on-chain-volume-vs-trading-value.jpg\" /></p><p>Bitcoin price current resistance near $87,000 was reinforced by investors who bought BTC in late 2025, per new research.</p>",
     "link": "https://cointelegraph.com/markets/bitcoin-top-buyers-halt-btc-price-upside-with-877k-now-key-glassnode?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
     "published": "Wed, 21 Oct 2026 10:39:13 +0000",
-    "fetched": "2026-10-21T11:03:41.988790"
+    "fetched": "2026-10-22T11:02:19.489812"
   },
   {
     "id": "a03e2bff30e7",
@@ -114,7 +33,7 @@
     "summary": "<p style=\"float: right; margin: 0 0 10px 15px; width: 240px;\"><img alt=\"France proposes liability for crypto exchanges offering DeFi access\" class=\"type:primaryImage\" src=\"https://s3-images.ctmedia.io/media/article-covers/2026/10/01M5EW6T8X7HNP6HYDF0Y90R51/cointelegraph-with-french-flag.png\" /></p><p>French authorities want crypto exchanges to conduct checks on DeFi protocols and face liability for certain customer losses under proposed changes to EU crypto rules.</p>",
     "link": "https://cointelegraph.com/news/france-liability-crypto-exchange-defi-access?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
     "published": "Wed, 21 Oct 2026 10:46:00 +0000",
-    "fetched": "2026-10-21T11:03:41.988776"
+    "fetched": "2026-10-22T11:02:19.489802"
   },
   {
     "id": "189b907e4c6c",
@@ -123,115 +42,205 @@
     "summary": "<p style=\"float: right; margin: 0 0 10px 15px; width: 240px;\"><img alt=\"PancakeSwap TVL tops $380M as major fee overhaul heads to vote \" class=\"type:primaryImage\" src=\"https://s3-images.ctmedia.io/media/article-covers/2026/10/01M5F0XMYD8030VW50866B29EH/defi-pancakeswap-icon-changed.png\" /></p><p>PancakeSwap\u2019s proposed fee-sharing overhaul would give liquidity providers 88% of swap fees and cut CAKE emissions by 69%, as BNB Chain\u2019s DeFi activity expands.</p>",
     "link": "https://cointelegraph.com/markets/pancakeswap-tvl-jumps-19-percent-fee-overhaul?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
     "published": "Wed, 21 Oct 2026 10:50:52 +0000",
-    "fetched": "2026-10-21T11:03:41.988764"
+    "fetched": "2026-10-22T11:02:19.489797"
   },
   {
-    "id": "0c6efa6856d1",
+    "id": "159da2c7f7d1",
+    "source": "CoinTelegraph",
+    "title": "Standard Chartered signs definitive deal to acquire Zodia Custody",
+    "summary": "<p style=\"float: right; margin: 0 0 10px 15px; width: 240px;\"><img alt=\"Standard Chartered signs definitive deal to acquire Zodia Custody\" class=\"type:primaryImage\" src=\"https://s3-images.ctmedia.io/media/article-covers/2026/10/01M5F1FSSR50BKQNJE8H5390BV/hi-the-biggest-crypto-investments-as-in-funding-rounds-in-21-1.jpg\" /></p><p>The signing follows shareholders\u2019 acceptance of Standard Chartered\u2019s non-binding offer in May, with regulatory approvals still pending.</p>",
+    "link": "https://cointelegraph.com/news/standard-chartered-acquire-zodia-custody-uk?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+    "published": "Wed, 21 Oct 2026 12:06:23 +0000",
+    "fetched": "2026-10-22T11:02:19.489789"
+  },
+  {
+    "id": "54fa685b26e6",
+    "source": "CoinTelegraph",
+    "title": "OCC finalizes GENIUS Act rules for stablecoin issuers and custody",
+    "summary": "<p style=\"float: right; margin: 0 0 10px 15px; width: 240px;\"><img alt=\"OCC finalizes GENIUS Act rules for stablecoin issuers and custody \" class=\"type:primaryImage\" src=\"https://s3-images.ctmedia.io/media/article-covers/2026/10/01M5F4C8N1049F4P2ZC93PE5VK/crypto-regulation-paper-rule-office-mica-eu-v2.jpg\" /></p><p>The Office of the Comptroller of the Currency\u2019s final rule covers payment stablecoin issuance and some custody activities, with the GENIUS Act framework taking effect in mid-January.</p>",
+    "link": "https://cointelegraph.com/news/occ-finalizes-genius-act-rules-stablecoin-issuers-custody?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+    "published": "Wed, 21 Oct 2026 12:26:58 +0000",
+    "fetched": "2026-10-22T11:02:19.489782"
+  },
+  {
+    "id": "4ce86f66644d",
+    "source": "CoinTelegraph",
+    "title": "Solana\u2019s Alpenglow launches on mainnet, targets 99% faster finality",
+    "summary": "<p style=\"float: right; margin: 0 0 10px 15px; width: 240px;\"><img alt=\"Solana\u2019s Alpenglow launches on mainnet, targets 99% faster finality \" class=\"type:primaryImage\" src=\"https://s3-images.ctmedia.io/media/article-covers/2026/10/01M5F9M5QVFXDEA42YHSF756WB/hi-despite-the-markets-being-down-the-blockchain-industry-is-still-thriving-solana.jpg\" /></p><p>Solana\u2019s first major consensus upgrade is targeting 99% finality reduction, seeking to offer users near-immediate transaction settlement and more responsive applications.</p>",
+    "link": "https://cointelegraph.com/news/solanas-alpenglow-launches-mainnet-99-faster-finality?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+    "published": "Wed, 21 Oct 2026 13:57:14 +0000",
+    "fetched": "2026-10-22T11:02:19.489741"
+  },
+  {
+    "id": "7e86a05784dc",
+    "source": "CoinTelegraph",
+    "title": "Chainlink, Cardano, other blockchain groups push SEC for clearer crypto rules",
+    "summary": "<p style=\"float: right; margin: 0 0 10px 15px; width: 240px;\"><img alt=\"Chainlink, Cardano, other blockchain groups push SEC for clearer crypto rules \" class=\"type:primaryImage\" src=\"https://s3-images.ctmedia.io/media/article-covers/2026/10/01M5FH88750HFGGVZ9ZQN6BBTV/hi-token-burning-explained-sec.png\" /></p><p>Six major blockchain organizations urged the SEC to formally recognize digital commodities as non-securities in its proposed regulatory framework.</p>",
+    "link": "https://cointelegraph.com/news/chainlink-cardano-and-other-blockchain-groups-push-sec-for-clearer-crypto-rules?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+    "published": "Wed, 21 Oct 2026 16:09:26 +0000",
+    "fetched": "2026-10-22T11:02:19.489715"
+  },
+  {
+    "id": "2a1b8804f89f",
+    "source": "CoinTelegraph",
+    "title": "Treasury Secretary Bessent likens GENIUS Act to Lincoln-era banking reform",
+    "summary": "<p style=\"float: right; margin: 0 0 10px 15px; width: 240px;\"><img alt=\"Treasury Secretary Bessent likens GENIUS Act to Lincoln-era banking reform \" class=\"type:primaryImage\" src=\"https://s3-images.ctmedia.io/media/article-covers/2026/09/01M36AE384GN77A4QEPA6NWS0X/bessent.jpg\" /></p><p>The OCC has finalized rules for stablecoin reserves and redemptions, with Bessent calling the GENIUS Act a \u201cwatershed moment for American finance.\u201d\n</p>",
+    "link": "https://cointelegraph.com/news/occ-finalizes-stablecoin-rules-genius-act-bessent?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+    "published": "Wed, 21 Oct 2026 17:10:54 +0000",
+    "fetched": "2026-10-22T11:02:19.489704"
+  },
+  {
+    "id": "447c81bb6c36",
+    "source": "CoinTelegraph",
+    "title": "UK financial watchdog opens consultations for DeFi guidance, crypto laws",
+    "summary": "<p style=\"float: right; margin: 0 0 10px 15px; width: 240px;\"><img alt=\"UK financial watchdog opens consultations for DeFi guidance, crypto laws\" class=\"type:primaryImage\" src=\"https://s3-images.ctmedia.io/media/article-covers/2026/10/01M5FMCZNK1JKRGRB78Y7WZ0DR/hi-fca-uk.jpg\" /></p><p>The UK Financial Conduct Authority consultations came just weeks after the agency opened applications for companies under its new crypto regulatory regime.</p>",
+    "link": "https://cointelegraph.com/news/uk-fca-consultations-defi-crypto-laws?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+    "published": "Wed, 21 Oct 2026 17:25:00 +0000",
+    "fetched": "2026-10-22T11:02:19.489697"
+  },
+  {
+    "id": "f63e914fec10",
+    "source": "CoinTelegraph",
+    "title": "Cardano Foundation urges EU against expanding MiCA rules to DeFi and staking",
+    "summary": "<p style=\"float: right; margin: 0 0 10px 15px; width: 240px;\"><img alt=\"Cardano Foundation urges EU against expanding MiCA rules to DeFi and staking\" class=\"type:primaryImage\" src=\"https://s3-images.ctmedia.io/media/article-covers/2026/10/01M5FPM6BCNQXFX9C9NF5W5GF3/hi-heres-what-you-pay-for-using-crypto-mica-eu.png\" /></p><p>The foundation called for regulation based on financial risks rather than technology, warning that overlapping rules could create uncertainty for crypto businesses across the EU.</p>",
+    "link": "https://cointelegraph.com/news/cardano-foundation-urges-eu-against-expanding-mica-rules-to-defi-and-staking?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+    "published": "Wed, 21 Oct 2026 17:57:39 +0000",
+    "fetched": "2026-10-22T11:02:19.489692"
+  },
+  {
+    "id": "bea9a15ec759",
+    "source": "CoinTelegraph",
+    "title": "Tether backs Bolivian fintech bringing USDT payments to food delivery and banking",
+    "summary": "<p style=\"float: right; margin: 0 0 10px 15px; width: 240px;\"><img alt=\"Tether backs Bolivian fintech bringing USDT payments to food delivery and banking\" class=\"type:primaryImage\" src=\"https://s3-images.ctmedia.io/media/article-covers/2026/10/01M5FY16RXJTWFR0B5DJ896X4P/hi-from-ban-to-adoption-the-evolution-of-crypto-policy-in-bolivia-2.png\" /></p><p>The investment will support Peso\u2019s expansion across four Latin American markets, where it connects stablecoin payments to merchant services and local banking networks.</p>",
+    "link": "https://cointelegraph.com/news/tether-backs-bolivian-fintech-bringing-usdt-payments-to-food-delivery-and-banking?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+    "published": "Wed, 21 Oct 2026 20:26:07 +0000",
+    "fetched": "2026-10-22T11:02:19.489669"
+  },
+  {
+    "id": "d1f9ead1f2eb",
+    "source": "CoinTelegraph",
+    "title": "American Bankers Association: OCC\u2019s GENIUS rules \u2018undermine\u2019 US Congress",
+    "summary": "<p style=\"float: right; margin: 0 0 10px 15px; width: 240px;\"><img alt=\"American Bankers Association: OCC\u2019s GENIUS rules \u2018undermine\u2019 US Congress \" class=\"type:primaryImage\" src=\"https://s3-images.ctmedia.io/media/article-covers/2026/10/01M5G2G8DNS83ZJANR3X4SZBVD/policymaker-bill-us-genius-act-1.jpg\" /></p><p>Banking advocacy organizations are pushing back against the OCC\u2019s finalized rules on a stablecoin law, arguing against changes to provisions on yield.</p>",
+    "link": "https://cointelegraph.com/news/american-bankers-association-occ-genius-rules-stablecoins?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+    "published": "Wed, 21 Oct 2026 21:53:48 +0000",
+    "fetched": "2026-10-22T11:02:19.489661"
+  },
+  {
+    "id": "547ccb312a5a",
+    "source": "CoinTelegraph",
+    "title": "Here\u2019s what happened in crypto today",
+    "summary": "<p style=\"float: right; margin: 0 0 10px 15px; width: 240px;\"><img alt=\"Here\u2019s what happened in crypto today\" class=\"type:primaryImage\" src=\"https://s3-images.ctmedia.io/media/article-covers/article-covers-110589-what-happened-in-crypto-today.jpg\" /></p><p>Need to know what happened in crypto today? Here is the latest news on daily trends and events impacting Bitcoin price, blockchain, DeFi, Web3 and crypto regulation.</p>",
+    "link": "https://cointelegraph.com/news/what-happened-in-crypto-today?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+    "published": "Thu, 22 Oct 2026 05:56:18 +0000",
+    "fetched": "2026-10-22T11:02:19.489617"
+  },
+  {
+    "id": "6b398de3914c",
+    "source": "CoinTelegraph",
+    "title": "Bitcoin ETFs bag another $528M, taking 3-day haul past $1B",
+    "summary": "<p style=\"float: right; margin: 0 0 10px 15px; width: 240px;\"><img alt=\"Bitcoin ETFs bag another $528M, taking 3-day haul past $1B\" class=\"type:primaryImage\" src=\"https://s3-images.ctmedia.io/media/article-covers/2026/09/01M1NJXA13RF9N1Q13C8RH5D6G/surfing-blockchain-wave-etf-1.jpg\" /></p><p>US spot Bitcoin ETFs drew $1.08 billion over three trading sessions to push October flows back above water.</p>",
+    "link": "https://cointelegraph.com/markets/bitcoin-etfs-528-million-btc-tops-84k?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+    "published": "Thu, 22 Oct 2026 07:37:32 +0000",
+    "fetched": "2026-10-22T11:02:19.489609"
+  },
+  {
+    "id": "cd22444acab2",
+    "source": "CoinTelegraph",
+    "title": "Starknet voters back research into life beyond Ethereum",
+    "summary": "<p style=\"float: right; margin: 0 0 10px 15px; width: 240px;\"><img alt=\"Starknet voters back research into life beyond Ethereum\" class=\"type:primaryImage\" src=\"https://s3-images.ctmedia.io/media/article-covers/2026/10/01M5HD0868XDVMAEX50APTK2HS/quantum.png\" /></p><p>StarkWare plans to release a draft whitepaper in November as it explores an independent, quantum-resistant blockchain.</p>",
+    "link": "https://cointelegraph.com/news/starknet-vote-post-quantum-l1-research-ethereum?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+    "published": "Thu, 22 Oct 2026 09:37:54 +0000",
+    "fetched": "2026-10-22T11:02:19.489576"
+  },
+  {
+    "id": "30b4b97c3436",
     "source": "PYMNTS",
-    "title": "The Agentic Edge: Who Has It and How to Get It",
-    "summary": "<p>Remember travel agents? Not the AI kind. The real people kind. For anyone under the age of 30, here\u2019s how it worked. You walked into a little storefront with a poster of a Caribbean island in the window and sat across the desk from someone with a headset and a multi-line landline phone, typing into [&#8230;]</p>\n<p>The post <a href=\"https://www.pymnts.com/news/artificial-intelligence/2026/the-agentic-edge-who-has-it-and-how-to-get-it/\">The Agentic Edge: Who Has It and How to Get It</a> appeared first on <a href=\"https://www.pymnts.com\">PYMNTS.com</a>.</p>",
-    "link": "https://www.pymnts.com/news/artificial-intelligence/2026/the-agentic-edge-who-has-it-and-how-to-get-it/",
-    "published": "Wed, 21 Oct 2026 08:00:14 +0000",
-    "fetched": "2026-10-21T11:03:41.467327"
+    "title": "Built to Scale: How to Grow Embedded Payments Without Starting Over",
+    "summary": "<p>Embedded payments can be relatively straightforward to launch, but successful growth changes what businesses need from their payments infrastructure. As volume rises, so can fraud exposure, compliance demands and operational complexity. Companies that design for those demands from the beginning, including by choosing providers equipped to support them through growth, can scale without having to rebuild payments along the way.</p>\n<p>The post <a href=\"https://www.pymnts.com/report/tracker/built-to-scale-how-to-grow-embedded-payments-without-starting-over/\">Built to Scale: How to Grow Embedde",
+    "link": "https://www.pymnts.com/report/tracker/built-to-scale-how-to-grow-embedded-payments-without-starting-over/",
+    "published": "Thu, 22 Oct 2026 08:00:00 +0000",
+    "fetched": "2026-10-22T11:02:19.148243"
   },
   {
-    "id": "7c1c77593295",
+    "id": "a4524c537a37",
     "source": "PYMNTS",
-    "title": "Stablecoins Need to Get Behind Cards, Not Replace Them",
-    "summary": "<p>Watch more: Paymentology Says AI Agents Must Earn the Right to Move Money The stablecoin industry has spent possibly too much time trying to reinvent checkout. Consumers already have a nearly universal interface for turning balances into purchases. Their cards. Merchants already accept them, networks already route them, all while banks and processors already know [&#8230;]</p>\n<p>The post <a href=\"https://www.pymnts.com/cryptocurrency/2026/stablecoins-must-get-behind-cards-not-replace-them/\">Stablecoins Need to Get Behind Cards, Not Replace Them</a> appeared first on <a href=\"https://www.py",
-    "link": "https://www.pymnts.com/cryptocurrency/2026/stablecoins-must-get-behind-cards-not-replace-them/",
-    "published": "Wed, 21 Oct 2026 08:03:49 +0000",
-    "fetched": "2026-10-21T11:03:41.467251"
+    "title": "Instant Payments May Give Credit Unions a Deposit Growth Advantage",
+    "summary": "<p>Banks have generally measured instant payments by transactions: how many customers use them, how much money moves and how quickly payments arrive. An example from Amplify Credit Union adds another measure: deposit growth. Business accounts that received at least one instant payment grew 25% faster after Amplify enabled receive-only capabilities on The Clearing House RTP [&#8230;]</p>\n<p>The post <a href=\"https://www.pymnts.com/real-time-payments/2026/instant-payments-may-give-credit-unions-a-deposit-growth-advantage/\">Instant Payments May Give Credit Unions a Deposit Growth Advantage</a> ap",
+    "link": "https://www.pymnts.com/real-time-payments/2026/instant-payments-may-give-credit-unions-a-deposit-growth-advantage/",
+    "published": "Thu, 22 Oct 2026 08:00:08 +0000",
+    "fetched": "2026-10-22T11:02:19.148231"
   },
   {
-    "id": "a6f280432084",
+    "id": "8ec55ac3b45c",
     "source": "PYMNTS",
-    "title": "JPMorgan Gets Closer to Clinching Nigerian Banking License",
-    "summary": "<p>J.P. Morgan Chase is reportedly getting closer to obtaining a banking license in Nigeria. The largest U.S. bank has deposited 50 billion naira ($37.5 million) with the Central Bank of Nigeria, Bloomberg News reported Tuesday (Oct. 20), citing sources familiar with the matter. The deposit, one of the last regulatory requirements for clinching approval, shows [&#8230;]</p>\n<p>The post <a href=\"https://www.pymnts.com/news/banking/2026/jpmorgan-gets-closer-to-securing-nigerian-banking-license/\">JPMorgan Gets Closer to Clinching Nigerian Banking License</a> appeared first on <a href=\"https://www",
-    "link": "https://www.pymnts.com/news/banking/2026/jpmorgan-gets-closer-to-securing-nigerian-banking-license/",
-    "published": "Wed, 21 Oct 2026 10:41:55 +0000",
-    "fetched": "2026-10-21T11:03:41.467242"
+    "title": "FIS Says Digital Money Puts Bank Infrastructure to the Test",
+    "summary": "<p>Digital money is pushing banks toward making decisions about infrastructure well beyond whether to issue a token. Among the decisions that need to be made: Which forms of digital money belong inside their own relationships, which need broader distribution, how different networks connect and what controls must follow a transaction when money settles in real [&#8230;]</p>\n<p>The post <a href=\"https://www.pymnts.com/blockchain/2026/fis-says-digital-money-puts-bank-infrastructure-to-the-test/\">FIS Says Digital Money Puts Bank Infrastructure to the Test</a> appeared first on <a href=\"https://www",
+    "link": "https://www.pymnts.com/blockchain/2026/fis-says-digital-money-puts-bank-infrastructure-to-the-test/",
+    "published": "Thu, 22 Oct 2026 08:02:29 +0000",
+    "fetched": "2026-10-22T11:02:19.148154"
   },
   {
-    "id": "06b99067bf65",
+    "id": "d9765bcecaf0",
     "source": "Finextra",
-    "title": "MoonPay and Dunamu collaborate on digital asset infrastructure",
-    "summary": "MoonPay, a global crypto payments and stablecoin infrastructure company, is pursuing a strategic collaboration with Dunamu in the field of global financial infrastructure built on digital assets.",
-    "link": "https://www.finextra.com/pressarticle/111378/moonpay-and-dunamu-collaborate-on-digital-asset-infrastructure?utm_medium=rssfinextra&utm_source=finextrafeed",
-    "published": "Wed, 21 Oct 2026 09:54:00 GMT",
-    "fetched": "2026-10-21T11:03:41.362381"
+    "title": "GCEX launches digital assets options",
+    "summary": "GCEX has launched options on Bitcoin (BTC) and Ethereum (ETH) for eligible professional and institutional clients.",
+    "link": "https://www.finextra.com/pressarticle/111405/gcex-launches-digital-assets-options?utm_medium=rssfinextra&utm_source=finextrafeed",
+    "published": "Thu, 22 Oct 2026 11:12:00 GMT",
+    "fetched": "2026-10-22T11:02:19.041759"
   },
   {
-    "id": "ce057860b887",
+    "id": "9b43db375f49",
     "source": "Finextra",
-    "title": "Participate and Hazel complete tokenised payment using tokenised deposits",
-    "summary": "Participate, the Loan Sales Ecosystem for financial institutions, today announced it has completed the world\u2019s first loan participation or syndication principal and interest payment between financial institutions using tokenized deposits.",
-    "link": "https://www.finextra.com/pressarticle/111377/participate-and-hazel-complete-tokenised-payment-using-tokenised-deposits?utm_medium=rssfinextra&utm_source=finextrafeed",
-    "published": "Wed, 21 Oct 2026 09:50:00 GMT",
-    "fetched": "2026-10-21T11:03:41.362375"
+    "title": "AI debt collection platform launches in Norway",
+    "summary": "PAIR Finance, Europe\u2019s leading AI debt collection platform, today launches in Norway.",
+    "link": "https://www.finextra.com/pressarticle/111401/ai-debt-collection-platform-launches-in-norway?utm_medium=rssfinextra&utm_source=finextrafeed",
+    "published": "Thu, 22 Oct 2026 10:48:00 GMT",
+    "fetched": "2026-10-22T11:02:19.041721"
   },
   {
-    "id": "26c50828f5bd",
+    "id": "becc267f1ee2",
     "source": "Finextra",
-    "title": "Versana and Allvue partner to modernise loan market data connectivity and automation",
-    "summary": "Versana LLC (\u201cVersana\u201d), an industry-backed enterprise data and digital infrastructure company for the broadly syndicated loan (BSL) and private credit markets, and Allvue Systems, LLC (\u201cAllvue\u201d), a leading technology provider for private capital markets, today announced a strategic partnership connecting Versana\u2019s centralized digital data platform with Allvue\u2019s trade order management and investment accounting solutions to transform interoperability and scalability across the $9 trillion BSL and private credit markets.",
-    "link": "https://www.finextra.com/pressarticle/111373/versana-and-allvue-partner-to-modernise-loan-market-data-connectivity-and-automation?utm_medium=rssfinextra&utm_source=finextrafeed",
-    "published": "Tue, 20 Oct 2026 18:24:00 GMT",
-    "fetched": "2026-10-21T11:03:41.362332"
+    "title": "Model ML opens Dubai office",
+    "summary": "Model ML, the agentic operating system for financial and professional services, is expanding in the Middle East with a new Dubai office and the appointment of Raghav Sehgal as General Manager for the region.",
+    "link": "https://www.finextra.com/pressarticle/111399/model-ml-opens-dubai-office?utm_medium=rssfinextra&utm_source=finextrafeed",
+    "published": "Thu, 22 Oct 2026 09:46:00 GMT",
+    "fetched": "2026-10-22T11:02:19.041706"
   },
   {
-    "id": "93e94f2c23ca",
+    "id": "0e7837873296",
     "source": "Finextra",
-    "title": "Ramp applies for national bank trust charter",
-    "summary": "Ramp has become the latest fintech to apply for a US national bank charter, enabling the expense management platform to offer fiduciary investment management and custody of digital assets.",
-    "link": "https://www.finextra.com/newsarticle/48619/ramp-applies-for-national-bank-trust-charter?utm_medium=rssfinextra&utm_source=finextrafeed",
-    "published": "Tue, 20 Oct 2026 15:20:00 GMT",
-    "fetched": "2026-10-21T11:03:41.362233"
+    "title": "Commercial Bank of Dubai joins CBMT Network",
+    "summary": "Commercial Bank of Dubai\u2019s (CBD) participation in the Commercial Bank Money Token (CBMT) initiative marks the first Middle East bank joining the network, extending CBMT beyond Europe.",
+    "link": "https://www.finextra.com/pressarticle/111397/commercial-bank-of-dubai-joins-cbmt-network?utm_medium=rssfinextra&utm_source=finextrafeed",
+    "published": "Thu, 22 Oct 2026 09:37:00 GMT",
+    "fetched": "2026-10-22T11:02:19.041690"
   },
   {
-    "id": "2ee64008d9b0",
-    "source": "The Block",
-    "title": "Mesh taps Visa to let users spend crypto without a separate card",
-    "summary": "Mesh and Visa will let users spend crypto and stablecoin balances from wallet apps, with no need to sell or transfer assets first.",
-    "link": "https://www.theblock.co/news/business/2026-10-19-mesh-visa-partner-spend-crypto-stablecoins-421058",
-    "published": "Mon, 19 Oct 2026 16:10:02 +0000",
-    "fetched": "2026-10-21T11:03:41.233534"
+    "id": "18daf85195f5",
+    "source": "Finextra",
+    "title": "OCC sets out final rule to implement Genius Act",
+    "summary": "The Office of the Comptroller of the Currency (OCC) today announced a final rule to implement the Guiding and Establishing National Innovation for U.S. Stablecoins (GENIUS) Act.",
+    "link": "https://www.finextra.com/pressarticle/111394/occ-sets-out-final-rule-to-implement-genius-act?utm_medium=rssfinextra&utm_source=finextrafeed",
+    "published": "Wed, 21 Oct 2026 18:15:00 GMT",
+    "fetched": "2026-10-22T11:02:19.041660"
   },
   {
-    "id": "3f41a06b7093",
-    "source": "The Block",
-    "title": "Blockchain Association says Treasury\u2019s GENIUS Act rollout needs clearer DeFi, foreign issuer rules",
-    "summary": "The group filed comments on Treasury's proposed rule implementing the GENIUS Act, which governs who can issue and sell payment stablecoins.",
-    "link": "https://www.theblock.co/news/regulation/2026-10-20-blockchain-association-clearer-rules-genius-act-421092",
-    "published": "Tue, 20 Oct 2026 04:07:41 +0000",
-    "fetched": "2026-10-21T11:03:41.233519"
+    "id": "a7cbd2faaefb",
+    "source": "Finextra",
+    "title": "Standard Chartered to acquire Zodia Custody",
+    "summary": "UK bank and global custodian Standard Chartered is set to acquire digital assets service provider Zodia Custody.",
+    "link": "https://www.finextra.com/newsarticle/48627/standard-chartered-to-acquire-zodia-custody?utm_medium=rssfinextra&utm_source=finextrafeed",
+    "published": "Wed, 21 Oct 2026 12:55:00 GMT",
+    "fetched": "2026-10-22T11:02:19.041593"
   },
   {
-    "id": "9250d4d87f8a",
-    "source": "The Block",
-    "title": "Stablecoins move over $400 million per hour on average as off-hours transfers dominate, Coinbase and The Block study finds",
-    "summary": "Stablecoins are on track to reach $1.5 trillion in quarterly adjusted transfer volume by the end of 2027 at current growth rates, according to the report.",
-    "link": "https://www.theblock.co/news/web3/2026-10-20-stablecoins-move-400-million-per-hour-421111",
-    "published": "Tue, 20 Oct 2026 13:00:00 +0000",
-    "fetched": "2026-10-21T11:03:41.233487"
-  },
-  {
-    "id": "8db32a402358",
-    "source": "The Block",
-    "title": "Injective partners with BDACS to bring Korean won stablecoin to RWA ecosystem",
-    "summary": "The move comes amid South Korea's regulatory developments to establish a framework for Korean won-denominated stablecoins.",
-    "link": "https://www.theblock.co/news/markets/2026-10-20-injective-partners-bdacs-418883",
-    "published": "Tue, 20 Oct 2026 14:00:00 +0000",
-    "fetched": "2026-10-21T11:03:41.233481"
-  },
-  {
-    "id": "2d603374231c",
-    "source": "The Block",
-    "title": "Blockchain.com rolls out crypto options as it pursues US derivatives licenses",
-    "summary": "Blockchain.com now offers call and put options on BTC, ETH, SOL, HYPE, AVAX, XRP and TRX, with expiries up to one week.",
-    "link": "https://www.theblock.co/news/markets/2026-10-20-blockchain-com-launches-options-trading-bitcoin-ether-sol-421326",
-    "published": "Tue, 20 Oct 2026 14:31:29 +0000",
-    "fetched": "2026-10-21T11:03:41.233475"
+    "id": "14d308e7386b",
+    "source": "Finextra",
+    "title": "Fintechs top banks and stablecoins for cheap cross-border payment - BIS research",
+    "summary": "Cross-border payments remain slow and expensive but fintech outfits such as Wise and Remitly have substantially cut costs relative to traditional retail bank wires while stabelcoins still suffer from issues with friction, according to BIS research.",
+    "link": "https://www.finextra.com/newsarticle/48630/fintechs-top-banks-and-stablecoins-for-cheap-cross-border-payment---bis-research?utm_medium=rssfinextra&utm_source=finextrafeed",
+    "published": "Thu, 22 Oct 2026 00:01:00 GMT",
+    "fetched": "2026-10-22T11:02:19.041570"
   },
   {
     "id": "bfaf4fbabde8",
@@ -240,7 +249,7 @@
     "summary": "As the SEC\u2019s comment period on a cryptocurrency proposal draws to a close, digital asset firms and Wall Street institutions have thoughts.",
     "link": "https://www.theblock.co/news/regulation/2026-10-20-sec-regulation-crypto-assets-comment-period-hyperliquid-sifma-aima-421444",
     "published": "Tue, 20 Oct 2026 19:19:54 +0000",
-    "fetched": "2026-10-21T11:03:41.233408"
+    "fetched": "2026-10-22T11:02:18.904479"
   },
   {
     "id": "d53ffc81baff",
@@ -249,7 +258,7 @@
     "summary": "The companies also plan to explore ways to broaden global access to Dunamu's Ethereum Layer 2, GIWA chain.",
     "link": "https://www.theblock.co/news/business/2026-10-20-moonpay-upbit-dunamu-421476",
     "published": "Wed, 21 Oct 2026 02:30:08 +0000",
-    "fetched": "2026-10-21T11:03:41.233393"
+    "fetched": "2026-10-22T11:02:18.904469"
   },
   {
     "id": "acc7ba5e627b",
@@ -258,15 +267,6 @@
     "summary": "OCC published its final GENIUS Act stablecoin rule, effective Jan. 18, dropping a proposed presumption on third-party rewards arrangements.",
     "link": "https://www.theblock.co/news/regulation/2026-10-21-occ-final-rule-implementing-trump-signed-genius-act-421470",
     "published": "Wed, 21 Oct 2026 11:01:02 +0000",
-    "fetched": "2026-10-21T11:03:41.233369"
-  },
-  {
-    "id": "c3809f610ebd",
-    "source": "CoinDesk",
-    "title": "France's parliament approves vote to hit stablecoin trades with 31% capital gains tax",
-    "summary": "",
-    "link": "https://www.coindesk.com/policy/2026/10/20/france-s-parliament-approves-vote-to-hit-crypto-to-stablecoin-trades-with-31-levy",
-    "published": "Tue, 20 Oct 2026 11:25:00 +0000",
-    "fetched": "2026-10-21T11:03:41.146436"
+    "fetched": "2026-10-22T11:02:18.904454"
   }
 ]
