@@ -1,66 +1,12 @@
 [
   {
-    "id": "36ca14143fd7",
-    "source": "CoinTelegraph",
-    "title": "Underdog taps zerohash to bring crypto deposits to prediction markets",
-    "summary": "<p style=\"float: right; margin: 0 0 10px 15px; width: 240px;\"><img alt=\"Underdog taps zerohash to bring crypto deposits to prediction markets \" class=\"type:primaryImage\" src=\"https://s3-images.ctmedia.io/media/article-covers/2026/10/01M5J8K4B5TT5MGQN65E52S1DC/hi-when-will-the-prediction-market-take-place-and-what-effect-is-it-having-on-crypto-1.png\" /></p><p>The new funding option, expected to launch later this year, will allow eligible Underdog users to deposit digital assets around the clock.</p>",
-    "link": "https://cointelegraph.com/news/underdog-taps-zerohash-to-bring-crypto-deposits-to-prediction-markets?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-    "published": "Thu, 22 Oct 2026 17:24:49 +0000",
-    "fetched": "2026-10-25T10:35:39.754672"
-  },
-  {
-    "id": "edf928d18194",
-    "source": "CoinTelegraph",
-    "title": "Dune launches real-time data feeds covering 200 onchain trading venues",
-    "summary": "<p style=\"float: right; margin: 0 0 10px 15px; width: 240px;\"><img alt=\"Dune launches real-time data feeds covering 200 onchain trading venues \" class=\"type:primaryImage\" src=\"https://s3-images.ctmedia.io/media/article-covers/2026/10/01M5JGN1ZK06QVTDRZ4G9H7NNP/hi-crypto-trading-basics-a-beginners-guide-to-cryptocurrency-order-types.png\" /></p><p>The new service aims to bring onchain trading data into institutional financial systems as tokenized stock markets expand and face growing scrutiny.</p>",
-    "link": "https://cointelegraph.com/news/dune-launches-real-time-data-feeds-covering-200-onchain-trading-venues?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-    "published": "Thu, 22 Oct 2026 20:36:00 +0000",
-    "fetched": "2026-10-25T10:35:39.754633"
-  },
-  {
-    "id": "d9011df6b059",
-    "source": "CoinTelegraph",
-    "title": "Circle shareholder sues Trump, World Liberty and Steve Witkoff over crypto deals",
-    "summary": "<p style=\"float: right; margin: 0 0 10px 15px; width: 240px;\"><img alt=\"Circle shareholder sues Trump, World Liberty and Steve Witkoff over crypto deals\" class=\"type:primaryImage\" src=\"https://s3-images.ctmedia.io/media/article-covers/2026/10/01M5JK4F3B2YXBP85MJ4RJSMWE/judge-law-court-regulation.jpg\" /></p><p>According to a Circle shareholder, the US president\u2019s \u201ccorruption\u201d through USD1 left the company unable to compete with stablecoins, harming USDC.</p>",
-    "link": "https://cointelegraph.com/news/circle-shareholder-lawsuit-donald-trump-world-liberty-financial-steve-witkoff-crypto-corruption?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-    "published": "Thu, 22 Oct 2026 21:39:18 +0000",
-    "fetched": "2026-10-25T10:35:39.754605"
-  },
-  {
-    "id": "487caf073775",
-    "source": "CoinTelegraph",
-    "title": "Ethereum delays Glamsterdam Hoodi testnet launch over security risks",
-    "summary": "<p style=\"float: right; margin: 0 0 10px 15px; width: 240px;\"><img alt=\"Ethereum delays Glamsterdam Hoodi testnet launch over security risks\" class=\"type:primaryImage\" src=\"https://s3-images.ctmedia.io/media/article-covers/2026/10/01M5KJ9Q2Z3SXSHTQY0NFK4Z54/security-ethereum-testnet.png\" /></p><p>ChainSecurity said it identified 13 real-world examples of smart contracts potentially affected by Glamsterdam\u2019s gas changes and is coordinating responsible disclosure with affected projects. </p>",
-    "link": "https://cointelegraph.com/news/ethereum-delays-glamsterdam-testnet-fork-gas-security-risks?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-    "published": "Fri, 23 Oct 2026 05:09:41 +0000",
-    "fetched": "2026-10-25T10:35:39.754516"
-  },
-  {
-    "id": "869acb2c7738",
-    "source": "CoinTelegraph",
-    "title": "Bitcoin ETFs bleed $635M as October slides back into the red",
-    "summary": "<p style=\"float: right; margin: 0 0 10px 15px; width: 240px;\"><img alt=\"Bitcoin ETFs bleed $635M as October slides back into the red\" class=\"type:primaryImage\" src=\"https://s3-images.ctmedia.io/media/article-covers/2026/10/01M5KQ8H85QR2DC93BFCNF4N1X/hi-what-is-a-bitcoin-node-a-beginners-guide-on-blockchain-nodes-etf3-2.jpg\" /></p><p>Thursday\u2019s withdrawals ended a three-day inflow streak and left US spot Bitcoin ETFs with $175 million in net outflows for October.</p>",
-    "link": "https://cointelegraph.com/markets/bitcoin-etfs-erase-october-gains-outflow?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-    "published": "Fri, 23 Oct 2026 07:09:39 +0000",
-    "fetched": "2026-10-25T10:35:39.754494"
-  },
-  {
-    "id": "52fd4d36b8b3",
-    "source": "CoinTelegraph",
-    "title": "Malaysia, Thailand join Singapore\u2019s cross-border stablecoin push",
-    "summary": "<p style=\"float: right; margin: 0 0 10px 15px; width: 240px;\"><img alt=\"Malaysia, Thailand join Singapore\u2019s cross-border stablecoin push\" class=\"type:primaryImage\" src=\"https://s3-images.ctmedia.io/media/article-covers/2026/10/01M5KRGMT9N9EBWS5WR5Y7D3JH/hi-why-singapore-is-one-of-the-most-crypto-friendly-countries.jpg\" /></p><p>BLOOM seeks to cut costs by helping financial institutions coordinate cross-border use of stablecoins and tokenized deposits.</p>",
-    "link": "https://cointelegraph.com/news/malaysia-thailand-join-singapores-cross-border-stablecoin-push?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-    "published": "Fri, 23 Oct 2026 07:15:53 +0000",
-    "fetched": "2026-10-25T10:35:39.754474"
-  },
-  {
     "id": "3db5e642ae31",
     "source": "CoinTelegraph",
     "title": "HSBC launches Hong Kong dollar stablecoin for retail payments",
     "summary": "<p style=\"float: right; margin: 0 0 10px 15px; width: 240px;\"><img alt=\"HSBC launches Hong Kong dollar stablecoin for retail payments\" class=\"type:primaryImage\" src=\"https://s3-images.ctmedia.io/media/article-covers/2026/10/01M5KWVDV4958J4HW5KZ8FCECW/hsbc-redcoin-stablecoin.png\" /></p><p>HSBC is rolling out RedCoin wallets to PayMe users, with plans to support tokenized investment subscriptions and expand into institutional uses.</p>",
     "link": "https://cointelegraph.com/news/hsbc-launches-redcoin-hong-kong-dollar-stablecoin-payme?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
     "published": "Fri, 23 Oct 2026 08:47:34 +0000",
-    "fetched": "2026-10-25T10:35:39.754463"
+    "fetched": "2026-10-26T12:08:51.124257"
   },
   {
     "id": "76535dd7e268",
@@ -69,7 +15,7 @@
     "summary": "<p style=\"float: right; margin: 0 0 10px 15px; width: 240px;\"><img alt=\"Was crypto self-custody ever designed for beginners?\" class=\"type:primaryImage\" src=\"https://s3-images.ctmedia.io/media/article-covers/2026/10/01M5KXQCE4PMMZDTHNGM7946XD/hi-self-custody-of-cryptocurrencies-is-your-own-wallet-really-safer-for-private-investors.jpg\" /></p><p>Recent hardware wallet security incidents have renewed debate over whether self-custody is suitable for beginners, as multisig and seedless designs carry their own risks.</p>",
     "link": "https://cointelegraph.com/news/self-custody-crypto-beginners-mainstream-adoption?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
     "published": "Fri, 23 Oct 2026 11:47:47 +0000",
-    "fetched": "2026-10-25T10:35:39.754411"
+    "fetched": "2026-10-26T12:08:51.124220"
   },
   {
     "id": "e372e2b7d846",
@@ -78,7 +24,7 @@
     "summary": "<p style=\"float: right; margin: 0 0 10px 15px; width: 240px;\"><img alt=\"New York AG seeks $1.37B from NovaTech founders over Ponzi scheme\" class=\"type:primaryImage\" src=\"https://s3-images.ctmedia.io/media/article-covers/2026/10/01M5M9W5Y4WRYGA8MNYB0WFHZF/hi-status-of-prediction-market-battle-3.jpg\" /></p><p>The request follows an August 2025 default judgment, with the AG also announcing nearly $6 million in settlements with four promoters.</p>",
     "link": "https://cointelegraph.com/news/new-york-ag-novatech-founders-companies-crypto-ponzi?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
     "published": "Fri, 23 Oct 2026 12:33:37 +0000",
-    "fetched": "2026-10-25T10:35:39.754370"
+    "fetched": "2026-10-26T12:08:51.124191"
   },
   {
     "id": "3ef47b70ee53",
@@ -87,16 +33,7 @@
     "summary": "<p style=\"float: right; margin: 0 0 10px 15px; width: 240px;\"><img alt=\"China targets 2030 for its national blockchain network buildout\" class=\"type:primaryImage\" src=\"https://s3-images.ctmedia.io/media/article-covers/2026/10/01M5MEGNPQ3M8HRRFF6ZWNHZKK/chinese-blockchain-patents.jpg\" /></p><p>China\u2019s five-year digital development plan calls for wider blockchain use in trade and manufacturing alongside stronger technical standards.</p>",
     "link": "https://cointelegraph.com/news/china-2030-national-blockchain-network-buildout?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
     "published": "Fri, 23 Oct 2026 13:21:07 +0000",
-    "fetched": "2026-10-25T10:35:39.754357"
-  },
-  {
-    "id": "547ccb312a5a",
-    "source": "CoinTelegraph",
-    "title": "Here\u2019s what happened in crypto today",
-    "summary": "<p style=\"float: right; margin: 0 0 10px 15px; width: 240px;\"><img alt=\"Here\u2019s what happened in crypto today\" class=\"type:primaryImage\" src=\"https://s3-images.ctmedia.io/media/article-covers/article-covers-110589-what-happened-in-crypto-today.jpg\" /></p><p>Need to know what happened in crypto today? Here is the latest news on daily trends and events impacting Bitcoin price, blockchain, DeFi, Web3 and crypto regulation.</p>",
-    "link": "https://cointelegraph.com/news/what-happened-in-crypto-today?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-    "published": "Fri, 23 Oct 2026 13:38:53 +0000",
-    "fetched": "2026-10-25T10:35:39.754337"
+    "fetched": "2026-10-26T12:08:51.124183"
   },
   {
     "id": "236d80ae3c77",
@@ -105,7 +42,7 @@
     "summary": "<p style=\"float: right; margin: 0 0 10px 15px; width: 240px;\"><img alt=\"SEC flags tokenization as high-risk area in 2027 market examinations\" class=\"type:primaryImage\" src=\"https://s3-images.ctmedia.io/media/article-covers/2026/10/01M5MP9HHR5PTKGP6MBRZ5FNFH/hi-irs-joins-the-j5-international-crypto-tax-enforcement-coming-next1.png\" /></p><p>The SEC\u2019s latest priorities highlight tokenization as an emerging market risk, while cryptocurrencies remain absent as a standalone examination category.</p>",
     "link": "https://cointelegraph.com/news/sec-adds-tokenized-securities-to-2027-examination-priorities?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
     "published": "Fri, 23 Oct 2026 16:08:40 +0000",
-    "fetched": "2026-10-25T10:35:39.754303"
+    "fetched": "2026-10-26T12:08:51.124155"
   },
   {
     "id": "fce7b50f1ebc",
@@ -114,7 +51,7 @@
     "summary": "<p style=\"float: right; margin: 0 0 10px 15px; width: 240px;\"><img alt=\"Initia halts blockchain after exploit reportedly drains over $2.6M\" class=\"type:primaryImage\" src=\"https://s3-images.ctmedia.io/media/article-covers/2026/10/01M5MZKF3C8AJPVBYK5JQWCAWW/hi-got-crypto-losses-wallet.png\" /></p><p>The blockchain suspended its layer-1 network and rollups after security researchers identified unauthorized token minting and millions in assets transferred to Ethereum.\n</p>",
     "link": "https://cointelegraph.com/news/initia-halts-blockchain-exploit-drained?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
     "published": "Fri, 23 Oct 2026 18:39:02 +0000",
-    "fetched": "2026-10-25T10:35:39.754272"
+    "fetched": "2026-10-26T12:08:51.124135"
   },
   {
     "id": "5e8d5a6398c2",
@@ -123,52 +60,115 @@
     "summary": "<p style=\"float: right; margin: 0 0 10px 15px; width: 240px;\"><img alt=\"Wells Fargo and five others object to OKX-ICE tokenized stock listings: Report\" class=\"type:primaryImage\" src=\"https://s3-images.ctmedia.io/media/article-covers/2026/10/01M5N19TPWN37A162FFHMQDBR2/hi-cover-imagereview-of-us-stocks.jpg\" /></p><p>As of Friday, 22 companies had filed objections as part of the joint venture\u2019s proposed tokenized stock platform under the SEC\u2019s innovation exemption.</p>",
     "link": "https://cointelegraph.com/news/nasdaq-companies-object-tokenized-stock-listings-okx-ice?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
     "published": "Fri, 23 Oct 2026 21:32:16 +0000",
-    "fetched": "2026-10-25T10:35:39.754231"
+    "fetched": "2026-10-26T12:08:51.124109"
   },
   {
-    "id": "f8f7b9064098",
+    "id": "68f57619cee8",
+    "source": "CoinTelegraph",
+    "title": "Netanyahu floats use of blockchain as solution to potential financial sanctions",
+    "summary": "<p style=\"float: right; margin: 0 0 10px 15px; width: 240px;\"><img alt=\"Netanyahu floats use of blockchain as solution to potential financial sanctions\" class=\"type:primaryImage\" src=\"https://s3-images.ctmedia.io/media/article-covers/2026/10/01M5SCA4VS7NKA06DYBPJVW2FM/benjamin-netanyahu.png\" /></p><p>Ahead of elections, Prime Minister Benjamin Netanyahu said Israel could turn to blockchain and crypto to skirt potential international sanctions, to the dismay of opponents and the country\u2019s central banker.</p>",
+    "link": "https://cointelegraph.com/news/netanyahu-floats-use-of-blockchain-as-solution-to-potential-financial-sanctions?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+    "published": "Sun, 25 Oct 2026 11:42:00 +0000",
+    "fetched": "2026-10-26T12:08:51.124103"
+  },
+  {
+    "id": "1d510d98df1c",
+    "source": "CoinTelegraph",
+    "title": "ECB official sees digital euro as key to protecting EU \u2018sovereignty\u2019",
+    "summary": "<p style=\"float: right; margin: 0 0 10px 15px; width: 240px;\"><img alt=\"ECB official sees digital euro as key to protecting EU \u2018sovereignty\u2019\" class=\"type:primaryImage\" src=\"https://s3-images.ctmedia.io/media/article-covers/2026/10/01M5SRKMQRMTK1JF6KQQYDH57E/hi-european-mica-regulation-on-digital-euro-where-do-we-stand-1.jpg\" /></p><p>Piero Cipollone said the bloc is on track to test real transactions in 2027 and roll out a digital euro as early as 2029, pending legislation this year.</p>",
+    "link": "https://cointelegraph.com/news/ecb-official-sees-digital-euro-tool-to-protect-eu-sovereignty?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+    "published": "Sun, 25 Oct 2026 15:11:00 +0000",
+    "fetched": "2026-10-26T12:08:51.124088"
+  },
+  {
+    "id": "d8b9d23c586a",
+    "source": "CoinTelegraph",
+    "title": "AI agents help rescue ETH\u2019s Glamsterdam fork, \u2018Steal My Bitcoin\u2019 site: Hodler\u2019s Digest",
+    "summary": "<p style=\"float: right; margin: 0 0 10px 15px; width: 240px;\"><img alt=\"AI agents help rescue ETH\u2019s Glamsterdam fork, \u2018Steal My Bitcoin\u2019 site: Hodler\u2019s Digest\" class=\"type:primaryImage\" src=\"https://s3-images.ctmedia.io/media/article-covers/2026/10/01M5TEA8K047VPRWAXPGMZR148/final-collage-oct-23-png.png\" /></p><p>Similar to the Hugging Face hack, Ethereum researchers have set up an AI Agent message board to help rescue the Glamsterdam fork. \u2018Steal My Bitcoin\u2019 site successfully hacked.</p>",
+    "link": "https://cointelegraph.com/magazine/ai-agents-help-rescue-eths-glamsterdam-fork-steal-my-bitcoin-site-hodlers-digest?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+    "published": "Sun, 25 Oct 2026 22:48:40 +0000",
+    "fetched": "2026-10-26T12:08:51.124076"
+  },
+  {
+    "id": "56186b7fb122",
+    "source": "CoinTelegraph",
+    "title": "Standard Chartered-led Anchorpoint says it\u2019s not rushing retail stablecoin",
+    "summary": "<p style=\"float: right; margin: 0 0 10px 15px; width: 240px;\"><img alt=\"Standard Chartered-led Anchorpoint says it\u2019s not rushing retail stablecoin\" class=\"type:primaryImage\" src=\"https://s3-images.ctmedia.io/media/article-covers/2026/10/01M5TQBHC9044ZJ3Z4XFZ9MKN2/hong-kong.jpg\" /></p><p>The Standard Chartered and Animoca Brands joint venture previously targeted retail access as early as the end of 2026, but its CEO declined to reaffirm that timeline.</p>",
+    "link": "https://cointelegraph.com/news/standard-chartered-led-anchorpoint-says-its-not-rushing-retail-stablecoin?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+    "published": "Mon, 26 Oct 2026 00:13:29 +0000",
+    "fetched": "2026-10-26T12:08:51.124063"
+  },
+  {
+    "id": "547ccb312a5a",
+    "source": "CoinTelegraph",
+    "title": "Here\u2019s what happened in crypto today",
+    "summary": "<p style=\"float: right; margin: 0 0 10px 15px; width: 240px;\"><img alt=\"Here\u2019s what happened in crypto today\" class=\"type:primaryImage\" src=\"https://s3-images.ctmedia.io/media/article-covers/article-covers-110589-what-happened-in-crypto-today.jpg\" /></p><p>Need to know what happened in crypto today? Here is the latest news on daily trends and events impacting Bitcoin price, blockchain, DeFi, Web3 and crypto regulation.</p>",
+    "link": "https://cointelegraph.com/news/what-happened-in-crypto-today?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+    "published": "Mon, 26 Oct 2026 05:44:44 +0000",
+    "fetched": "2026-10-26T12:08:51.124009"
+  },
+  {
+    "id": "6b3608e4f4a5",
+    "source": "CoinTelegraph",
+    "title": "Securitize\u2019s tokenized stock value halves as Circle widens lead",
+    "summary": "<p style=\"float: right; margin: 0 0 10px 15px; width: 240px;\"><img alt=\"Securitize\u2019s tokenized stock value halves as Circle widens lead\" class=\"type:primaryImage\" src=\"https://s3-images.ctmedia.io/media/article-covers/2026/09/01M1HFDYJCKJWQTKRMYKMVPJFP/hi-how-ondo-finance-plans-to-bring-tokenized-us-stocks-to-solana-3.jpg\" /></p><p>SECZ\u2019s onchain market cap fell to $208.6 million as Circle-linked tokens reached a combined $383.6 million across several issuers in the $3.3 billion tokenized equities market.</p>",
+    "link": "https://cointelegraph.com/markets/securitizes-tokenized-stock-circle-lead?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+    "published": "Mon, 26 Oct 2026 10:25:01 +0000",
+    "fetched": "2026-10-26T12:08:51.123988"
+  },
+  {
+    "id": "e293bf727f2a",
+    "source": "CoinTelegraph",
+    "title": "Aviva Investors launches tokenized share class of $29B Sterling fund on XRP Ledger",
+    "summary": "<p style=\"float: right; margin: 0 0 10px 15px; width: 240px;\"><img alt=\"Aviva Investors launches tokenized share class of $29B Sterling fund on XRP Ledger \" class=\"type:primaryImage\" src=\"https://s3-images.ctmedia.io/media/article-covers/2026/10/01M5VZBVYQC99NJGVW2H5K874Z/hi-why-tokenization-is-still-a-chimera.jpg\" /></p><p>The move marks Aviva\u2019s second fund to list tokenized shares, part of a broader collaboration to bring more tokenized funds to the XRP Ledger.</p>",
+    "link": "https://cointelegraph.com/news/aviva-investors-launches-tokenized-share-class-of-sterling-fund-on-xrp-ledger?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+    "published": "Mon, 26 Oct 2026 11:39:27 +0000",
+    "fetched": "2026-10-26T12:08:51.123963"
+  },
+  {
+    "id": "5c06da7dbb20",
     "source": "PYMNTS",
-    "title": "LianLian Taps PayPal and Venmo to Speed Up Cross-Border Payouts",
-    "summary": "<p>Cross-border payments firm LianLian Global\u2019s social commerce, marketplace and eCommerce clients can now send payouts to PayPal accounts globally and Venmo accounts in the United States, the company said in a Thursday (Oct. 22) press release. The capabilities are enabled by LianLian Global\u2019s new partnership with PayPal and are powered by PayPal Payouts, according to [&#8230;]</p>\n<p>The post <a href=\"https://www.pymnts.com/news/cross-border-payments/2026/lianlian-taps-paypal-venmo-speed-up-cross-border-payouts/\">LianLian Taps PayPal and Venmo to Speed Up Cross-Border Payouts</a> appeared fir",
-    "link": "https://www.pymnts.com/news/cross-border-payments/2026/lianlian-taps-paypal-venmo-speed-up-cross-border-payouts/",
-    "published": "Fri, 23 Oct 2026 21:44:07 +0000",
-    "fetched": "2026-10-25T10:35:39.208916"
+    "title": "Instacart Holds Sale Talks With Rivals Uber and DoorDash",
+    "summary": "<p>Instacart has reportedly contacted its rivals about purchasing its grocery delivery platform. The company is considering a sale and has discussed a possible deal with Uber, The Information reported Friday (Oct. 23), citing sources with knowledge of the matter who said the talks with Uber are not ongoing. The report added that Instacart has been [&#8230;]</p>\n<p>The post <a href=\"https://www.pymnts.com/news/delivery/2026/instacart-holds-sale-talks-with-rivals-uber-and-doordash/\">Instacart Holds Sale Talks With Rivals Uber and DoorDash</a> appeared first on <a href=\"https://www.pymnts.com\">PY",
+    "link": "https://www.pymnts.com/news/delivery/2026/instacart-holds-sale-talks-with-rivals-uber-and-doordash/",
+    "published": "Sun, 25 Oct 2026 23:32:31 +0000",
+    "fetched": "2026-10-26T12:08:50.689363"
   },
   {
-    "id": "c7bd08aa2b3f",
+    "id": "eb944ae48ea3",
     "source": "PYMNTS",
-    "title": "eInvoicing Mandates Turn Bills Into B2B Payment Data",
-    "summary": "<p>European eInvoicing mandates seek to standardize how businesses deliver the information used to approve and collect payments. Invoice amounts, tax details and transaction references enter defined fields that accounting software reads and processes, establishing a common basis for exchange between suppliers, buyers and their providers. The rollout extends across companies of different sizes and across [&#8230;]</p>\n<p>The post <a href=\"https://www.pymnts.com/news/b2b-payments/2026/einvoicing-mandates-turn-bills-into-b2b-payment-data/\">eInvoicing Mandates Turn Bills Into B2B Payment Data</a> ",
-    "link": "https://www.pymnts.com/news/b2b-payments/2026/einvoicing-mandates-turn-bills-into-b2b-payment-data/",
-    "published": "Fri, 23 Oct 2026 23:03:54 +0000",
-    "fetched": "2026-10-25T10:35:39.208898"
+    "title": "Wonder Plans IPO and Aims to Be Fully Autonomous by 2040",
+    "summary": "<p>Food startup Wonder has reportedly set its sights on going public amid wider expansion plans. As CNBC reported Sunday (Oct. 25), the company is also eyeing an \u201caggressive\u201d expansion in Texas and a subscription program that allows diners to operate their own \u201crestaurants.\u201d Launched in 2018, Wonder lets diners place takeout or delivery orders from [&#8230;]</p>\n<p>The post <a href=\"https://www.pymnts.com/news/investment-tracker/ipo/2026/wonder-plans-ipo-and-aims-to-be-fully-autonomous-by-2040/\">Wonder Plans IPO and Aims to Be Fully Autonomous by 2040</a> appeared first on <a href=\"https://www",
+    "link": "https://www.pymnts.com/news/investment-tracker/ipo/2026/wonder-plans-ipo-and-aims-to-be-fully-autonomous-by-2040/",
+    "published": "Mon, 26 Oct 2026 00:26:09 +0000",
+    "fetched": "2026-10-26T12:08:50.689327"
   },
   {
-    "id": "bed5fa4d335d",
+    "id": "8a9025f4efb7",
     "source": "PYMNTS",
-    "title": "Polygon Secures US Money Transmitter Licenses",
-    "summary": "<p>Polygon\u00a0has completed its acquisition of\u00a0Coinme, making\u00a0Polygon Open Money Stack\u00a0a U.S.-regulated payments platform, the company said in an Oct. 14\u00a0blog post. \u201cThis is a huge step for Polygon,\u201d the company said in the post. \u201cWe\u2019ve spent years building infrastructure that moves money onchain. Now Polygon has more of what it takes to support the whole payment: [&#8230;]</p>\n<p>The post <a href=\"https://www.pymnts.com/blockchain/2026/polygon-secures-us-money-transmitter-licenses/\">Polygon Secures US Money Transmitter Licenses</a> appeared first on <a href=\"https://www.pymnts.com\">PYMNTS.com</a",
-    "link": "https://www.pymnts.com/blockchain/2026/polygon-secures-us-money-transmitter-licenses/",
-    "published": "Fri, 23 Oct 2026 23:41:22 +0000",
-    "fetched": "2026-10-25T10:35:39.208859"
+    "title": "Walmart Takes On Prime With $120 Subscription Bundle",
+    "summary": "<p>Walmart has begun offering customers the chance to combine Walmart+ and Sam\u2019s Club Plus memberships into a single subscription.` Such a move is a \u201cdirect shot\u201d at Amazon Prime, Brett Rose, founder and CEO at wholesale distributor United National Consumer Supplier, told Retail Dive in a recent report. Walmart\u2019s offer is $120 a year vs. [&#8230;]</p>\n<p>The post <a href=\"https://www.pymnts.com/walmart-profile/2026/walmart-takes-on-prime-with-120-subscription-bundle/\">Walmart Takes On Prime With $120 Subscription Bundle</a> appeared first on <a href=\"https://www.pymnts.com\">PYMNTS.com</a>.</p>",
+    "link": "https://www.pymnts.com/walmart-profile/2026/walmart-takes-on-prime-with-120-subscription-bundle/",
+    "published": "Mon, 26 Oct 2026 01:16:52 +0000",
+    "fetched": "2026-10-26T12:08:50.689287"
   },
   {
-    "id": "0d0f79649f3b",
+    "id": "f6fc8eb5d760",
     "source": "PYMNTS",
-    "title": "57% of Large Firms Report Bot or Agent Incidents or Losses",
-    "summary": "<p>An identity check that stops a fraudster protects a business. One that blocks a legitimate customer costs it a sale. As automated agents handle more activity, enterprises have to establish who an agent represents and what it\u2019s authorized to do, while keeping ordinary transactions moving. The PYMNTS Intelligence report, \u201cHow Enterprises Can Build a \u2018Know [&#8230;]</p>\n<p>The post <a href=\"https://www.pymnts.com/cybersecurity/fraud-prevention/2026/57percent-of-large-firms-report-bot-or-agent-incidents-or-losses/\">57% of Large Firms Report Bot or Agent Incidents or Losses</a> appeared first on",
-    "link": "https://www.pymnts.com/cybersecurity/fraud-prevention/2026/57percent-of-large-firms-report-bot-or-agent-incidents-or-losses/",
-    "published": "Sun, 25 Oct 2026 08:00:20 +0000",
-    "fetched": "2026-10-25T10:35:39.208719"
+    "title": "AI Agents Take On Healthcare\u2019s Paperwork So Doctors Can Focus on Patients",
+    "summary": "<p>This week The Prompt Economy focuses on healthcare. It\u2019s here that agentic AI is affecting payments, research, care protocols and the patient experience. It\u2019s early days, but as you will see, progress is accelerating. So is identifying the pain points in healthcare and their solutions. Health insurers have invested heavily in technology, but work still [&#8230;]</p>\n<p>The post <a href=\"https://www.pymnts.com/news/artificial-intelligence/2026/ai-agents-take-on-healthcares-paperwork-so-doctors-can-focus-on-patients/\">AI Agents Take On Healthcare\u2019s Paperwork So Doctors Can Focus on Patients</",
+    "link": "https://www.pymnts.com/news/artificial-intelligence/2026/ai-agents-take-on-healthcares-paperwork-so-doctors-can-focus-on-patients/",
+    "published": "Mon, 26 Oct 2026 08:00:00 +0000",
+    "fetched": "2026-10-26T12:08:50.689271"
   },
   {
-    "id": "eb6cd0bfad7d",
-    "source": "Finextra",
-    "title": "How to Balance Blockchain's Speed and Privacy Flaws",
-    "summary": "At Sibos 2026, Hashgraph\u2019s CIO Gregg Bell discusses how to replace risky blockchain bridges to make Web3 settlements faster, safer, and fully private for global finance.",
-    "link": "https://www.finextra.com/videoarticle/3626/how-to-balance-blockchains-speed-and-privacy-flaws?utm_medium=rssfinextra&utm_source=finextrafeed",
-    "published": "Thu, 22 Oct 2026 15:00:00 GMT",
-    "fetched": "2026-10-25T10:35:39.027015"
+    "id": "ae750e028002",
+    "source": "PYMNTS",
+    "title": "Parents Split on What Makes Buy Now, Pay Later Options Attractive",
+    "summary": "<p>Pay later providers competing on monthly payment size, total cost and interest-free terms face different definitions of an attractive offer \u2014 even among households with children. Monthly payment amount is the leading consideration for 34% of married parents, according to PYMNTS Intelligence\u2019s \u201cThe Family Factor: Where Pay Later Providers Can Compete, an analysis of the [&#8230;]</p>\n<p>The post <a href=\"https://www.pymnts.com/bnpl/2026/parents-split-on-what-makes-buy-now-pay-later-options-attractive/\">Parents Split on What Makes Buy Now, Pay Later Options Attractive</a> appeared first on <a",
+    "link": "https://www.pymnts.com/bnpl/2026/parents-split-on-what-makes-buy-now-pay-later-options-attractive/",
+    "published": "Mon, 26 Oct 2026 08:00:01 +0000",
+    "fetched": "2026-10-26T12:08:50.689260"
   },
   {
     "id": "18725f43b530",
@@ -177,25 +177,7 @@
     "summary": "The U.S. Faster Payments Council (FPC), a membership organization devoted to advancing safe, easy-to-use faster payments in the United States, today announced the publication of Operational Considerations for Non-Value Messages, a new guide developed by the FPC Operational Considerations Work Group.",
     "link": "https://www.finextra.com/pressarticle/111430/us-faster-payments-council-release-guide-on-navigating-non-value-messaging-for-instant-payments?utm_medium=rssfinextra&utm_source=finextrafeed",
     "published": "Fri, 23 Oct 2026 18:31:00 GMT",
-    "fetched": "2026-10-25T10:35:39.026975"
-  },
-  {
-    "id": "ab65988cc2ed",
-    "source": "Finextra",
-    "title": "SoFi launches tokenised deposits",
-    "summary": "SoFi Technologies, Inc. (NASDAQ: SOFI), the everything app for digital financial services, today announced the launch of SoFi Earn (SOFIE), the first and only national bank-issued tokenized deposit for consumers.",
-    "link": "https://www.finextra.com/pressarticle/111421/sofi-launches-tokenised-deposits?utm_medium=rssfinextra&utm_source=finextrafeed",
-    "published": "Thu, 22 Oct 2026 19:19:00 GMT",
-    "fetched": "2026-10-25T10:35:39.026853"
-  },
-  {
-    "id": "14d308e7386b",
-    "source": "Finextra",
-    "title": "Fintechs top banks and stablecoins for cheap cross-border payment - BIS research",
-    "summary": "Cross-border payments remain slow and expensive but fintech outfits such as Wise and Remitly have substantially cut costs relative to traditional retail bank wires while stabelcoins still suffer from issues with friction, according to BIS research.",
-    "link": "https://www.finextra.com/newsarticle/48630/fintechs-top-banks-and-stablecoins-for-cheap-cross-border-payment---bis-research?utm_medium=rssfinextra&utm_source=finextrafeed",
-    "published": "Thu, 22 Oct 2026 00:01:00 GMT",
-    "fetched": "2026-10-25T10:35:39.026845"
+    "fetched": "2026-10-26T12:08:50.570266"
   },
   {
     "id": "5a313e56471f",
@@ -204,7 +186,7 @@
     "summary": "Digital asset and stablecoin infrastructure provider Fireblocks says that reports that it is in talks to be acquired by Visa for $2.5 billion are \"news to us\".",
     "link": "https://www.finextra.com/newsarticle/48636/fireblocks-pours-cold-water-on-reports-of-25bn-acquisition-talks-with-visa?utm_medium=rssfinextra&utm_source=finextrafeed",
     "published": "Thu, 22 Oct 2026 15:46:00 GMT",
-    "fetched": "2026-10-25T10:35:39.026789"
+    "fetched": "2026-10-26T12:08:50.570163"
   },
   {
     "id": "3ff23ea29d96",
@@ -213,7 +195,7 @@
     "summary": "Global bank HSBC has launched RedCoin, its first stablecoin, for public use.",
     "link": "https://www.finextra.com/newsarticle/48638/hsbc-launches-first-stablecoin?utm_medium=rssfinextra&utm_source=finextrafeed",
     "published": "Fri, 23 Oct 2026 11:09:00 GMT",
-    "fetched": "2026-10-25T10:35:39.026755"
+    "fetched": "2026-10-26T12:08:50.570140"
   },
   {
     "id": "ef9b2c6c0f4f",
@@ -222,25 +204,16 @@
     "summary": "The central banks Thailand and Malaysia are backing a Monetary Authority of Singapore-led public-private sector initiative to advance cross-border settlement in digital money.",
     "link": "https://www.finextra.com/newsarticle/48641/thailand-and-malaysia-back-singapores-bloom-cross-border-digital-money-initiative?utm_medium=rssfinextra&utm_source=finextrafeed",
     "published": "Fri, 23 Oct 2026 13:52:00 GMT",
-    "fetched": "2026-10-25T10:35:39.026721"
+    "fetched": "2026-10-26T12:08:50.570120"
   },
   {
-    "id": "db2539ebc39d",
-    "source": "The Block",
-    "title": "Dune launches onchain trading data feeds as tokenized markets expand",
-    "summary": "The new real-time market feeds will cover trade data from over 200 onchain venues across 12 blockchain networks.",
-    "link": "https://www.theblock.co/news/business/2026-10-22-dune-onchain-trading-data-feeds-421889",
-    "published": "Thu, 22 Oct 2026 12:00:00 +0000",
-    "fetched": "2026-10-25T10:35:38.849924"
-  },
-  {
-    "id": "3e3d2100b412",
-    "source": "The Block",
-    "title": "Fireblocks denies report of $2.5 billion acquisition talks with Visa",
-    "summary": "Fireblocks denied an Axios report that Visa is in talks to acquire the crypto custody firm for around $2.5 billion.",
-    "link": "https://www.theblock.co/news/deals/2026-10-22-visa-in-talks-acquire-crypto-custody-firm-fireblocks-around-2-5-billion-axios-421926",
-    "published": "Thu, 22 Oct 2026 13:27:54 +0000",
-    "fetched": "2026-10-25T10:35:38.849917"
+    "id": "109a45d3f2c0",
+    "source": "Finextra",
+    "title": "Riksbank reignites e-krona debate",
+    "summary": "With cash usage down, a digital euro on the horizon and stablecoins gathering momentum, Sweden's central bank has reignited a debate on whether the country should roll out its own e-krona.",
+    "link": "https://www.finextra.com/newsarticle/48642/riksbank-reignites-e-krona-debate?utm_medium=rssfinextra&utm_source=finextrafeed",
+    "published": "Mon, 26 Oct 2026 00:01:00 GMT",
+    "fetched": "2026-10-26T12:08:50.570112"
   },
   {
     "id": "e77c7b9819e9",
@@ -249,7 +222,7 @@
     "summary": "As progress stalls on a crypto bill, the Blockchain Association is urging Congress to pass legislation to resolve uncertainty around taxes.",
     "link": "https://www.theblock.co/news/regulation/2026-10-22-blockchain-association-pushes-crypto-tax-clarity-broader-bill-stalls-423475",
     "published": "Thu, 22 Oct 2026 18:59:25 +0000",
-    "fetched": "2026-10-25T10:35:38.849879"
+    "fetched": "2026-10-26T12:08:50.466784"
   },
   {
     "id": "2202e875d743",
@@ -258,7 +231,7 @@
     "summary": "JPMorgan said actions by U.S. regulators partly offset the Clarity Act setback, but longer-lasting rules are still needed.",
     "link": "https://www.theblock.co/news/regulation/2026-10-22-jpmorgan-crypto-regulatory-moves-clarity-act-failure-risks-423473",
     "published": "Thu, 22 Oct 2026 19:14:21 +0000",
-    "fetched": "2026-10-25T10:35:38.849867"
+    "fetched": "2026-10-26T12:08:50.466777"
   },
   {
     "id": "95eef300cccf",
@@ -267,6 +240,33 @@
     "summary": "LG CNS is set to integrate Chainlink's cross-chain, data, and orchestration infrastructure into its digital asset platform.",
     "link": "https://www.theblock.co/news/business/2026-10-22-chainlink-partners-with-lg-cns-423993",
     "published": "Fri, 23 Oct 2026 02:48:13 +0000",
-    "fetched": "2026-10-25T10:35:38.849843"
+    "fetched": "2026-10-26T12:08:50.466759"
+  },
+  {
+    "id": "457303cf88bf",
+    "source": "The Block",
+    "title": "HSBC rolls out its first HKD stablecoin RedCoin to retail users",
+    "summary": "PayMe users will be able to activate a stablecoin wallet in-app in the coming days for peer-to-peer and peer-to-merchant payments.",
+    "link": "https://www.theblock.co/news/business/2026-10-23-hsbc-hkd-stablecoin-redcoin-424018",
+    "published": "Fri, 23 Oct 2026 04:03:09 +0000",
+    "fetched": "2026-10-26T12:08:50.466755"
+  },
+  {
+    "id": "4fa4adc43409",
+    "source": "The Block",
+    "title": "South Korea to amend forex law to regulate stablecoins as payment instruments: report",
+    "summary": "South Korea is currently developing the Digital Asset Basic Act, which seeks to establish a comprehensive framework for crypto.",
+    "link": "https://www.theblock.co/news/regulation/2026-10-23-south-korea-stablecoins-payment-instruments-424028",
+    "published": "Fri, 23 Oct 2026 09:52:44 +0000",
+    "fetched": "2026-10-26T12:08:50.466751"
+  },
+  {
+    "id": "c1191f9c961f",
+    "source": "The Block",
+    "title": "Singapore, Malaysia and Thailand central banks expand cross-border stablecoin initiative involving Ripple, Visa and Mastercard",
+    "summary": "Malaysia and Thailand have joined Singapore's BLOOM initiative for cross-border stablecoin and tokenized deposit settlement.",
+    "link": "https://www.theblock.co/news/regulation/2026-10-23-singapore-malaysia-and-thailand-central-banks-expand-cross-border-stablecoin-initiative-involving-ripple-visa-and-mastercard-426492",
+    "published": "Fri, 23 Oct 2026 12:55:26 +0000",
+    "fetched": "2026-10-26T12:08:50.466729"
   }
 ]
