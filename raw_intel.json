@@ -1,84 +1,57 @@
 [
   {
-    "id": "cfb789a9fce5",
-    "source": "CoinTelegraph",
-    "title": "Canton Foundation grants RedStone 15.8M Canton Coin for pricing standard",
-    "summary": "<p style=\"float: right; margin: 0 0 10px 15px; width: 240px;\"><img alt=\"Canton Foundation grants RedStone 15.8M Canton Coin for pricing standard\" class=\"type:primaryImage\" src=\"https://s3-images.ctmedia.io/media/article-covers/2026/10/01M63MB2FEAQF47JR39WYHBDYS/hi-how-to-tokenize-your-business-equity-a-step-by-step-guide.jpg\" /></p><p>RedStone\u2019s planned pricing tool will let institutions on Canton use shared market prices without exposing deal terms to data providers.</p>",
-    "link": "https://cointelegraph.com/news/canton-foundation-redstone-coin-pricing-standard?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-    "published": "Thu, 29 Oct 2026 14:00:00 +0000",
-    "fetched": "2026-10-30T12:00:53.631766"
-  },
-  {
-    "id": "6791a385a011",
-    "source": "CoinTelegraph",
-    "title": "Bank of England opens consultation on tokenized collateral for clearing",
-    "summary": "<p style=\"float: right; margin: 0 0 10px 15px; width: 240px;\"><img alt=\"Bank of England opens consultation on tokenized collateral for clearing\" class=\"type:primaryImage\" src=\"https://s3-images.ctmedia.io/media/article-covers/2026/10/01M640KSE3Z43BT819XP76F6D2/bank-of-england-stablecoin-2.jpg\" /></p><p>Central counterparties would need to show tokenized collateral meets liquidity and risk tests under proposed Bank of England guidance.</p>",
-    "link": "https://cointelegraph.com/news/bank-of-england-opens-consultation-on-tokenized-collateral-for-clearing?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-    "published": "Thu, 29 Oct 2026 14:27:46 +0000",
-    "fetched": "2026-10-30T12:00:53.631757"
-  },
-  {
-    "id": "6460c627ae94",
-    "source": "CoinTelegraph",
-    "title": "Nasdaq-listed Canton Strategic Holdings plans tokenized stock trading from Nov. 2",
-    "summary": "<p style=\"float: right; margin: 0 0 10px 15px; width: 240px;\"><img alt=\"Nasdaq-listed Canton Strategic Holdings plans tokenized stock trading from Nov. 2\" class=\"type:primaryImage\" src=\"https://s3-images.ctmedia.io/media/article-covers/2026/10/01M6457K716CHTSWR96H4TCRAF/hi-real-estate-blockchain-and-the-quantity-theory-of-money.jpg\" /></p><p>The tokenized shares would carry the same shareholder rights as traditional stock, with round-the-clock trading and immediate settlement under the SEC\u2019s innovation exemption.</p>",
-    "link": "https://cointelegraph.com/news/canton-strategic-holdings-tokenized-stock-trading-november-2026?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-    "published": "Thu, 29 Oct 2026 16:27:39 +0000",
-    "fetched": "2026-10-30T12:00:53.631698"
-  },
-  {
-    "id": "fa6197e354a7",
-    "source": "CoinTelegraph",
-    "title": "KuCoin suspends services in Russia and Belarus",
-    "summary": "<p style=\"float: right; margin: 0 0 10px 15px; width: 240px;\"><img alt=\"KuCoin suspends services in Russia and Belarus\" class=\"type:primaryImage\" src=\"https://s3-images.ctmedia.io/media/article-covers/2026/10/01M6474T6TR1T4C3BDRR2HK11E/hi-crypto-offers-russia-no-way-out-from-western-sanctions-stablecoin.jpg\" /></p><p>The exchange cited legal and regulatory compliance in its reason for cutting off services to users based in the two countries, currently the targets of international sanctions.</p>",
-    "link": "https://cointelegraph.com/news/kucoin-services-russia-belarus-suspended?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-    "published": "Thu, 29 Oct 2026 17:08:41 +0000",
-    "fetched": "2026-10-30T12:00:53.631689"
-  },
-  {
-    "id": "93fa129b3aff",
-    "source": "CoinTelegraph",
-    "title": "Public companies double share of blockchain revenue since 2022: Report",
-    "summary": "<p style=\"float: right; margin: 0 0 10px 15px; width: 240px;\"><img alt=\"Public companies double share of blockchain revenue since 2022: Report \" class=\"type:primaryImage\" src=\"https://s3-images.ctmedia.io/media/article-covers/2026/10/01M64KJ64YRMXTP1BG2ZXATA10/wallet-crypto-savings-digital-assets.jpg\" /></p><p>A new 1kx report finds that public companies are capturing a larger share of blockchain revenue, driven by institutional adoption and real-world applications.</p>",
-    "link": "https://cointelegraph.com/news/public-companies-double-share-of-blockchain-revenue-since-2022-report?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-    "published": "Thu, 29 Oct 2026 19:53:14 +0000",
-    "fetched": "2026-10-30T12:00:53.631649"
-  },
-  {
     "id": "547ccb312a5a",
     "source": "CoinTelegraph",
     "title": "Here\u2019s what happened in crypto today",
     "summary": "<p style=\"float: right; margin: 0 0 10px 15px; width: 240px;\"><img alt=\"Here\u2019s what happened in crypto today\" class=\"type:primaryImage\" src=\"https://s3-images.ctmedia.io/media/article-covers/article-covers-110589-what-happened-in-crypto-today.jpg\" /></p><p>Need to know what happened in crypto today? Here is the latest news on daily trends and events impacting Bitcoin price, blockchain, DeFi, Web3 and crypto regulation.</p>",
     "link": "https://cointelegraph.com/news/what-happened-in-crypto-today?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-    "published": "Fri, 30 Oct 2026 06:00:00 +0000",
-    "fetched": "2026-10-30T12:00:53.631515"
+    "published": "Fri, 30 Oct 2026 14:07:42 +0000",
+    "fetched": "2026-10-31T11:36:52.860793"
   },
   {
-    "id": "26fdbe09a001",
+    "id": "6fdaf8bbe9b3",
+    "source": "CoinTelegraph",
+    "title": "Tether\u2019s excess reserves nearly double to $8B as Q3 profit hits $1.5B",
+    "summary": "<p style=\"float: right; margin: 0 0 10px 15px; width: 240px;\"><img alt=\"Tether\u2019s excess reserves nearly double to $8B as Q3 profit hits $1.5B \" class=\"type:primaryImage\" src=\"https://s3-images.ctmedia.io/media/article-covers/2026/10/01M671D68XPHRMK1R429A6YV2Q/analytics3-tether.jpg\" /></p><p>The stablecoin issuer\u2019s US Treasury holdings are comparable to those of major foreign holders, while its Bitcoin reserves were valued at $8.37 billion at the end of September.</p>",
+    "link": "https://cointelegraph.com/news/tethers-excess-reserves-nearly-double-to-8b-as-q3-profit-hits-15b?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+    "published": "Fri, 30 Oct 2026 19:01:58 +0000",
+    "fetched": "2026-10-31T11:36:52.860652"
+  },
+  {
+    "id": "6ae0c52347b6",
+    "source": "CoinTelegraph",
+    "title": "Binance hackers raced to move billions before it could be frozen",
+    "summary": "<p style=\"float: right; margin: 0 0 10px 15px; width: 240px;\"><img alt=\"Binance hackers raced to move billions before it could be frozen\" class=\"type:primaryImage\" src=\"https://s3-images.ctmedia.io/media/article-covers/2026/10/01M66R86X5ZSP95YYCM3AYG2MN/hi-north-korean-hack-crime-dragon.jpg\" /></p><p>Attackers raced to convert stolen stablecoins into crypto that issuers could not freeze as industry players like Tether and Circle moved to immobilize billions of dollars in assets.</p>",
+    "link": "https://cointelegraph.com/magazine/binance-hackers-raced-to-move-billions-before-could-be-frozen?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+    "published": "Fri, 30 Oct 2026 22:00:00 +0000",
+    "fetched": "2026-10-31T11:36:52.860637"
+  },
+  {
+    "id": "32a21b650c53",
+    "source": "CoinTelegraph",
+    "title": "Blockchain investigator Chainalysis hit by cybersecurity incident",
+    "summary": "<p style=\"float: right; margin: 0 0 10px 15px; width: 240px;\"><img alt=\"Blockchain investigator Chainalysis hit by cybersecurity incident \" class=\"type:primaryImage\" src=\"https://s3-images.ctmedia.io/media/article-covers/2026/10/01M68V2D1TX4051JHJ9QKN8R4P/hi-how-to-utilize-ai-agents-in-decentralized-finance-defi-platforms-chainalysis.jpg\" /></p><p>Chainalysis has engaged world-class third-party experts to support a review of its security and strengthen its defenses.</p>",
+    "link": "https://cointelegraph.com/news/blockchain-investigator-chainalysis-hit-by-cybersecurity-incident?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+    "published": "Sat, 31 Oct 2026 11:22:49 +0000",
+    "fetched": "2026-10-31T11:36:52.860601"
+  },
+  {
+    "id": "1aec67cdce35",
     "source": "PYMNTS",
-    "title": "Ripple Moves Deeper Into Banking With Stablecoin Deals",
-    "summary": "<p>Stablecoins continue to seek mainstream usage and acceptance, and this week, Ripple was at the forefront. The company spent the week securing more places for its dollar stablecoin to be held, traded and used. Agreements with Coinbase, Robinhood and BNY, alongside federal approval for a national trust bank, give the company a broader opening into [&#8230;]</p>\n<p>The post <a href=\"https://www.pymnts.com/cryptocurrency/2026/ripple-moves-deeper-into-banking-with-stablecoin-deals/\">Ripple Moves Deeper Into Banking With Stablecoin Deals</a> appeared first on <a href=\"https://www.pymnts.com\">PYMN",
-    "link": "https://www.pymnts.com/cryptocurrency/2026/ripple-moves-deeper-into-banking-with-stablecoin-deals/",
-    "published": "Fri, 30 Oct 2026 08:00:35 +0000",
-    "fetched": "2026-10-30T12:00:53.455909"
+    "title": "Galaxy Digital Seeks Bank Charter to Expand Financial Services Reach",
+    "summary": "<p>Digital assets and data infrastructure company Galaxy Digital aims to create a national trust bank that would provide fiduciary investment advisory services along with Galaxy\u2019s custody, trading and staking services, the company said in a Thursday (Oct. 29) press release. To further this goal, Galaxy subsidiary Galaxy Digital LP submitted an application to the Office [&#8230;]</p>\n<p>The post <a href=\"https://www.pymnts.com/news/banking/2026/galaxy-digital-seeks-bank-charter-to-expand-financial-services-reach/\">Galaxy Digital Seeks Bank Charter to Expand Financial Services Reach</a> appeared",
+    "link": "https://www.pymnts.com/news/banking/2026/galaxy-digital-seeks-bank-charter-to-expand-financial-services-reach/",
+    "published": "Fri, 30 Oct 2026 18:42:13 +0000",
+    "fetched": "2026-10-31T11:36:52.117818"
   },
   {
-    "id": "5669b758500d",
-    "source": "PYMNTS",
-    "title": "Hackers Steal $6.3 Billion From Binance in Record Crypto Heist",
-    "summary": "<p>Hackers have stolen $6.3 billion from Binance, the world\u2019s largest cryptocurrency exchange, in the biggest crypto theft ever. The attack breaks the previous record by a wide margin. It also comes at a hard time for digital assets, which were already under pressure from higher U.S. interest rates and weaker demand from exchange-traded fund buyers. [&#8230;]</p>\n<p>The post <a href=\"https://www.pymnts.com/cybersecurity/2026/hackers-steal-6-3-billion-from-binance-in-record-crypto-heist/\">Hackers Steal $6.3 Billion From Binance in Record Crypto Heist</a> appeared first on <a href=\"https://www.p",
-    "link": "https://www.pymnts.com/cybersecurity/2026/hackers-steal-6-3-billion-from-binance-in-record-crypto-heist/",
-    "published": "Fri, 30 Oct 2026 10:46:11 +0000",
-    "fetched": "2026-10-30T12:00:53.455899"
-  },
-  {
-    "id": "760065701f79",
+    "id": "bd8e58c270c8",
     "source": "Finextra",
-    "title": "Beyond What It Prevents, What Does Security in Payments Enable?",
-    "summary": "In this interview, Mastercard's Ann Johnson discusses the complex nature of cyber risks and how security should be redefined by what it enables, not just what it prevents.",
-    "link": "https://www.finextra.com/videoarticle/3635/beyond-what-it-prevents-what-does-security-in-payments-enable?utm_medium=rssfinextra&utm_source=finextrafeed",
-    "published": "Fri, 30 Oct 2026 11:00:00 GMT",
-    "fetched": "2026-10-30T12:00:53.373372"
+    "title": "How Younger Customers Are Spearheading the Rise of the \u2018Switchable Middle\u2019",
+    "summary": "At Sibos 2026, Temenos' William Moroney shares insights from a survey that reveals a widening gap between customer expectations shaped by digital experiences and the service banks currently deliver.",
+    "link": "https://www.finextra.com/videoarticle/3630/how-younger-customers-are-spearheading-the-rise-of-the-switchable-middle?utm_medium=rssfinextra&utm_source=finextrafeed",
+    "published": "Fri, 30 Oct 2026 15:16:00 GMT",
+    "fetched": "2026-10-31T11:36:51.933769"
   },
   {
     "id": "18dd1764614d",
@@ -87,7 +60,7 @@
     "summary": "ACI Worldwide (NASDAQ: ACIW), an original innovator in global payments technology, and Circle Internet Group (NYSE: CRCL), one of the world's leading internet financial platform companies and the issuer of USDC1 through its regulated entities, today announced a collaboration to show how stablecoin settlement can be integrated into existing banking and payment infrastructure.",
     "link": "https://www.finextra.com/pressarticle/111519/aci-worldwide-and-circle-collaborate-on-latam-payments?utm_medium=rssfinextra&utm_source=finextrafeed",
     "published": "Fri, 30 Oct 2026 11:14:00 GMT",
-    "fetched": "2026-10-30T12:00:53.373365"
+    "fetched": "2026-10-31T11:36:51.933733"
   },
   {
     "id": "81982e2f51cc",
@@ -96,7 +69,7 @@
     "summary": "OKX, a leading global cryptocurrency exchange and onchain technology company, today marked four years of its Proof of Reserves (PoR) program, with $36.36 billion in on-chain assets across 22 major cryptocurrencies.",
     "link": "https://www.finextra.com/pressarticle/111516/okx-reaches-36bn-in-onchain-assets?utm_medium=rssfinextra&utm_source=finextrafeed",
     "published": "Fri, 30 Oct 2026 10:09:00 GMT",
-    "fetched": "2026-10-30T12:00:53.373340"
+    "fetched": "2026-10-31T11:36:51.933676"
   },
   {
     "id": "c9ed1f6e13da",
@@ -105,7 +78,7 @@
     "summary": "RedStone, the data layer for institutional DeFi, today announced that the Canton Foundation has unanimously approved funding through the Canton Development Fund to develop the Canton Access and Privacy Standard (CAPS), an open-source framework for institutional market-data infrastructure on Canton. CAPS is designed to let institutions price transactions on Canton without revealing their underlying positions or agreed settlement values to data providers.",
     "link": "https://www.finextra.com/pressarticle/111515/canton-foundation-backs-redstone-to-build-pricing-standard?utm_medium=rssfinextra&utm_source=finextrafeed",
     "published": "Thu, 29 Oct 2026 17:17:00 GMT",
-    "fetched": "2026-10-30T12:00:53.373332"
+    "fetched": "2026-10-31T11:36:51.933667"
   },
   {
     "id": "7f2993517665",
@@ -114,7 +87,7 @@
     "summary": "Flywire Corporation (Nasdaq: FLYW), a global payments enablement and software company, today announced that Liquidity Services Inc. (Nasdaq: LQDT) has implemented Flywire to run both domestic and cross-border B2B payments for the global e-commerce marketplace, with over $15 billion in total completed transactions over the course of Liquidity Services International's 25 year history.",
     "link": "https://www.finextra.com/pressarticle/111512/liquidity-services-deploys-flywire-tech-for-domestic-and-cross-border-b2b-payments?utm_medium=rssfinextra&utm_source=finextrafeed",
     "published": "Thu, 29 Oct 2026 14:27:00 GMT",
-    "fetched": "2026-10-30T12:00:53.373313"
+    "fetched": "2026-10-31T11:36:51.933644"
   },
   {
     "id": "da5f2595576f",
@@ -123,7 +96,7 @@
     "summary": "SettleMint today announced that its Digital Asset Lifecycle Platform (DALP) has been integrated with IBM Digital Asset Haven, enabling financial institutions, governments and other regulated organizations to manage tokenized assets throughout their lifecycle while leveraging IBM Digital Asset Haven's secure wallet management, transaction orchestration and policy governance capabilities.",
     "link": "https://www.finextra.com/pressarticle/111509/settlemint-integrates-digital-asset-lifecycle-platform-with-ibm-digital-asset-haven?utm_medium=rssfinextra&utm_source=finextrafeed",
     "published": "Thu, 29 Oct 2026 12:31:00 GMT",
-    "fetched": "2026-10-30T12:00:53.373282"
+    "fetched": "2026-10-31T11:36:51.933607"
   },
   {
     "id": "3c68618252f6",
@@ -132,7 +105,7 @@
     "summary": "Stablecoin yield infrastructure platform OpenTrade has appointed former Swift CEO L\u00e1zaro Campos as chair of its board of directors.",
     "link": "https://www.finextra.com/newsarticle/48669/former-swift-ceo-lzaro-campos-joins-stablecoin-firm-opentrade-as-chair?utm_medium=rssfinextra&utm_source=finextrafeed",
     "published": "Thu, 29 Oct 2026 14:31:00 GMT",
-    "fetched": "2026-10-30T12:00:53.373189"
+    "fetched": "2026-10-31T11:36:51.933573"
   },
   {
     "id": "8c79bc384ca1",
@@ -141,7 +114,7 @@
     "summary": "Weeks after securing the regulatory green light to step up its operations in China, Visa has inked a deal with the country's tech behemoth Tencent spanning cross-border payments and AI-powered commerce.",
     "link": "https://www.finextra.com/newsarticle/48672/visa-and-tencent-ink-agentic-commerce-and-cross-border-payments-mou?utm_medium=rssfinextra&utm_source=finextrafeed",
     "published": "Thu, 29 Oct 2026 18:57:00 GMT",
-    "fetched": "2026-10-30T12:00:53.373170"
+    "fetched": "2026-10-31T11:36:51.933550"
   },
   {
     "id": "27e4a9de6ed6",
@@ -150,7 +123,7 @@
     "summary": "Stablecoin-centric financial operating system PhotonPay has raised $40 million in a Series C funding round led by Blockchain Capital.",
     "link": "https://www.finextra.com/newsarticle/48671/photonpay-raises-40m-for-stablecoin-centric-financial-os?utm_medium=rssfinextra&utm_source=finextrafeed",
     "published": "Fri, 30 Oct 2026 00:01:00 GMT",
-    "fetched": "2026-10-30T12:00:53.373152"
+    "fetched": "2026-10-31T11:36:51.933529"
   },
   {
     "id": "4a041d352655",
@@ -159,7 +132,7 @@
     "summary": "The world's largest crypto exchange has fallen victim to the world's largest crypto heist after North Korean hackers stole $6.3bn from Binance, an audacious attack that could undermine confidence in the digital assets market.",
     "link": "https://www.finextra.com/newsarticle/48674/hackers-steal-63bn-in-crypto-assets-from-binance?utm_medium=rssfinextra&utm_source=finextrafeed",
     "published": "Fri, 30 Oct 2026 09:11:00 GMT",
-    "fetched": "2026-10-30T12:00:53.373146"
+    "fetched": "2026-10-31T11:36:51.933521"
   },
   {
     "id": "f2e5e8ce8c1d",
@@ -168,34 +141,16 @@
     "summary": "Securities lending platform Equilend has announced that Goldman Sachs has joined 1Source, its DLT-based platform.",
     "link": "https://www.finextra.com/newsarticle/48675/goldman-sachs-joins-dlt-sec-finance-platform?utm_medium=rssfinextra&utm_source=finextrafeed",
     "published": "Fri, 30 Oct 2026 10:44:00 GMT",
-    "fetched": "2026-10-30T12:00:53.373131"
+    "fetched": "2026-10-31T11:36:51.933505"
   },
   {
-    "id": "035247fe7d12",
-    "source": "The Block",
-    "title": "Robinhood Chain brings in $26 million as crypto revenue rises 20% in Q3",
-    "summary": "Robinhood\u2019s blockchain boosted crypto revenue, while prediction markets brought in $173 million in the third quarter.",
-    "link": "https://www.theblock.co/news/business/2026-10-27-robinhood-chain-brings-in-26-million-crypto-revenue-rises-20-q2-431935",
-    "published": "Tue, 27 Oct 2026 20:55:35 +0000",
-    "fetched": "2026-10-30T12:00:53.290897"
-  },
-  {
-    "id": "63995bf387b2",
-    "source": "The Block",
-    "title": "Moody\u2019s assigns investment-grade ratings to Ripple\u2019s RLUSD stablecoin",
-    "summary": "Moody's Ratings assigned the RLUSD A2 long-term and P-1 short-term ratings, citing credit quality and market value of its reserve assets.",
-    "link": "https://www.theblock.co/news/web3/2026-10-28-moodys-ripple-rlusd-stablecoin-431969",
-    "published": "Wed, 28 Oct 2026 09:15:20 +0000",
-    "fetched": "2026-10-30T12:00:53.290876"
-  },
-  {
-    "id": "1a4cd0803685",
-    "source": "The Block",
-    "title": "Crypto braces for potential shift in congressional oversight after midterms",
-    "summary": "Post-Clarity Act, the crypto sector could find itself navigating a very different political landscape under a new Congress.",
-    "link": "https://www.theblock.co/news/regulation/2026-10-28-crypto-braces-for-potential-shift-in-congressional-oversight-after-midterms-431949",
-    "published": "Wed, 28 Oct 2026 14:43:01 +0000",
-    "fetched": "2026-10-30T12:00:53.290858"
+    "id": "f320b5b1c024",
+    "source": "Finextra",
+    "title": "ECB picks digital euro network service providers",
+    "summary": "The European Central Bank has selected two network service providers to connect PSPs and national central banks to the digital euro service platform.",
+    "link": "https://www.finextra.com/newsarticle/48678/ecb-picks-digital-euro-network-service-providers?utm_medium=rssfinextra&utm_source=finextrafeed",
+    "published": "Fri, 30 Oct 2026 13:25:00 GMT",
+    "fetched": "2026-10-31T11:36:51.933469"
   },
   {
     "id": "2ff198ee2bf6",
@@ -204,7 +159,7 @@
     "summary": "RLUSD is live on Coinbase with 1:1 USD conversion on XRP Ledger, Ethereum and Base, capping a big week of news for Ripple.",
     "link": "https://www.theblock.co/news/business/2026-10-28-coinbase-adds-ripple-rlusd-stablecoin-432009",
     "published": "Wed, 28 Oct 2026 15:56:36 +0000",
-    "fetched": "2026-10-30T12:00:53.290838"
+    "fetched": "2026-10-31T11:36:51.757090"
   },
   {
     "id": "10faad098821",
@@ -213,7 +168,7 @@
     "summary": "Utah AG Derek Brown filed criminal charges against Kalshi, Tarek Mansour and Luana Lopes Lara for allegedly promoting online gambling.",
     "link": "https://www.theblock.co/news/business/2026-10-29-utah-criminal-charges-kalshi-432104",
     "published": "Thu, 29 Oct 2026 06:40:32 +0000",
-    "fetched": "2026-10-30T12:00:53.290803"
+    "fetched": "2026-10-31T11:36:51.757054"
   },
   {
     "id": "ab67ef6127cc",
@@ -222,16 +177,7 @@
     "summary": "Polygon added Solana to its payments platform, connecting businesses to bank funding, cross-chain transfers, stablecoins and global payouts.",
     "link": "https://www.theblock.co/news/defi/2026-10-29-polygon-adds-solana-payment-stack-432115",
     "published": "Thu, 29 Oct 2026 13:00:00 +0000",
-    "fetched": "2026-10-30T12:00:53.290783"
-  },
-  {
-    "id": "9b937a3285f6",
-    "source": "CoinDesk",
-    "title": "Chainlink adds weekend pricing for tokenized assets, with Aave as launch partner",
-    "summary": "",
-    "link": "https://www.coindesk.com/tech/2026/10/28/chainlink-adds-weekend-pricing-for-tokenized-assets-with-aave-as-launch-partner",
-    "published": "Thu, 29 Oct 2026 14:15:00 +0000",
-    "fetched": "2026-10-30T12:00:53.216109"
+    "fetched": "2026-10-31T11:36:51.757029"
   },
   {
     "id": "e0e14fa9d9e4",
@@ -240,7 +186,7 @@
     "summary": "",
     "link": "https://www.coindesk.com/business/2026/10/29/from-rivals-to-partners-polygon-and-solana-team-to-bring-stablecoin-payments-to-banks",
     "published": "Thu, 29 Oct 2026 16:35:43 +0000",
-    "fetched": "2026-10-30T12:00:53.216076"
+    "fetched": "2026-10-31T11:36:51.591449"
   },
   {
     "id": "b8ce82fc8b55",
@@ -249,7 +195,16 @@
     "summary": "",
     "link": "https://www.coindesk.com/policy/2026/10/29/crypto-s-longtime-foe-north-korea-s-lazarus-group-likely-behind-binance-hack-blockchain-sleuths",
     "published": "Fri, 30 Oct 2026 03:36:11 +0000",
-    "fetched": "2026-10-30T12:00:53.216038"
+    "fetched": "2026-10-31T11:36:51.591403"
+  },
+  {
+    "id": "11466d466a3d",
+    "source": "CoinDesk",
+    "title": "OpenAI reportedly cuts fundraising and valuation targets amid AI jitters",
+    "summary": "",
+    "link": "https://www.coindesk.com/business/2026/10/30/openai-reportedly-cuts-fundraising-target-amid-ai-jitters",
+    "published": "Sat, 31 Oct 2026 00:48:56 +0000",
+    "fetched": "2026-10-31T11:36:51.591264"
   },
   {
     "id": "8d846827eb84",
@@ -258,7 +213,7 @@
     "summary": "",
     "link": "https://www.ecb.europa.eu//press/key/date/2026/html/ecb.sp261029~e9b57c3495.en.html",
     "published": "Thu, 29 Oct 2026 16:50:00 +0100",
-    "fetched": "2026-10-30T12:00:52.997599"
+    "fetched": "2026-10-31T11:36:51.137230"
   },
   {
     "id": "4090ad68b367",
@@ -267,6 +222,51 @@
     "summary": "Federal Reserve Board requests public comment on two proposals related to establishing a regulatory framework for Board-supervised payment stablecoin issuers under the GENIUS Act",
     "link": "https://www.federalreserve.gov/newsevents/pressreleases/bcreg20260924a.htm",
     "published": "Thu, 24 Sep 2026 18:30:00 GMT",
-    "fetched": "2026-10-30T12:00:52.447339"
+    "fetched": "2026-10-31T11:36:50.431131"
+  },
+  {
+    "id": "62900291a0a1",
+    "source": "a16z Crypto",
+    "title": "It's time to pass the CLARITY Act",
+    "summary": "Every generation gets a chance to upgrade its infrastructure. In the 1990s, it was the internet. Policymakers worried that it would disrupt existing industries and create new risks. But instead of cramming the technology into outdated regulatory boxes, lawmakers established rules that let innovation...",
+    "link": "https://a16zfrontier.com/posts/article/clarity-act-time-to-pass/",
+    "published": "Wed, 22 Jul 2026 17:45:03 GMT",
+    "fetched": "2026-10-31T11:36:49.316161"
+  },
+  {
+    "id": "ee73f7c830d0",
+    "source": "a16z Crypto",
+    "title": "Marc Andreessen & Chris Dixon: Why America needs the CLARITY Act",
+    "summary": "Marc Andreessen and Chris Dixon on the fight over crypto market structure, why regulatory clarity matters, and what is at stake for America\u2019s technological leadership.",
+    "link": "https://a16zfrontier.com/posts/article/marc-andreessen-chris-dixon-why-clarity-act/",
+    "published": "Mon, 03 Aug 2026 16:42:18 GMT",
+    "fetched": "2026-10-31T11:36:49.316130"
+  },
+  {
+    "id": "a107a33fc8f3",
+    "source": "a16z Crypto",
+    "title": "How Zero-Knowledge Proofs Were Invented (ft. Co-Inventor and Turing Award Winner Shafi Goldwasser)",
+    "summary": "Turing Award winner Shafi Goldwasser tells the origin story of zero-knowledge proofs, from mental poker and interactive proofs to SNARKs, blockchain scaling, privacy, and verifiable AI.",
+    "link": "https://a16zfrontier.com/posts/article/zero-knowledge-proofs-shafi-goldwasser/",
+    "published": "Fri, 07 Aug 2026 14:00:47 GMT",
+    "fetched": "2026-10-31T11:36:49.316099"
+  },
+  {
+    "id": "454424fbbef8",
+    "source": "a16z Crypto",
+    "title": "9 key moments from Marc Andreessen and Chris Dixon on the CLARITY Act",
+    "summary": "9 key moments from Marc Andreessen and Chris Dixon on the CLARITY Act",
+    "link": "https://a16zfrontier.com/posts/article/9-key-moments-from-marc-andreessen-and-chris-dixon-on-the-clarity-act/",
+    "published": "Fri, 07 Aug 2026 18:21:26 GMT",
+    "fetched": "2026-10-31T11:36:49.316087"
+  },
+  {
+    "id": "0515ccd3712f",
+    "source": "a16z Crypto",
+    "title": "5 charts: How crypto cards are driving stablecoin spend",
+    "summary": "Stablecoins are increasingly being spent by card swipe. Crypto payment cards have gone from a novelty to more than $750 million in monthly spend. These cards let people pay with crypto anywhere traditional card networks are accepted. Behind the scenes, the crypto \u2014 stablecoins, overwhelmingly \u2014 gets...",
+    "link": "https://a16zfrontier.com/posts/article/charts-payment-card-stablecoin-spend/",
+    "published": "Fri, 07 Aug 2026 19:52:54 GMT",
+    "fetched": "2026-10-31T11:36:49.316074"
   }
 ]
