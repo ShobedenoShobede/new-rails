@@ -1,39 +1,12 @@
 [
   {
-    "id": "6fdaf8bbe9b3",
-    "source": "CoinTelegraph",
-    "title": "Tether\u2019s excess reserves nearly double to $8B as Q3 profit hits $1.5B",
-    "summary": "<p style=\"float: right; margin: 0 0 10px 15px; width: 240px;\"><img alt=\"Tether\u2019s excess reserves nearly double to $8B as Q3 profit hits $1.5B \" class=\"type:primaryImage\" src=\"https://s3-images.ctmedia.io/media/article-covers/2026/10/01M671D68XPHRMK1R429A6YV2Q/analytics3-tether.jpg\" /></p><p>The stablecoin issuer\u2019s US Treasury holdings are comparable to those of major foreign holders, while its Bitcoin reserves were valued at $8.37 billion at the end of September.</p>",
-    "link": "https://cointelegraph.com/news/tethers-excess-reserves-nearly-double-to-8b-as-q3-profit-hits-15b?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-    "published": "Fri, 30 Oct 2026 19:01:58 +0000",
-    "fetched": "2026-11-01T12:34:11.827326"
-  },
-  {
-    "id": "6ae0c52347b6",
-    "source": "CoinTelegraph",
-    "title": "Binance hackers raced to move billions before it could be frozen",
-    "summary": "<p style=\"float: right; margin: 0 0 10px 15px; width: 240px;\"><img alt=\"Binance hackers raced to move billions before it could be frozen\" class=\"type:primaryImage\" src=\"https://s3-images.ctmedia.io/media/article-covers/2026/10/01M66R86X5ZSP95YYCM3AYG2MN/hi-north-korean-hack-crime-dragon.jpg\" /></p><p>Attackers raced to convert stolen stablecoins into crypto that issuers could not freeze as industry players like Tether and Circle moved to immobilize billions of dollars in assets.</p>",
-    "link": "https://cointelegraph.com/magazine/binance-hackers-raced-to-move-billions-before-could-be-frozen?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-    "published": "Fri, 30 Oct 2026 22:00:00 +0000",
-    "fetched": "2026-11-01T12:34:11.827312"
-  },
-  {
     "id": "32a21b650c53",
     "source": "CoinTelegraph",
     "title": "Blockchain investigator Chainalysis hit by cybersecurity incident",
     "summary": "<p style=\"float: right; margin: 0 0 10px 15px; width: 240px;\"><img alt=\"Blockchain investigator Chainalysis hit by cybersecurity incident \" class=\"type:primaryImage\" src=\"https://s3-images.ctmedia.io/media/article-covers/2026/10/01M68V2D1TX4051JHJ9QKN8R4P/hi-how-to-utilize-ai-agents-in-decentralized-finance-defi-platforms-chainalysis.jpg\" /></p><p>The company said some non-sensitive customer data was exposed, including user IDs, names and email addresses.</p>",
     "link": "https://cointelegraph.com/news/blockchain-investigator-chainalysis-hit-by-cybersecurity-incident?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
     "published": "Sat, 31 Oct 2026 11:22:49 +0000",
-    "fetched": "2026-11-01T12:34:11.827281"
-  },
-  {
-    "id": "547ccb312a5a",
-    "source": "CoinTelegraph",
-    "title": "Here\u2019s what happened in crypto today",
-    "summary": "<p style=\"float: right; margin: 0 0 10px 15px; width: 240px;\"><img alt=\"Here\u2019s what happened in crypto today\" class=\"type:primaryImage\" src=\"https://s3-images.ctmedia.io/media/article-covers/article-covers-110589-what-happened-in-crypto-today.jpg\" /></p><p>Need to know what happened in crypto today? Here is the latest news on daily trends and events impacting Bitcoin price, blockchain, DeFi, Web3 and crypto regulation.</p>",
-    "link": "https://cointelegraph.com/news/what-happened-in-crypto-today?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-    "published": "Sat, 31 Oct 2026 15:09:55 +0000",
-    "fetched": "2026-11-01T12:34:11.827231"
+    "fetched": "2026-11-02T14:37:12.492175"
   },
   {
     "id": "d0e6e6964535",
@@ -42,79 +15,79 @@
     "summary": "<p style=\"float: right; margin: 0 0 10px 15px; width: 240px;\"><img alt=\"FBI blames North Korea for record $6.3B Binance hack\" class=\"type:primaryImage\" src=\"https://s3-images.ctmedia.io/media/article-covers/2026/11/01M6B0XQQ2RWMNW96K4XFZN2DN/kimjong-unnorth-korea.jpg\" /></p><p>US agency seeks private-sector help to block further money-laundering of stolen digital assets.</p>",
     "link": "https://cointelegraph.com/news/fbi-blames-north-korea-for-record-63b-binance-hack?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
     "published": "Sun, 01 Nov 2026 07:44:38 +0000",
-    "fetched": "2026-11-01T12:34:11.827169"
+    "fetched": "2026-11-02T14:37:12.492107"
   },
   {
-    "id": "1aec67cdce35",
+    "id": "303a8b53d5b6",
+    "source": "CoinTelegraph",
+    "title": "THORChain founder rejects freeze request, CZ thanks Secret Service: Hodler\u2019s Digest",
+    "summary": "<p style=\"float: right; margin: 0 0 10px 15px; width: 240px;\"><img alt=\"THORChain founder rejects freeze request, CZ thanks Secret Service: Hodler\u2019s Digest\" class=\"type:primaryImage\" src=\"https://s3-images.ctmedia.io/media/article-covers/2026/11/01M6CFEHJM62TV7283ZYDNNCBP/collage-new.jpg\" /></p><p>Binance has reopened withdrawals following the world\u2019s biggest ever hack, and THORChain co-founder argues it should not halt the protocol to comply with FBI demands.</p>",
+    "link": "https://cointelegraph.com/magazine/36b-flees-binance-on-reopen-thorchain-co-founder-opposes-coin-freeze-hodlers-digest?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+    "published": "Sun, 01 Nov 2026 23:09:13 +0000",
+    "fetched": "2026-11-02T14:37:12.492063"
+  },
+  {
+    "id": "3ef727f4eb25",
+    "source": "CoinTelegraph",
+    "title": "Binance net outflows surge to $5.8B as withdrawals resume after record hack",
+    "summary": "<p style=\"float: right; margin: 0 0 10px 15px; width: 240px;\"><img alt=\"Binance net outflows surge to $5.8B as withdrawals resume after record hack\" class=\"type:primaryImage\" src=\"https://s3-images.ctmedia.io/media/article-covers/2026/10/01M4FQAANP3H5Z0XYV77PNYB10/hi-will-the-blockchain-stop-leaks-of-crypto.jpg\" /></p><p>The exchange says withdrawals surged after some services resumed but have since slowed, with the outflows representing a fraction of its roughly $171 billion in customer assets. </p>",
+    "link": "https://cointelegraph.com/news/binance-net-outflows-surge-to-58b-as-withdrawals-resume-after-record-hack?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+    "published": "Sun, 01 Nov 2026 23:59:27 +0000",
+    "fetched": "2026-11-02T14:37:12.492045"
+  },
+  {
+    "id": "21900df1d5ad",
+    "source": "CoinTelegraph",
+    "title": "THORChain halts swaps after block reorg bug, slowing Binance hackers",
+    "summary": "<p style=\"float: right; margin: 0 0 10px 15px; width: 240px;\"><img alt=\"THORChain halts swaps after block reorg bug, slowing Binance hackers\" class=\"type:primaryImage\" src=\"https://s3-images.ctmedia.io/media/article-covers/2026/11/01M6CYVYY9YQQNJBR6GY3CWVA6/stop-regulation-blockchain-ban.jpg\" /></p><p>THORChain node operators paused swaps involving assets on 10 networks, including Bitcoin, Ethereum, Solana and Tron.</p>",
+    "link": "https://cointelegraph.com/news/thorchain-halts-swaps-after-block-reorg-bug-slowing-binance-hackers?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+    "published": "Mon, 02 Nov 2026 01:51:48 +0000",
+    "fetched": "2026-11-02T14:37:12.492032"
+  },
+  {
+    "id": "651899de8632",
+    "source": "CoinTelegraph",
+    "title": "Hong Kong takes tokenized settlement to 24/7, plans stablecoin trials",
+    "summary": "<p style=\"float: right; margin: 0 0 10px 15px; width: 240px;\"><img alt=\"Hong Kong takes tokenized settlement to 24/7, plans stablecoin trials\" class=\"type:primaryImage\" src=\"https://s3-images.ctmedia.io/media/article-covers/2026/11/01M6DQFSHD8AXWKTB5J9SVZW4V/hong-kong-fund.jpg\" /></p><p>The HKMA plans to bring regulated stablecoins into tokenized government debt trials, while HSBC says its RedCoin stablecoin has reached 50,000 users.</p>",
+    "link": "https://cointelegraph.com/news/hong-kong-24-7-tokenized-settlements-stablecoin-trials?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+    "published": "Mon, 02 Nov 2026 10:14:55 +0000",
+    "fetched": "2026-11-02T14:37:12.491936"
+  },
+  {
+    "id": "547ccb312a5a",
+    "source": "CoinTelegraph",
+    "title": "Here\u2019s what happened in crypto today",
+    "summary": "<p style=\"float: right; margin: 0 0 10px 15px; width: 240px;\"><img alt=\"Here\u2019s what happened in crypto today\" class=\"type:primaryImage\" src=\"https://s3-images.ctmedia.io/media/article-covers/article-covers-110589-what-happened-in-crypto-today.jpg\" /></p><p>Need to know what happened in crypto today? Here is the latest news on daily trends and events impacting Bitcoin price, blockchain, DeFi, Web3 and crypto regulation.</p>",
+    "link": "https://cointelegraph.com/news/what-happened-in-crypto-today?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+    "published": "Mon, 02 Nov 2026 13:29:29 +0000",
+    "fetched": "2026-11-02T14:37:12.491828"
+  },
+  {
+    "id": "0b3dbee5290b",
     "source": "PYMNTS",
-    "title": "Galaxy Digital Seeks Bank Charter to Expand Financial Services Reach",
-    "summary": "<p>Digital assets and data infrastructure company Galaxy Digital aims to create a national trust bank that would provide fiduciary investment advisory services along with Galaxy\u2019s custody, trading and staking services, the company said in a Thursday (Oct. 29) press release. To further this goal, Galaxy subsidiary Galaxy Digital LP submitted an application to the Office [&#8230;]</p>\n<p>The post <a href=\"https://www.pymnts.com/news/banking/2026/galaxy-digital-seeks-bank-charter-to-expand-financial-services-reach/\">Galaxy Digital Seeks Bank Charter to Expand Financial Services Reach</a> appeared",
-    "link": "https://www.pymnts.com/news/banking/2026/galaxy-digital-seeks-bank-charter-to-expand-financial-services-reach/",
-    "published": "Fri, 30 Oct 2026 18:42:13 +0000",
-    "fetched": "2026-11-01T12:34:11.477363"
+    "title": "Google Cloud Launches Free AI Courses for Financial Services and Legal Teams",
+    "summary": "<p>Google\u2018s learning platform focused on artificial intelligence skills, Google Skills, has launched new Gemini courses for financial services and legal teams, Google Cloud said in a Friday (Oct. 30) blog post. These new, separate products are industry specific and include bundles of videos for learning, according to the post. The post shared links to a [&#8230;]</p>\n<p>The post <a href=\"https://www.pymnts.com/news/artificial-intelligence/2026/google-cloud-launches-free-ai-courses-for-financial-services-and-legal-teams/\">Google Cloud Launches Free AI Courses for Financial Services and Legal Te",
+    "link": "https://www.pymnts.com/news/artificial-intelligence/2026/google-cloud-launches-free-ai-courses-for-financial-services-and-legal-teams/",
+    "published": "Mon, 02 Nov 2026 00:49:45 +0000",
+    "fetched": "2026-11-02T14:37:12.066450"
   },
   {
-    "id": "bd8e58c270c8",
+    "id": "4a546d0305ab",
     "source": "Finextra",
-    "title": "How Younger Customers Are Spearheading the Rise of the \u2018Switchable Middle\u2019",
-    "summary": "At Sibos 2026, Temenos' William Moroney shares insights from a survey that reveals a widening gap between customer expectations shaped by digital experiences and the service banks currently deliver.",
-    "link": "https://www.finextra.com/videoarticle/3630/how-younger-customers-are-spearheading-the-rise-of-the-switchable-middle?utm_medium=rssfinextra&utm_source=finextrafeed",
-    "published": "Fri, 30 Oct 2026 15:16:00 GMT",
-    "fetched": "2026-11-01T12:34:11.331294"
+    "title": "Trading Technologies expands institutional digital asset access through Bitstamp",
+    "summary": "Trading Technologies International, Inc. (TT), a global capital markets technology provider, and Bitstamp by Robinhood, one of the world's longest-running crypto exchanges, today announced that institutional clients can now trade Bitstamp digital asset markets through the TT platform.",
+    "link": "https://www.finextra.com/pressarticle/111532/trading-technologies-expands-institutional-digital-asset-access-through-bitstamp?utm_medium=rssfinextra&utm_source=finextrafeed",
+    "published": "Mon, 02 Nov 2026 14:08:00 GMT",
+    "fetched": "2026-11-02T14:37:11.911699"
   },
   {
-    "id": "18dd1764614d",
+    "id": "a9f057f2b9d7",
     "source": "Finextra",
-    "title": "ACI Worldwide and Circle collaborate on LatAm payments",
-    "summary": "ACI Worldwide (NASDAQ: ACIW), an original innovator in global payments technology, and Circle Internet Group (NYSE: CRCL), one of the world's leading internet financial platform companies and the issuer of USDC1 through its regulated entities, today announced a collaboration to show how stablecoin settlement can be integrated into existing banking and payment infrastructure.",
-    "link": "https://www.finextra.com/pressarticle/111519/aci-worldwide-and-circle-collaborate-on-latam-payments?utm_medium=rssfinextra&utm_source=finextrafeed",
-    "published": "Fri, 30 Oct 2026 11:14:00 GMT",
-    "fetched": "2026-11-01T12:34:11.331255"
-  },
-  {
-    "id": "81982e2f51cc",
-    "source": "Finextra",
-    "title": "OKX reaches $36bn in onchain assets",
-    "summary": "OKX, a leading global cryptocurrency exchange and onchain technology company, today marked four years of its Proof of Reserves (PoR) program, with $36.36 billion in on-chain assets across 22 major cryptocurrencies.",
-    "link": "https://www.finextra.com/pressarticle/111516/okx-reaches-36bn-in-onchain-assets?utm_medium=rssfinextra&utm_source=finextrafeed",
-    "published": "Fri, 30 Oct 2026 10:09:00 GMT",
-    "fetched": "2026-11-01T12:34:11.331224"
-  },
-  {
-    "id": "c9ed1f6e13da",
-    "source": "Finextra",
-    "title": "Canton Foundation backs RedStone to build pricing standard",
-    "summary": "RedStone, the data layer for institutional DeFi, today announced that the Canton Foundation has unanimously approved funding through the Canton Development Fund to develop the Canton Access and Privacy Standard (CAPS), an open-source framework for institutional market-data infrastructure on Canton. CAPS is designed to let institutions price transactions on Canton without revealing their underlying positions or agreed settlement values to data providers.",
-    "link": "https://www.finextra.com/pressarticle/111515/canton-foundation-backs-redstone-to-build-pricing-standard?utm_medium=rssfinextra&utm_source=finextrafeed",
-    "published": "Thu, 29 Oct 2026 17:17:00 GMT",
-    "fetched": "2026-11-01T12:34:11.331214"
-  },
-  {
-    "id": "7f2993517665",
-    "source": "Finextra",
-    "title": "Liquidity Services deploys Flywire tech for domestic and cross-border B2B payments",
-    "summary": "Flywire Corporation (Nasdaq: FLYW), a global payments enablement and software company, today announced that Liquidity Services Inc. (Nasdaq: LQDT) has implemented Flywire to run both domestic and cross-border B2B payments for the global e-commerce marketplace, with over $15 billion in total completed transactions over the course of Liquidity Services International's 25 year history.",
-    "link": "https://www.finextra.com/pressarticle/111512/liquidity-services-deploys-flywire-tech-for-domestic-and-cross-border-b2b-payments?utm_medium=rssfinextra&utm_source=finextrafeed",
-    "published": "Thu, 29 Oct 2026 14:27:00 GMT",
-    "fetched": "2026-11-01T12:34:11.331190"
-  },
-  {
-    "id": "da5f2595576f",
-    "source": "Finextra",
-    "title": "SettleMint integrates digital asset lifecycle platform with IBM Digital Asset Haven",
-    "summary": "SettleMint today announced that its Digital Asset Lifecycle Platform (DALP) has been integrated with IBM Digital Asset Haven, enabling financial institutions, governments and other regulated organizations to manage tokenized assets throughout their lifecycle while leveraging IBM Digital Asset Haven's secure wallet management, transaction orchestration and policy governance capabilities.",
-    "link": "https://www.finextra.com/pressarticle/111509/settlemint-integrates-digital-asset-lifecycle-platform-with-ibm-digital-asset-haven?utm_medium=rssfinextra&utm_source=finextrafeed",
-    "published": "Thu, 29 Oct 2026 12:31:00 GMT",
-    "fetched": "2026-11-01T12:34:11.331151"
-  },
-  {
-    "id": "3c68618252f6",
-    "source": "Finextra",
-    "title": "Former Swift CEO L\u00e1zaro Campos joins stablecoin firm OpenTrade as chair",
-    "summary": "Stablecoin yield infrastructure platform OpenTrade has appointed former Swift CEO L\u00e1zaro Campos as chair of its board of directors.",
-    "link": "https://www.finextra.com/newsarticle/48669/former-swift-ceo-lzaro-campos-joins-stablecoin-firm-opentrade-as-chair?utm_medium=rssfinextra&utm_source=finextrafeed",
-    "published": "Thu, 29 Oct 2026 14:31:00 GMT",
-    "fetched": "2026-11-01T12:34:11.331113"
+    "title": "Lumera completes cloud migration of investment accounts for Nordea Life and Pension Norway",
+    "summary": "Lumera, a leading insurtech company dedicated to digital transformation across the global Life and Pensions industry, announces the completion of another major migration for Nordea Life and Pension, a leading Nordic life insurance and pension provider.",
+    "link": "https://www.finextra.com/pressarticle/111524/lumera-completes-cloud-migration-of-investment-accounts-for-nordea-life-and-pension-norway?utm_medium=rssfinextra&utm_source=finextrafeed",
+    "published": "Mon, 02 Nov 2026 13:05:00 GMT",
+    "fetched": "2026-11-02T14:37:11.911586"
   },
   {
     "id": "8c79bc384ca1",
@@ -123,7 +96,7 @@
     "summary": "Weeks after securing the regulatory green light to step up its operations in China, Visa has inked a deal with the country's tech behemoth Tencent spanning cross-border payments and AI-powered commerce.",
     "link": "https://www.finextra.com/newsarticle/48672/visa-and-tencent-ink-agentic-commerce-and-cross-border-payments-mou?utm_medium=rssfinextra&utm_source=finextrafeed",
     "published": "Thu, 29 Oct 2026 18:57:00 GMT",
-    "fetched": "2026-11-01T12:34:11.331089"
+    "fetched": "2026-11-02T14:37:11.911552"
   },
   {
     "id": "27e4a9de6ed6",
@@ -132,7 +105,7 @@
     "summary": "Stablecoin-centric financial operating system PhotonPay has raised $40 million in a Series C funding round led by Blockchain Capital.",
     "link": "https://www.finextra.com/newsarticle/48671/photonpay-raises-40m-for-stablecoin-centric-financial-os?utm_medium=rssfinextra&utm_source=finextrafeed",
     "published": "Fri, 30 Oct 2026 00:01:00 GMT",
-    "fetched": "2026-11-01T12:34:11.331067"
+    "fetched": "2026-11-02T14:37:11.911534"
   },
   {
     "id": "4a041d352655",
@@ -141,7 +114,7 @@
     "summary": "The world's largest crypto exchange has fallen victim to the world's largest crypto heist after North Korean hackers stole $6.3bn from Binance, an audacious attack that could undermine confidence in the digital assets market.",
     "link": "https://www.finextra.com/newsarticle/48674/hackers-steal-63bn-in-crypto-assets-from-binance?utm_medium=rssfinextra&utm_source=finextrafeed",
     "published": "Fri, 30 Oct 2026 09:11:00 GMT",
-    "fetched": "2026-11-01T12:34:11.331060"
+    "fetched": "2026-11-02T14:37:11.911528"
   },
   {
     "id": "f2e5e8ce8c1d",
@@ -150,7 +123,7 @@
     "summary": "Securities lending platform Equilend has announced that Goldman Sachs has joined 1Source, its DLT-based platform.",
     "link": "https://www.finextra.com/newsarticle/48675/goldman-sachs-joins-dlt-sec-finance-platform?utm_medium=rssfinextra&utm_source=finextrafeed",
     "published": "Fri, 30 Oct 2026 10:44:00 GMT",
-    "fetched": "2026-11-01T12:34:11.331044"
+    "fetched": "2026-11-02T14:37:11.911515"
   },
   {
     "id": "f320b5b1c024",
@@ -159,16 +132,7 @@
     "summary": "The European Central Bank has selected two network service providers to connect PSPs and national central banks to the digital euro service platform.",
     "link": "https://www.finextra.com/newsarticle/48678/ecb-picks-digital-euro-network-service-providers?utm_medium=rssfinextra&utm_source=finextrafeed",
     "published": "Fri, 30 Oct 2026 13:25:00 GMT",
-    "fetched": "2026-11-01T12:34:11.331007"
-  },
-  {
-    "id": "10faad098821",
-    "source": "The Block",
-    "title": "Utah files criminal charges against Kalshi, executives over alleged illegal gambling",
-    "summary": "Utah AG Derek Brown filed criminal charges against Kalshi, Tarek Mansour and Luana Lopes Lara for allegedly promoting online gambling.",
-    "link": "https://www.theblock.co/news/business/2026-10-29-utah-criminal-charges-kalshi-432104",
-    "published": "Thu, 29 Oct 2026 06:40:32 +0000",
-    "fetched": "2026-11-01T12:34:11.165692"
+    "fetched": "2026-11-02T14:37:11.911485"
   },
   {
     "id": "ab67ef6127cc",
@@ -177,7 +141,7 @@
     "summary": "Polygon added Solana to its payments platform, connecting businesses to bank funding, cross-chain transfers, stablecoins and global payouts.",
     "link": "https://www.theblock.co/news/defi/2026-10-29-polygon-adds-solana-payment-stack-432115",
     "published": "Thu, 29 Oct 2026 13:00:00 +0000",
-    "fetched": "2026-11-01T12:34:11.165668"
+    "fetched": "2026-11-02T14:37:11.754664"
   },
   {
     "id": "33363f9aaf5a",
@@ -186,7 +150,7 @@
     "summary": "The firm has also been tracking Binance\u2019s separate multibillion-dollar hack, and said the attackers are using a Tron protocol to dodge stablecoin freezes.",
     "link": "https://www.theblock.co/news/business/2026-10-31-chainalysis-says-hacker-using-offensive-agentic-techniques-accessed-its-customers-names-and-emails-432244",
     "published": "Sat, 31 Oct 2026 13:27:17 +0000",
-    "fetched": "2026-11-01T12:34:11.165479"
+    "fetched": "2026-11-02T14:37:11.754522"
   },
   {
     "id": "c33702369ce5",
@@ -195,25 +159,16 @@
     "summary": "All 12 hijacked domains are registered through Name.com, according to registry records accessed by The Block, suggesting a compromise.",
     "link": "https://www.theblock.co/news/defi/2026-10-31-hackers-hijack-a-dozen-defi-websites-all-registered-with-name-com-and-steal-about-138000-432251",
     "published": "Sat, 31 Oct 2026 15:26:27 +0000",
-    "fetched": "2026-11-01T12:34:11.165462"
+    "fetched": "2026-11-02T14:37:11.754513"
   },
   {
-    "id": "11466d466a3d",
-    "source": "CoinDesk",
-    "title": "OpenAI reportedly cuts fundraising and valuation targets amid AI jitters",
-    "summary": "",
-    "link": "https://www.coindesk.com/business/2026/10/30/openai-reportedly-cuts-fundraising-target-amid-ai-jitters",
-    "published": "Sat, 31 Oct 2026 00:48:56 +0000",
-    "fetched": "2026-11-01T12:34:11.006741"
-  },
-  {
-    "id": "6fc5fb86e734",
-    "source": "CoinDesk",
-    "title": "Uber tests how tokenization can put idle cash to work with HSBC, Franklin Templeton",
-    "summary": "",
-    "link": "https://www.coindesk.com/business/2026/10/31/uber-tests-how-tokenization-can-put-idle-cash-to-work-with-hsbc-franklin-templeton",
-    "published": "Sat, 31 Oct 2026 14:40:29 +0000",
-    "fetched": "2026-11-01T12:34:11.006688"
+    "id": "9be29479b4a7",
+    "source": "The Block",
+    "title": "North Korean hackers launder $242 million of Binance loot via Tron as FBI presses THORChain: analyst",
+    "summary": "Crypto bridges Relay, THORChain, Chainflip and Symbiosis moved about $140 million of stolen funds off Tron, with Relay handling the most at $48 million.",
+    "link": "https://www.theblock.co/news/defi/2026-11-01-north-korean-hackers-launder-242-million-of-binance-loot-via-tron-as-fbi-presses-thorchain-analyst-432257",
+    "published": "Sun, 01 Nov 2026 18:25:48 +0000",
+    "fetched": "2026-11-02T14:37:11.754495"
   },
   {
     "id": "76c093a6be99",
@@ -222,7 +177,34 @@
     "summary": "",
     "link": "https://www.coindesk.com/policy/2026/10/31/fbi-confirms-north-korea-s-role-in-usd6-billion-binance-hack-asks-defi-community-to-block-btc-eth-sol-addresses",
     "published": "Sun, 01 Nov 2026 01:10:05 +0000",
-    "fetched": "2026-11-01T12:34:11.006622"
+    "fetched": "2026-11-02T14:37:11.633346"
+  },
+  {
+    "id": "7ca110719ae7",
+    "source": "CoinDesk",
+    "title": "China\u2019s Communist Party calls for a crackdown on corruption that uses crypto and blockchain",
+    "summary": "",
+    "link": "https://www.coindesk.com/markets/2026/11/02/china-s-communist-party-calls-for-a-crackdown-on-corruption-that-uses-crypto-and-blockchain",
+    "published": "Mon, 02 Nov 2026 08:41:28 +0000",
+    "fetched": "2026-11-02T14:37:11.633261"
+  },
+  {
+    "id": "257473e83e1e",
+    "source": "CoinDesk",
+    "title": "XRP Ledger set to fix flaw that could let stablecoin partners print new tokens",
+    "summary": "",
+    "link": "https://www.coindesk.com/tech/2026/11/02/xrp-ledger-set-to-fix-flaw-that-could-let-stablecoin-partners-print-new-tokens",
+    "published": "Mon, 02 Nov 2026 12:37:24 +0000",
+    "fetched": "2026-11-02T14:37:11.633210"
+  },
+  {
+    "id": "31d480438269",
+    "source": "CoinDesk",
+    "title": "Tokenization firm tZERO plans to go public in $350 million SPAC deal",
+    "summary": "",
+    "link": "https://www.coindesk.com/business/2026/11/01/tokenization-firm-tzero-plans-to-go-public-in-usd350-million-spac-deal",
+    "published": "Mon, 02 Nov 2026 14:00:00 +0000",
+    "fetched": "2026-11-02T14:37:11.633203"
   },
   {
     "id": "8d846827eb84",
@@ -231,7 +213,7 @@
     "summary": "",
     "link": "https://www.ecb.europa.eu//press/key/date/2026/html/ecb.sp261029~e9b57c3495.en.html",
     "published": "Thu, 29 Oct 2026 16:50:00 +0100",
-    "fetched": "2026-11-01T12:34:10.630288"
+    "fetched": "2026-11-02T14:37:11.393933"
   },
   {
     "id": "4090ad68b367",
@@ -240,7 +222,7 @@
     "summary": "Federal Reserve Board requests public comment on two proposals related to establishing a regulatory framework for Board-supervised payment stablecoin issuers under the GENIUS Act",
     "link": "https://www.federalreserve.gov/newsevents/pressreleases/bcreg20260924a.htm",
     "published": "Thu, 24 Sep 2026 18:30:00 GMT",
-    "fetched": "2026-11-01T12:34:09.856990"
+    "fetched": "2026-11-02T14:37:10.609355"
   },
   {
     "id": "62900291a0a1",
@@ -249,7 +231,7 @@
     "summary": "Every generation gets a chance to upgrade its infrastructure. In the 1990s, it was the internet. Policymakers worried that it would disrupt existing industries and create new risks. But instead of cramming the technology into outdated regulatory boxes, lawmakers established rules that let innovation...",
     "link": "https://a16zfrontier.com/posts/article/clarity-act-time-to-pass/",
     "published": "Wed, 22 Jul 2026 17:45:03 GMT",
-    "fetched": "2026-11-01T12:34:08.998900"
+    "fetched": "2026-11-02T14:37:09.883252"
   },
   {
     "id": "ee73f7c830d0",
@@ -258,7 +240,7 @@
     "summary": "Marc Andreessen and Chris Dixon on the fight over crypto market structure, why regulatory clarity matters, and what is at stake for America\u2019s technological leadership.",
     "link": "https://a16zfrontier.com/posts/article/marc-andreessen-chris-dixon-why-clarity-act/",
     "published": "Mon, 03 Aug 2026 16:42:18 GMT",
-    "fetched": "2026-11-01T12:34:08.998868"
+    "fetched": "2026-11-02T14:37:09.883225"
   },
   {
     "id": "a107a33fc8f3",
@@ -267,6 +249,24 @@
     "summary": "Turing Award winner Shafi Goldwasser tells the origin story of zero-knowledge proofs, from mental poker and interactive proofs to SNARKs, blockchain scaling, privacy, and verifiable AI.",
     "link": "https://a16zfrontier.com/posts/article/zero-knowledge-proofs-shafi-goldwasser/",
     "published": "Fri, 07 Aug 2026 14:00:47 GMT",
-    "fetched": "2026-11-01T12:34:08.998837"
+    "fetched": "2026-11-02T14:37:09.883199"
+  },
+  {
+    "id": "454424fbbef8",
+    "source": "a16z Crypto",
+    "title": "9 key moments from Marc Andreessen and Chris Dixon on the CLARITY Act",
+    "summary": "9 key moments from Marc Andreessen and Chris Dixon on the CLARITY Act",
+    "link": "https://a16zfrontier.com/posts/article/9-key-moments-from-marc-andreessen-and-chris-dixon-on-the-clarity-act/",
+    "published": "Fri, 07 Aug 2026 18:21:26 GMT",
+    "fetched": "2026-11-02T14:37:09.883188"
+  },
+  {
+    "id": "0515ccd3712f",
+    "source": "a16z Crypto",
+    "title": "5 charts: How crypto cards are driving stablecoin spend",
+    "summary": "Stablecoins are increasingly being spent by card swipe. Crypto payment cards have gone from a novelty to more than $750 million in monthly spend. These cards let people pay with crypto anywhere traditional card networks are accepted. Behind the scenes, the crypto \u2014 stablecoins, overwhelmingly \u2014 gets...",
+    "link": "https://a16zfrontier.com/posts/article/charts-payment-card-stablecoin-spend/",
+    "published": "Fri, 07 Aug 2026 19:52:54 GMT",
+    "fetched": "2026-11-02T14:37:09.883177"
   }
 ]
