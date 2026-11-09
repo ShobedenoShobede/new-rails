@@ -1,57 +1,12 @@
 [
   {
-    "id": "2652447c99eb",
-    "source": "CoinTelegraph",
-    "title": "Binance\u2019s $6.3B hack leaves questions over hot wallet safeguards",
-    "summary": "<p style=\"float: right; margin: 0 0 10px 15px; width: 240px;\"><img alt=\"Binance\u2019s $6.3B hack leaves questions over hot wallet safeguards\" class=\"type:primaryImage\" src=\"https://s3-images.ctmedia.io/media/article-covers/2026/11/01M6NZZB32AAV4WA4BCAVB6M4R/hi-how-to-migrate-crypto-from-an-exchange-to-ledger-1.jpg\" /></p><p>Experts say blockchain records show repeated wallet drains but cannot establish Binance\u2019s internal signing controls or transaction limits.</p>",
-    "link": "https://cointelegraph.com/news/binances-hack-questions-hot-wallet-risk-controls?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-    "published": "Fri, 06 Nov 2026 10:40:57 +0000",
-    "fetched": "2026-11-08T12:39:32.671139"
-  },
-  {
-    "id": "66e5f8836d63",
-    "source": "CoinTelegraph",
-    "title": "Solana\u2019s Shanghai event halted over unauthorized promotion: Report",
-    "summary": "<p style=\"float: right; margin: 0 0 10px 15px; width: 240px;\"><img alt=\"Solana\u2019s Shanghai event halted over unauthorized promotion: Report \" class=\"type:primaryImage\" src=\"https://s3-images.ctmedia.io/media/article-covers/2026/11/01M6RC2EEQZ9TEP1YJMEKS9NF7/hi-solana-changes-the-crypto-world-already.jpg\" /></p><p>Solana\u2019s promotional campaigns through domestic entities allegedly violated China\u2019s crypto-related restrictions, an unidentified PBOC official told China\u2019s Financial News.</p>",
-    "link": "https://cointelegraph.com/news/solana-shanghai-event-halted-unauthorized-promotion?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-    "published": "Fri, 06 Nov 2026 12:15:28 +0000",
-    "fetched": "2026-11-08T12:39:32.671043"
-  },
-  {
-    "id": "7557f774ae31",
-    "source": "CoinTelegraph",
-    "title": "Ethereum devs won\u2019t fork Glamsterdam on Hoodi until smart contract risks resolved",
-    "summary": "<p style=\"float: right; margin: 0 0 10px 15px; width: 240px;\"><img alt=\"Ethereum devs won\u2019t fork Glamsterdam on Hoodi until smart contract risks resolved\" class=\"type:primaryImage\" src=\"https://s3-images.ctmedia.io/media/article-covers/2026/11/01M6RG4RXBGZ2VPEVAFNJC6VA3/hi-takeaways-5-years-after-the-dao-crisis-and-ethereum-hardfork-1.jpg\" /></p><p>Ethereum developers are investigating concerns tied to eight smart contract invariants tied to Glamsterdam\u2019s EIP-8037 and EIP-8038.</p>",
-    "link": "https://cointelegraph.com/news/ethereum-devs-fork-glamsterdam-hoodi-smart-contract-risks?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-    "published": "Fri, 06 Nov 2026 13:23:08 +0000",
-    "fetched": "2026-11-08T12:39:32.671021"
-  },
-  {
-    "id": "1793e8252462",
-    "source": "CoinTelegraph",
-    "title": "Nigeria sets new crypto licensing rules, bans algorithmic stablecoins",
-    "summary": "<p style=\"float: right; margin: 0 0 10px 15px; width: 240px;\"><img alt=\"Nigeria sets new crypto licensing rules, bans algorithmic stablecoins\" class=\"type:primaryImage\" src=\"https://s3-images.ctmedia.io/media/article-covers/2026/11/01M6RFZC8EDJXT26642DWHC0EV/hi-the-crypto-act-explained-nigeria-1.jpg\" /></p><p>Nigeria has banned algorithmic stablecoins and introduced reserve requirements for issuers as it expands central bank oversight of crypto payment services.</p>",
-    "link": "https://cointelegraph.com/news/nigeria-algorithmic-stablecoin-ban-crypto-licensing?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-    "published": "Fri, 06 Nov 2026 13:57:14 +0000",
-    "fetched": "2026-11-08T12:39:32.670999"
-  },
-  {
-    "id": "df057ab5633b",
-    "source": "CoinTelegraph",
-    "title": "What Democrats\u2019 US midterm sweep means for the CLARITY Act",
-    "summary": "<p style=\"float: right; margin: 0 0 10px 15px; width: 240px;\"><img alt=\"What Democrats\u2019 US midterm sweep means for the CLARITY Act\" class=\"type:primaryImage\" src=\"https://s3-images.ctmedia.io/media/article-covers/2026/11/01M6R79GK8R2493NTQFW6VGRDS/magazine-republicans-vs-democrats-and-crypto-as-a-point-of-contention.jpg\" /></p><p>The CLARITY Act faces a new test as Democrats control Congress, raising questions over consumer protections, ethics and what the crypto industry may have to concede.</p>",
-    "link": "https://cointelegraph.com/magazine/clarity-act-faces-new-test-under-democratic-congress?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-    "published": "Fri, 06 Nov 2026 14:30:00 +0000",
-    "fetched": "2026-11-08T12:39:32.670991"
-  },
-  {
     "id": "f0076275664e",
     "source": "CoinTelegraph",
     "title": "US 401(k) proposal leaves door open to altcoins, but hurdles remain",
     "summary": "<p style=\"float: right; margin: 0 0 10px 15px; width: 240px;\"><img alt=\"US 401(k) proposal leaves door open to altcoins, but hurdles remain\" class=\"type:primaryImage\" src=\"https://s3-images.ctmedia.io/media/article-covers/2026/11/01M6S0G0RDKT5WK8GZZHWMB7ZP/hi-token-burning-explained-sec-1.png\" /></p><p>While the proposal doesn\u2019t exclude altcoins and smaller cryptocurrencies, experts say they could face challenges getting into retirement plans. </p>",
     "link": "https://cointelegraph.com/news/us-401k-proposal-leaves-door-open-altcoins-hurdles?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
     "published": "Fri, 06 Nov 2026 20:04:27 +0000",
-    "fetched": "2026-11-08T12:39:32.670906"
+    "fetched": "2026-11-09T15:04:02.459713"
   },
   {
     "id": "f3438f62db5d",
@@ -60,16 +15,7 @@
     "summary": "<p style=\"float: right; margin: 0 0 10px 15px; width: 240px;\"><img alt=\"Bitcoin holders have received eCash \u2014 What can you do with it?\" class=\"type:primaryImage\" src=\"https://s3-images.ctmedia.io/media/article-covers/2026/11/01M6NTSVE1D4C4XEP4NP4HXZRA/magazine-stablecoins-effect-the-genius-stablecoin-bill-will-have-on-bitcoin-adoption.png\" /></p><p>Bitcoin\u2019s eCash fork gives eligible holders an equivalent balance of ECX, but questions remain over where they can trade the tokens and what they can do with them.</p>",
     "link": "https://cointelegraph.com/magazine/bitcoin-holders-have-received-ecash-what-can-you-with-it?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
     "published": "Sat, 07 Nov 2026 13:30:00 +0000",
-    "fetched": "2026-11-08T12:39:32.670761"
-  },
-  {
-    "id": "547ccb312a5a",
-    "source": "CoinTelegraph",
-    "title": "Here\u2019s what happened in crypto today",
-    "summary": "<p style=\"float: right; margin: 0 0 10px 15px; width: 240px;\"><img alt=\"Here\u2019s what happened in crypto today\" class=\"type:primaryImage\" src=\"https://s3-images.ctmedia.io/media/article-covers/article-covers-110589-what-happened-in-crypto-today.jpg\" /></p><p>Need to know what happened in crypto today? Here is the latest news on daily trends and events impacting Bitcoin price, blockchain, DeFi, Web3 and crypto regulation.</p>",
-    "link": "https://cointelegraph.com/news/what-happened-in-crypto-today?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-    "published": "Sat, 07 Nov 2026 14:22:00 +0000",
-    "fetched": "2026-11-08T12:39:32.670729"
+    "fetched": "2026-11-09T15:04:02.459572"
   },
   {
     "id": "b65b74e5f669",
@@ -78,70 +24,97 @@
     "summary": "<p style=\"float: right; margin: 0 0 10px 15px; width: 240px;\"><img alt=\"Binance\u2019s  finance chief Kaiser Ng to leave company, report says\" class=\"type:primaryImage\" src=\"https://s3-images.ctmedia.io/media/article-covers/2026/11/01M6X3D6NBXVQ58B0WF2EB2C96/bank-building-hall-entrance-door-binance.png\" /></p><p>Ng will be replaced by Justin Yek, who was formerly vice-president of finance at Airwallex.</p>",
     "link": "https://cointelegraph.com/news/binances-finance-chief-kaiser-ng-to-leave-company-report-says?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
     "published": "Sun, 08 Nov 2026 08:12:56 +0000",
-    "fetched": "2026-11-08T12:39:32.670714"
+    "fetched": "2026-11-09T15:04:02.459543"
   },
   {
-    "id": "d126dd7f18ca",
+    "id": "69b6b3bff1aa",
+    "source": "CoinTelegraph",
+    "title": "Vitalik \u2018pivots\u2019 ETH to store of value, crypto suffers after US midterms: Hodler\u2019s Digest",
+    "summary": "<p style=\"float: right; margin: 0 0 10px 15px; width: 240px;\"><img alt=\"Vitalik \u2018pivots\u2019 ETH to store of value, crypto suffers after US midterms: Hodler\u2019s Digest\" class=\"type:primaryImage\" src=\"https://s3-images.ctmedia.io/media/article-covers/2026/11/01M6YMNVH88N4KSXQB6XWMMW2K/screenshot-2026-11-09-093227.jpg\" /></p><p>Vitalik Buterin wants Ethereum to embrace a store of value narrative, upsetting Bitcoin maxis. The crypto industry faces an uncertain future following the US elections.</p>",
+    "link": "https://cointelegraph.com/magazine/vitaliks-pivots-to-eth-as-a-store-of-value-us-election-weighs-on-crypto-hodlers-digest?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+    "published": "Sun, 08 Nov 2026 22:59:06 +0000",
+    "fetched": "2026-11-09T15:04:02.459484"
+  },
+  {
+    "id": "b5e4dd67e164",
+    "source": "CoinTelegraph",
+    "title": "Binance, Tether and Trump crypto firms face Senate records deadline",
+    "summary": "<p style=\"float: right; margin: 0 0 10px 15px; width: 240px;\"><img alt=\"Binance, Tether and Trump crypto firms face Senate records deadline\" class=\"type:primaryImage\" src=\"https://s3-images.ctmedia.io/media/article-covers/2026/11/01M6ZMS02Q1MEXVDRE9TMMRDPD/hi-the-evolution-of-crypto-regulations-in-2024-what-it-means-for-2026.jpg\" /></p><p>Sen. Richard Blumenthal asked four crypto firms to start sending records by Nov. 30 and warned of further action if they miss the Jan. 4 deadline.</p>",
+    "link": "https://cointelegraph.com/news/binance-tether-wlfi-senate-crypto-investigation-records-deadline?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+    "published": "Mon, 09 Nov 2026 09:00:17 +0000",
+    "fetched": "2026-11-09T15:04:02.459403"
+  },
+  {
+    "id": "296b5bd76675",
+    "source": "CoinTelegraph",
+    "title": "Coinbase\u2019s US national trust bank charter takes effect",
+    "summary": "<p style=\"float: right; margin: 0 0 10px 15px; width: 240px;\"><img alt=\"Coinbase\u2019s US national trust bank charter takes effect\" class=\"type:primaryImage\" src=\"https://s3-images.ctmedia.io/media/article-covers/2026/09/01M2MT4V83BPCA5X7B3XFWNYE8/hi-crypto-derivatives-are-now-available-how-much-interest-is-there-for-us-coinbase.jpg\" /></p><p>Coinbase plans to expand its institutional crypto custody business under the federal charter and is exploring digital asset payment products.</p>",
+    "link": "https://cointelegraph.com/news/coinbase-occ-approval-national-trust-bank-charter?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+    "published": "Mon, 09 Nov 2026 11:38:52 +0000",
+    "fetched": "2026-11-09T15:04:02.459340"
+  },
+  {
+    "id": "d788e8008491",
+    "source": "CoinTelegraph",
+    "title": "EU taps industry to set standards for tokenized securities",
+    "summary": "<p style=\"float: right; margin: 0 0 10px 15px; width: 240px;\"><img alt=\"EU taps industry to set standards for tokenized securities\" class=\"type:primaryImage\" src=\"https://s3-images.ctmedia.io/media/article-covers/2026/11/01M702QB3WBZE6GCA3TM7M3NJ9/hi-markets-in-crypto-assets-regulation-mica-explained.jpg\" /></p><p>Applications close Nov. 27 for an industry group that aims to draft initial standards for holding and settling tokenized securities by early 2028.</p>",
+    "link": "https://cointelegraph.com/news/eu-nominations-tokenization-standards-group?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+    "published": "Mon, 09 Nov 2026 12:27:06 +0000",
+    "fetched": "2026-11-09T15:04:02.459278"
+  },
+  {
+    "id": "8a42bc0eb121",
+    "source": "CoinTelegraph",
+    "title": "The $2.85B Binance hackers lost shows why the UK needs stablecoin freeze rules",
+    "summary": "<p style=\"float: right; margin: 0 0 10px 15px; width: 240px;\"><img alt=\"The $2.85B Binance hackers lost shows why the UK needs stablecoin freeze rules \" class=\"type:primaryImage\" src=\"https://s3-images.ctmedia.io/media/article-covers/2026/09/01M33DXG3A0A4EZ0MK4MVHFSA0/binance.jpg\" /></p><p>The Binance hack proved stablecoin freezes work. Now the UK should make clear freeze rules a condition of listing coins.</p>",
+    "link": "https://cointelegraph.com/opinion/285b-binance-hackers-lost-shows-why-uk-needs-stablecoin-freeze-rules?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+    "published": "Mon, 09 Nov 2026 13:30:00 +0000",
+    "fetched": "2026-11-09T15:04:02.459251"
+  },
+  {
+    "id": "547ccb312a5a",
+    "source": "CoinTelegraph",
+    "title": "Here\u2019s what happened in crypto today",
+    "summary": "<p style=\"float: right; margin: 0 0 10px 15px; width: 240px;\"><img alt=\"Here\u2019s what happened in crypto today\" class=\"type:primaryImage\" src=\"https://s3-images.ctmedia.io/media/article-covers/article-covers-110589-what-happened-in-crypto-today.jpg\" /></p><p>Need to know what happened in crypto today? Here is the latest news on daily trends and events impacting Bitcoin price, blockchain, DeFi, Web3 and crypto regulation.</p>",
+    "link": "https://cointelegraph.com/news/what-happened-in-crypto-today?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+    "published": "Mon, 09 Nov 2026 13:36:56 +0000",
+    "fetched": "2026-11-09T15:04:02.459240"
+  },
+  {
+    "id": "d4b671295122",
     "source": "PYMNTS",
-    "title": "Rising Home Repair Costs Place More Pressure on US Households",
-    "summary": "<p>As energy prices rise, Americans are reportedly finding it harder to repair their homes. The cost of home repairs/renovations climbed steadily last month as fuel prices and interest rates continued climbing, Bloomberg News reported Friday (Nov. 6). In the three months through June, those prices increased at the fastest quarterly rate since October 2024, the [&#8230;]</p>\n<p>The post <a href=\"https://www.pymnts.com/consumer-finance/2026/rising-home-repair-costs-place-more-pressure-on-us-households/\">Rising Home Repair Costs Place More Pressure on US Households\u00a0</a> appeared first on <a href=",
-    "link": "https://www.pymnts.com/consumer-finance/2026/rising-home-repair-costs-place-more-pressure-on-us-households/",
-    "published": "Fri, 06 Nov 2026 20:08:14 +0000",
-    "fetched": "2026-11-08T12:39:32.247500"
+    "title": "US Fans Walk Away From $110 Billion in Experience Purchases a Year",
+    "summary": "<p>A fan can spend weeks looking forward to a concert and lose interest in the time it takes to read the total at checkout. That last screen has some competition. There\u2019s always another show, another seller or a good dinner out. \u201cThe Experience Economy\u201d\u00a0is a PYMNTS Intelligence report produced in collaboration with Paysafe. It draws [&#8230;]</p>\n<p>The post <a href=\"https://www.pymnts.com/consumer-insights/2026/us-fans-walk-away-from-110-billion-in-experience-purchases-a-year/\">US Fans Walk Away From $110 Billion in Experience Purchases a Year</a> appeared first on <a href=\"https://www.pymnts",
+    "link": "https://www.pymnts.com/consumer-insights/2026/us-fans-walk-away-from-110-billion-in-experience-purchases-a-year/",
+    "published": "Mon, 09 Nov 2026 09:00:16 +0000",
+    "fetched": "2026-11-09T15:04:02.180878"
   },
   {
-    "id": "ab6bd272b4b9",
+    "id": "57263797220d",
     "source": "PYMNTS",
-    "title": "Samsung\u2019s 82-Million-Device Bet Shows Stablecoin Wars Moving Beyond Crypto",
-    "summary": "<p>Stablecoins are becoming a distribution business before they have conclusively become a profitable payments business. And if stablecoins are a distribution business, then a new player might be trying to corner the market. Samsung last month gave stablecoins something the cryptocurrency industry has spent years trying to build: a direct route to over 80 million [&#8230;]</p>\n<p>The post <a href=\"https://www.pymnts.com/blockchain/2026/samsungs-82-million-device-bet-shows-stablecoin-wars-moving-beyond-crypto/\">Samsung\u2019s 82-Million-Device Bet Shows Stablecoin Wars Moving Beyond Crypto</a> appea",
-    "link": "https://www.pymnts.com/blockchain/2026/samsungs-82-million-device-bet-shows-stablecoin-wars-moving-beyond-crypto/",
-    "published": "Fri, 06 Nov 2026 21:38:03 +0000",
-    "fetched": "2026-11-08T12:39:32.247446"
+    "title": "Coinbase Gets OCC\u2019s Blessing to Launch Trust Bank",
+    "summary": "<p>Coinbase has reportedly gotten regulatory approval to establish a nationally-chartered trust bank. The approval by the U.S. Office of the Comptroller of the Currency (OCC) marks the latest example of digital asset companies moving into the traditional finance space, Bloomberg News reported Monday (Nov. 9). \u201cOur approval shows that crypto is here to stay and [&#8230;]</p>\n<p>The post <a href=\"https://www.pymnts.com/news/banking/2026/coinbase-gets-occs-blessing-to-launch-trust-bank/\">Coinbase Gets OCC\u2019s Blessing to Launch Trust Bank</a> appeared first on <a href=\"https://www.pymnts.com\">PYMNT",
+    "link": "https://www.pymnts.com/news/banking/2026/coinbase-gets-occs-blessing-to-launch-trust-bank/",
+    "published": "Mon, 09 Nov 2026 11:51:24 +0000",
+    "fetched": "2026-11-09T15:04:02.180743"
   },
   {
-    "id": "ed3d7a8d927a",
+    "id": "511febdcd735",
     "source": "PYMNTS",
-    "title": "Study Finds Most Stablecoins Fail GENIUS Act Requirements",
-    "summary": "<p>New research shows most U.S. dollar stablecoins will not follow the GENIUS Act\u2019s reserve asset requirements. A study from the Bank Policy Institute (BPI) published Friday (Nov. 6) examined data on the reserve asset holdings of the 10 largest circulating dollar stablecoins, which accounted for 97% of all stablecoins as of June of this year. [&#8230;]</p>\n<p>The post <a href=\"https://www.pymnts.com/news/2026/study-finds-most-stablecoins-fail-genius-act-requirements/\">Study Finds Most Stablecoins Fail GENIUS Act Requirements</a> appeared first on <a href=\"https://www.pymnts.com\">PYMNTS.com</a>",
-    "link": "https://www.pymnts.com/news/2026/study-finds-most-stablecoins-fail-genius-act-requirements/",
-    "published": "Fri, 06 Nov 2026 21:46:39 +0000",
-    "fetched": "2026-11-08T12:39:32.247432"
+    "title": "AWS\u2019 $100 Million AI Bet Is on Reaching Patients, Not Replacing Doctors",
+    "summary": "<p>The next breakthrough in healthcare artificial intelligence may be making healthcare economically viable in places where there aren\u2019t enough doctors to deliver it. That\u2019s the proposition behind Amazon Web Services\u2019 (AWS) $100 million commitment to AI, agentic services and cloud infrastructure, a five-year initiative targeting underserved populations and persistent gaps in healthcare access. \u201cHow can [&#8230;]</p>\n<p>The post <a href=\"https://www.pymnts.com/news/artificial-intelligence/2026/aws-100-million-ai-bet-is-on-reaching-patients-not-replacing-doctors/\">AWS\u2019 $100 Million AI Bet Is on ",
+    "link": "https://www.pymnts.com/news/artificial-intelligence/2026/aws-100-million-ai-bet-is-on-reaching-patients-not-replacing-doctors/",
+    "published": "Mon, 09 Nov 2026 14:00:25 +0000",
+    "fetched": "2026-11-09T15:04:02.180686"
   },
   {
-    "id": "8ac6e6dca2e4",
-    "source": "PYMNTS",
-    "title": "BMO Turns to Agentic AI to Resolve Card Issues",
-    "summary": "<p>BMO is employing an artificial intelligence (AI) agent to help clients resolve credit card transaction issues. The bank\u2019s AI Agent Assist, announced Friday (Nov. 6), is designed for in-house use by employees and uses agentic AI to help those workers spend less time navigating systems as they assist clients who contact BMO\u2019s Virtual Connect contact [&#8230;]</p>\n<p>The post <a href=\"https://www.pymnts.com/news/artificial-intelligence/2026/bmo-turns-to-agentic-ai-to-resolve-card-issues/\">BMO Turns to Agentic AI to Resolve Card Issues</a> appeared first on <a href=\"https://www.pymnts.com\">PYMN",
-    "link": "https://www.pymnts.com/news/artificial-intelligence/2026/bmo-turns-to-agentic-ai-to-resolve-card-issues/",
-    "published": "Fri, 06 Nov 2026 23:13:58 +0000",
-    "fetched": "2026-11-08T12:39:32.247380"
-  },
-  {
-    "id": "46e360f8f96c",
+    "id": "4cbf5bc6da02",
     "source": "Finextra",
-    "title": "EDX Markets and BitSafe launch centralised exchange trading for CBTC",
-    "summary": "EDX Markets, a digital asset technology firm that combines an institutional-only trading venue with a central clearinghouse, today announced a partnership with BitSafe to launch spot trading of CBTC, BitSafe\u2019s Bitcoin-backed digital asset on the Canton Network.",
-    "link": "https://www.finextra.com/pressarticle/111598/edx-markets-and-bitsafe-launch-centralised-exchange-trading-for-cbtc?utm_medium=rssfinextra&utm_source=finextrafeed",
-    "published": "Thu, 05 Nov 2026 19:50:00 GMT",
-    "fetched": "2026-11-08T12:39:32.164597"
-  },
-  {
-    "id": "21fff1a52727",
-    "source": "Finextra",
-    "title": "Block faces $765m DoJ settlement",
-    "summary": "Block has reached a preliminary settlement with the US Department of Justice that could see Jack Dorsey's firm pay $764 million over money laundering failures.",
-    "link": "https://www.finextra.com/newsarticle/48709/block-faces-765m-doj-settlement?utm_medium=rssfinextra&utm_source=finextrafeed",
-    "published": "Thu, 05 Nov 2026 14:44:00 GMT",
-    "fetched": "2026-11-08T12:39:32.164523"
-  },
-  {
-    "id": "be3e6fe75b5a",
-    "source": "Finextra",
-    "title": "Stablecoin firm Yellow Card target Brazil through GoMoney acquisition",
-    "summary": "Stablecoin payments infrastructure provider Yellow Card has set its sights on Brazil after acquiring local virtual asset service outfit GoMoney. Financial terms were not disclosed.",
-    "link": "https://www.finextra.com/newsarticle/48710/stablecoin-firm-yellow-card-target-brazil-through-gomoney-acquisition?utm_medium=rssfinextra&utm_source=finextrafeed",
-    "published": "Thu, 05 Nov 2026 15:45:00 GMT",
-    "fetched": "2026-11-08T12:39:32.164513"
+    "title": "Wirex and Aurora target fragmentation in stablecoin payments",
+    "summary": "Aurora Intents, the cross-chain execution solution built by Aurora Labs, has partnered with Wirex, the global stablecoin infrastructure platform, to let partners\u2019 users top up their accounts from almost any blockchain using one permanent deposit address.",
+    "link": "https://www.finextra.com/pressarticle/111615/wirex-and-aurora-target-fragmentation-in-stablecoin-payments?utm_medium=rssfinextra&utm_source=finextrafeed",
+    "published": "Mon, 09 Nov 2026 13:25:00 GMT",
+    "fetched": "2026-11-09T15:04:02.094762"
   },
   {
     "id": "0f469842dcaf",
@@ -150,16 +123,7 @@
     "summary": "The National Payments Corporation of India (NPCI) has set up a technology and innovation arm focused on areas including AI and blockchain.",
     "link": "https://www.finextra.com/newsarticle/48711/indias-npci-creates-tech-and-innovation-unit?utm_medium=rssfinextra&utm_source=finextrafeed",
     "published": "Fri, 06 Nov 2026 00:01:00 GMT",
-    "fetched": "2026-11-08T12:39:32.164480"
-  },
-  {
-    "id": "76ceb5ba659e",
-    "source": "The Block",
-    "title": "Nigeria\u2019s central bank introduces stablecoin licensing rules, bans algorithmic versions",
-    "summary": "Nigeria's central bank issued new virtual asset regulations requiring stablecoin issuers and other service providers to obtain local licenses.",
-    "link": "https://www.theblock.co/news/regulation/2026-11-06-nigerias-central-bank-introduces-stablecoin-licensing-rules-bans-algorithmic-versions-435867",
-    "published": "Fri, 06 Nov 2026 11:43:44 +0000",
-    "fetched": "2026-11-08T12:39:32.054461"
+    "fetched": "2026-11-09T15:04:02.094580"
   },
   {
     "id": "0ba431894d80",
@@ -168,25 +132,61 @@
     "summary": "Treasury says it has severed MEXC Global from the U.S. after it allegedly supported $16 billion in transactions connected to Iran.",
     "link": "https://www.theblock.co/news/regulation/2026-11-06-treasury-cuts-off-mexc-global-over-alleged-16-billion-in-transactions-linked-to-iran-north-korea-and-russia-435957",
     "published": "Fri, 06 Nov 2026 21:02:30 +0000",
-    "fetched": "2026-11-08T12:39:32.054334"
+    "fetched": "2026-11-09T15:04:01.980668"
   },
   {
-    "id": "b371818d74c3",
-    "source": "CoinDesk",
-    "title": "Kraken parent Payward and its clients buy AAVE tokens in DeFi investment push",
-    "summary": "",
-    "link": "https://www.coindesk.com/business/2026/11/05/kraken-parent-payward-and-its-clients-buy-aave-tokens-in-defi-investment-push",
-    "published": "Thu, 05 Nov 2026 14:00:00 +0000",
-    "fetched": "2026-11-08T12:39:31.961701"
+    "id": "4319607338f8",
+    "source": "The Block",
+    "title": "What is Zcash (ZEC)? How shielded transactions work",
+    "summary": "Zcash (ZEC) is a privacy coin and blockchain launched in 2016. It allows users to make both public and private transactions. The latter \u2014 called \u201cshielded transactions\u201d on the network \u2014 make use of zero-knowledge proofs called zk-SNARKs to verify payments without revealing the sender, recipient or amount. Zcash has emerged as one of the [\u2026]",
+    "link": "https://www.theblock.co/learn/ecosystems/what-is-zcash-zec-435779",
+    "published": "Mon, 09 Nov 2026 02:36:01 +0000",
+    "fetched": "2026-11-09T15:04:01.980582"
   },
   {
-    "id": "bb8eb156a506",
-    "source": "CoinDesk",
-    "title": "Greece approves 10% tax on crypto gains and 15% levy on DeFi income",
-    "summary": "",
-    "link": "https://www.coindesk.com/policy/2026/11/06/greece-approves-10-tax-on-crypto-gains-and-15-levy-on-defi-income",
-    "published": "Fri, 06 Nov 2026 08:47:42 +0000",
-    "fetched": "2026-11-08T12:39:31.961610"
+    "id": "59e44cbcbc46",
+    "source": "The Block",
+    "title": "Zama spin-off Raycash launches confidential stablecoin payments and private yield on Ethereum",
+    "summary": "Raycash has launched its app on Ethereum, enabling private stablecoin payments and Morpho yield on idle balances.",
+    "link": "https://www.theblock.co/news/defi/2026-11-09-zama-spin-off-raycash-launches-confidential-stablecoin-payments-private-yield-ethereum-435909",
+    "published": "Mon, 09 Nov 2026 09:05:02 +0000",
+    "fetched": "2026-11-09T15:04:01.980548"
+  },
+  {
+    "id": "428138396b02",
+    "source": "The Block",
+    "title": "Crypto-friendly Robinhood brings US IPO access to UK retail investors",
+    "summary": "Robinhood has launched commission-free IPO Access in the UK, allowing retail investors to request shares in eligible U.S. listings",
+    "link": "https://www.theblock.co/news/business/2026-11-09-crypto-friendly-robinhood-brings-us-ipo-access-to-uk-retail-investors-436089",
+    "published": "Mon, 09 Nov 2026 10:48:31 +0000",
+    "fetched": "2026-11-09T15:04:01.980524"
+  },
+  {
+    "id": "bc611aa4a091",
+    "source": "The Block",
+    "title": "Formation notifies SEC to operate first tokenized securities venue on Solana",
+    "summary": "Launch is expected in early 2027, with tokenized shares of Exodus Movement, Forward Industries, and Galaxy Digital among initial offerings.",
+    "link": "https://www.theblock.co/news/defi/2026-11-09-formation-tokenized-securities-solana-436060",
+    "published": "Mon, 09 Nov 2026 12:30:00 +0000",
+    "fetched": "2026-11-09T15:04:01.980512"
+  },
+  {
+    "id": "7b2736e3cea5",
+    "source": "The Block",
+    "title": "NYSE to settle tokenized stocks on Avalanche in planned 24/7 market",
+    "summary": "NYSE picked Avalanche to supply the core ledger technology for the clearing firm of its affiliated tokenized-securities platform.",
+    "link": "https://www.theblock.co/news/business/2026-11-09-nyse-settle-tokenized-stocks-avalanche-planned-24-7-market-436208",
+    "published": "Mon, 09 Nov 2026 14:07:27 +0000",
+    "fetched": "2026-11-09T15:04:01.980473"
+  },
+  {
+    "id": "1833ef591088",
+    "source": "The Block",
+    "title": "Tom Lee\u2019s Bitmine nears 5% Ethereum supply target with $20 million ETH buy as he predicts tokenization and AI \u2018supercycle\u2019",
+    "summary": "Bitmine bought another 9,587 ETH last week, closing in on its target of 5% of Ethereum's circulating supply.",
+    "link": "https://www.theblock.co/news/business/2026-11-09-tom-lee-bitmine-nears-ethereum-supply-target-20-million-eth-tokenization-ai-supercycle-436219",
+    "published": "Mon, 09 Nov 2026 14:32:40 +0000",
+    "fetched": "2026-11-09T15:04:01.980462"
   },
   {
     "id": "2cbcbc9db2ca",
@@ -195,7 +195,34 @@
     "summary": "",
     "link": "https://www.coindesk.com/policy/2026/11/06/apple-meta-reject-okx-ice-tokenized-stock-plans-leaving-crypto-firms-as-the-ones-to-watch",
     "published": "Fri, 06 Nov 2026 20:09:18 +0000",
-    "fetched": "2026-11-08T12:39:31.961538"
+    "fetched": "2026-11-09T15:04:01.886185"
+  },
+  {
+    "id": "7de86115903e",
+    "source": "CoinDesk",
+    "title": "Stablecoin growth has stalled. The payments boom hasn't",
+    "summary": "",
+    "link": "https://www.coindesk.com/business/2026/11/08/stablecoin-growth-has-stalled-the-payments-boom-hasn-t",
+    "published": "Sun, 08 Nov 2026 19:16:42 +0000",
+    "fetched": "2026-11-09T15:04:01.886144"
+  },
+  {
+    "id": "4ae8253cece3",
+    "source": "CoinDesk",
+    "title": "Solana set for its first tokenized stock venue under SEC framework, listing Galaxy",
+    "summary": "",
+    "link": "https://www.coindesk.com/business/2026/11/06/solana-lset-for-its-first-tokenized-stock-venue-under-sec-framework-listing-galaxy",
+    "published": "Mon, 09 Nov 2026 12:41:35 +0000",
+    "fetched": "2026-11-09T15:04:01.886032"
+  },
+  {
+    "id": "28bcb5bd447b",
+    "source": "CoinDesk",
+    "title": "NYSE picks Avalanche to settle tokenized stocks amid Wall Street's blockchain race",
+    "summary": "",
+    "link": "https://www.coindesk.com/business/2026/11/09/nyse-picks-avalanche-to-settle-tokenized-stocks-amid-wall-street-s-blockchain-race",
+    "published": "Mon, 09 Nov 2026 13:40:06 +0000",
+    "fetched": "2026-11-09T15:04:01.886023"
   },
   {
     "id": "8d846827eb84",
@@ -204,7 +231,7 @@
     "summary": "",
     "link": "https://www.ecb.europa.eu//press/key/date/2026/html/ecb.sp261029~e9b57c3495.en.html",
     "published": "Thu, 29 Oct 2026 16:50:00 +0100",
-    "fetched": "2026-11-08T12:39:31.696068"
+    "fetched": "2026-11-09T15:04:01.705031"
   },
   {
     "id": "4090ad68b367",
@@ -213,7 +240,7 @@
     "summary": "Federal Reserve Board requests public comment on two proposals related to establishing a regulatory framework for Board-supervised payment stablecoin issuers under the GENIUS Act",
     "link": "https://www.federalreserve.gov/newsevents/pressreleases/bcreg20260924a.htm",
     "published": "Thu, 24 Sep 2026 18:30:00 GMT",
-    "fetched": "2026-11-08T12:39:31.182635"
+    "fetched": "2026-11-09T15:04:01.070474"
   },
   {
     "id": "a107a33fc8f3",
@@ -222,7 +249,7 @@
     "summary": "Turing Award winner Shafi Goldwasser tells the origin story of zero-knowledge proofs, from mental poker and interactive proofs to SNARKs, blockchain scaling, privacy, and verifiable AI.",
     "link": "https://a16zfrontier.com/posts/article/zero-knowledge-proofs-shafi-goldwasser/",
     "published": "Fri, 07 Aug 2026 14:00:47 GMT",
-    "fetched": "2026-11-08T12:39:28.411895"
+    "fetched": "2026-11-09T15:04:00.507802"
   },
   {
     "id": "454424fbbef8",
@@ -231,7 +258,7 @@
     "summary": "9 key moments from Marc Andreessen and Chris Dixon on the CLARITY Act",
     "link": "https://a16zfrontier.com/posts/article/9-key-moments-from-marc-andreessen-and-chris-dixon-on-the-clarity-act/",
     "published": "Fri, 07 Aug 2026 18:21:26 GMT",
-    "fetched": "2026-11-08T12:39:28.411883"
+    "fetched": "2026-11-09T15:04:00.507790"
   },
   {
     "id": "0515ccd3712f",
@@ -240,33 +267,6 @@
     "summary": "Stablecoins are increasingly being spent by card swipe. Crypto payment cards have gone from a novelty to more than $750 million in monthly spend. These cards let people pay with crypto anywhere traditional card networks are accepted. Behind the scenes, the crypto \u2014 stablecoins, overwhelmingly \u2014 gets...",
     "link": "https://a16zfrontier.com/posts/article/charts-payment-card-stablecoin-spend/",
     "published": "Fri, 07 Aug 2026 19:52:54 GMT",
-    "fetched": "2026-11-08T12:39:28.411870"
-  },
-  {
-    "id": "41684662c1e9",
-    "source": "a16z Crypto",
-    "title": "How Argentina uses stablecoins, in 5 charts",
-    "summary": "Stablecoins solved an urgent problem in Argentina. Then people kept using them.",
-    "link": "https://a16zfrontier.com/posts/article/how-argentina-uses-crypto-5-charts/",
-    "published": "Sun, 30 Aug 2026 15:59:26 GMT",
-    "fetched": "2026-11-08T12:39:28.411815"
-  },
-  {
-    "id": "4276f10ef13e",
-    "source": "a16z Crypto",
-    "title": "When throughput is not enough: What financial markets need from blockchains",
-    "summary": "Throughput was only the first test.",
-    "link": "https://a16zfrontier.com/posts/article/blockchains-are-fast-enough-are-they-ready-for-financial-markets/",
-    "published": "Wed, 02 Sep 2026 14:00:45 GMT",
-    "fetched": "2026-11-08T12:39:28.411799"
-  },
-  {
-    "id": "749c6060fb89",
-    "source": "a16z Crypto",
-    "title": "A financial integrity framework for permissionless networks",
-    "summary": "Many financial institutions are taking advantage of one of the most innovative advancements in blockchain technology \u2014 permissionless networks. Franklin Templeton has kept the official share register of its onchain U.S. government money fund on permissionless blockchains since 2021 and added the Sol...",
-    "link": "https://a16zfrontier.com/posts/article/financial-integrity-framework-permissionless-networks/",
-    "published": "Thu, 10 Sep 2026 12:17:48 GMT",
-    "fetched": "2026-11-08T12:39:28.411764"
+    "fetched": "2026-11-09T15:04:00.507776"
   }
 ]
