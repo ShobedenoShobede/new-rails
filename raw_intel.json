@@ -1,48 +1,39 @@
 [
   {
-    "id": "381db65ac9a0",
-    "source": "CoinTelegraph",
-    "title": "Are Alt-L1s over? Security, costs drive smaller chains to Ethereum",
-    "summary": "<p style=\"float: right; margin: 0 0 10px 15px; width: 240px;\"><img alt=\"Are Alt-L1s over? Security, costs drive smaller chains to Ethereum\" class=\"type:primaryImage\" src=\"https://s3-images.ctmedia.io/media/article-covers/2026/11/01M75B6EF6HGNZVZQ0Z43SYG66/magazineback-to-ethereum-1.jpg\" /></p><p>L1 blockchains Zilliqa, Gnosis and Ronin join the Ethereum ecosystem as the costs of going it alone grow, and the security and liquidity advantages become too hard to resist.</p>",
-    "link": "https://cointelegraph.com/magazine/are-alt-l1s-over-security-costs-drive-smaller-chains-to-ethereum?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-    "published": "Thu, 12 Nov 2026 13:30:00 +0000",
-    "fetched": "2026-11-13T13:50:05.005850"
-  },
-  {
-    "id": "90ee2b0138be",
-    "source": "CoinTelegraph",
-    "title": "Thailand proposes $148K daily cap on stablecoin deposits and withdrawals",
-    "summary": "<p style=\"float: right; margin: 0 0 10px 15px; width: 240px;\"><img alt=\"Thailand proposes $148K daily cap on stablecoin deposits and withdrawals\" class=\"type:primaryImage\" src=\"https://s3-images.ctmedia.io/media/article-covers/2026/11/01M77Y7BBV3T43FJ34BFN7FBGA/thailand-sec-1.jpg\" /></p><p>Thailand\u2019s SEC would set separate daily caps for stablecoin deposits and withdrawals and require customers to use wallets they own.</p>",
-    "link": "https://cointelegraph.com/news/thailand-tighter-stablecoin-rules-crypto-exchange?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-    "published": "Thu, 12 Nov 2026 13:44:03 +0000",
-    "fetched": "2026-11-13T13:50:05.005818"
-  },
-  {
-    "id": "3a2f22911cf5",
-    "source": "CoinTelegraph",
-    "title": "DTCC Plans Solana Expansion as Wallet Rules Limit Access",
-    "summary": "<p style=\"float: right; margin: 0 0 10px 15px; width: 240px;\"><img alt=\"DTCC Plans Solana Expansion as Wallet Rules Limit Access\" class=\"type:primaryImage\" src=\"https://s3-images.ctmedia.io/media/article-covers/2026/11/01M78HYSFQRVZZRHHY3ZZHRTMW/hi-what-is-chainlink-dtcc.png\" /></p><p>The US securities clearinghouse plans to bring tokenized stocks to Solana in 2027, but analysts say restrictions could limit adoption.</p>",
-    "link": "https://cointelegraph.com/news/dtcc-plans-solana-expansion-wallet-rules-limit-access?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-    "published": "Thu, 12 Nov 2026 20:07:41 +0000",
-    "fetched": "2026-11-13T13:50:05.005757"
-  },
-  {
-    "id": "1ab1438de969",
-    "source": "CoinTelegraph",
-    "title": "US Justice Department, business groups and DeFi firms challenge Illinois crypto tax",
-    "summary": "<p style=\"float: right; margin: 0 0 10px 15px; width: 240px;\"><img alt=\"US Justice Department, business groups and DeFi firms challenge Illinois crypto tax\" class=\"type:primaryImage\" src=\"https://s3-images.ctmedia.io/media/article-covers/2026/11/01M78NNMK090K8VRSJK706GEH0/hi-more-irs-crypto-reporting-more-danger.png\" /></p><p>Industry groups argued in court filings that Illinois\u2019 crypto tax, which applies even when a transaction yields no profit, could raise compliance costs and violate federal law.</p>",
-    "link": "https://cointelegraph.com/news/us-justice-department-business-groups-defi-illinois-crypto-tax?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-    "published": "Thu, 12 Nov 2026 20:58:06 +0000",
-    "fetched": "2026-11-13T13:50:05.005751"
-  },
-  {
     "id": "8c6f5701e1b6",
     "source": "CoinTelegraph",
     "title": "Trump nominates Hester Peirce successor among SEC, CFTC picks",
     "summary": "<p style=\"float: right; margin: 0 0 10px 15px; width: 240px;\"><img alt=\"Trump nominates Hester Peirce successor among SEC, CFTC picks\" class=\"type:primaryImage\" src=\"https://s3-images.ctmedia.io/media/article-covers/2026/11/01M79AVSJ6NY5RD5MSVWPM12XB/white-house-stablecoin-trump.jpg\" /></p><p>The White House also named a former CFTC commissioner and two CLARITY Act veterans as nominees to fill vacancies at the SEC and CFTC.</p>",
     "link": "https://cointelegraph.com/news/trump-nominates-hester-peirce-successor-among-sec-cftc-picks?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
     "published": "Fri, 13 Nov 2026 02:29:27 +0000",
-    "fetched": "2026-11-13T13:50:05.005633"
+    "fetched": "2026-11-14T12:53:17.243254"
+  },
+  {
+    "id": "d39497dfd125",
+    "source": "CoinTelegraph",
+    "title": "Adam Back makes case for simpler security as Blockstream launches Bitcoin custody system",
+    "summary": "<p style=\"float: right; margin: 0 0 10px 15px; width: 240px;\"><img alt=\"Adam Back makes case for simpler security as Blockstream launches Bitcoin custody system\" class=\"type:primaryImage\" src=\"https://s3-images.ctmedia.io/media/article-covers/2026/11/01M7BCCR5CYZHHWDA4BH24H4DA/portraitadam-back.png\" /></p><p>Blockstream\u2019s new custody system, developed with Thales, uses dedicated hardware for transaction signing as Adam Back advocates for offline security to reduce cyber risks.</p>",
+    "link": "https://cointelegraph.com/news/adam-back-simpler-security-blockstream-bitcoin-custody-system?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+    "published": "Fri, 13 Nov 2026 21:49:27 +0000",
+    "fetched": "2026-11-14T12:53:17.243033"
+  },
+  {
+    "id": "60275bf183b2",
+    "source": "CoinTelegraph",
+    "title": "Bitcoin ETFs shed $2.35B in 2 weeks, BlackRock\u2019s losing streak hits 11",
+    "summary": "<p style=\"float: right; margin: 0 0 10px 15px; width: 240px;\"><img alt=\"Bitcoin ETFs shed $2.35B in 2 weeks, BlackRock\u2019s losing streak hits 11\" class=\"type:primaryImage\" src=\"https://s3-images.ctmedia.io/media/article-covers/2026/10/01M4FQAANP3H5Z0XYV77PNYB10/hi-will-the-blockchain-stop-leaks-of-crypto.jpg\" /></p><p>US spot Bitcoin ETFs recorded $185.4 million in net outflows Friday, with BlackRock\u2019s IBIT accounting for $143.5 million and Fidelity\u2019s FBTC shedding $41.9 million.</p>",
+    "link": "https://cointelegraph.com/markets/bitcoin-etf-outflows-2-35-billion-blackrock-11-session-streak?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+    "published": "Sat, 14 Nov 2026 06:33:13 +0000",
+    "fetched": "2026-11-14T12:53:17.242996"
+  },
+  {
+    "id": "1ddfaadcbccb",
+    "source": "CoinTelegraph",
+    "title": "MegaETH parent cuts 20% of staff amid restructuring, AI push",
+    "summary": "<p style=\"float: right; margin: 0 0 10px 15px; width: 240px;\"><img alt=\"MegaETH parent cuts 20% of staff amid restructuring, AI push\" class=\"type:primaryImage\" src=\"https://s3-images.ctmedia.io/media/article-covers/2026/11/01M7CHQ8H5VMWGN9MBP9CQVNVC/layoffs-fired-human-resource-hr-leaving-quit-people-ai-2.jpg\" /></p><p>MegaETH co-founder Shuyao Kong said the restructuring affected employees who helped build the project\u2019s blockchain, wallet and ecosystem.</p>",
+    "link": "https://cointelegraph.com/news/megaeth-parent-cuts-20-percent-staff-ai-push?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+    "published": "Sat, 14 Nov 2026 08:12:30 +0000",
+    "fetched": "2026-11-14T12:53:17.242980"
   },
   {
     "id": "547ccb312a5a",
@@ -50,17 +41,8 @@
     "title": "Here\u2019s what happened in crypto today",
     "summary": "<p style=\"float: right; margin: 0 0 10px 15px; width: 240px;\"><img alt=\"Here\u2019s what happened in crypto today\" class=\"type:primaryImage\" src=\"https://s3-images.ctmedia.io/media/article-covers/article-covers-110589-what-happened-in-crypto-today.jpg\" /></p><p>Need to know what happened in crypto today? Here is the latest news on daily trends and events impacting Bitcoin price, blockchain, DeFi, Web3 and crypto regulation.</p>",
     "link": "https://cointelegraph.com/news/what-happened-in-crypto-today?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-    "published": "Fri, 13 Nov 2026 06:16:46 +0000",
-    "fetched": "2026-11-13T13:50:05.005609"
-  },
-  {
-    "id": "375b0c32ab3c",
-    "source": "PYMNTS",
-    "title": "Velera Says Credit Unions Can Learn Digital Money Together",
-    "summary": "<p>Credit unions and industry partners can work together to understand where digital assets could be useful, Velera\u00a0SVP, Emerging Services Scott P. Young writes in a new PYMNTS eBook, \u201cPayments Leaders Rethink What Works in 2026.\u201d &#160; At the start of 2026, the digital asset conversation was dominated by stablecoins. Market hype and fear of missing [&#8230;]</p>\n<p>The post <a href=\"https://www.pymnts.com/opinion/2026/velera-says-credit-unions-can-learn-digital-money-together/\">Velera Says Credit Unions Can Learn Digital Money Together</a> appeared first on <a href=\"https://www.pymnts.com\">P",
-    "link": "https://www.pymnts.com/opinion/2026/velera-says-credit-unions-can-learn-digital-money-together/",
-    "published": "Fri, 13 Nov 2026 09:00:33 +0000",
-    "fetched": "2026-11-13T13:50:04.703918"
+    "published": "Sat, 14 Nov 2026 11:28:12 +0000",
+    "fetched": "2026-11-14T12:53:17.242946"
   },
   {
     "id": "09fd51969534",
@@ -69,25 +51,7 @@
     "summary": "Wirex, the global stablecoin infrastructure platform, has today launched Navoka, the first AI agent that pays on behalf of users from a dedicated bank account and card.",
     "link": "https://www.finextra.com/pressarticle/111665/wirex-launches-navoka-an-ai-agent-that-pays-from-its-own-bank-account-and-card?utm_medium=rssfinextra&utm_source=finextrafeed",
     "published": "Fri, 13 Nov 2026 09:59:00 GMT",
-    "fetched": "2026-11-13T13:50:04.607661"
-  },
-  {
-    "id": "fa67ffa61285",
-    "source": "Finextra",
-    "title": "DTCC tokenisation service to connect with Solana",
-    "summary": "The Depository Trust & Clearing Corporation (DTCC), the premier post-trade market infrastructure for the global financial services industry, today announced plans to enable the tokenization of eligible The Depository Trust Company (DTC)-custodied assets on Solana.",
-    "link": "https://www.finextra.com/pressarticle/111656/dtcc-tokenisation-service-to-connect-with-solana?utm_medium=rssfinextra&utm_source=finextrafeed",
-    "published": "Thu, 12 Nov 2026 13:29:00 GMT",
-    "fetched": "2026-11-13T13:50:04.607549"
-  },
-  {
-    "id": "92cea2ff7ea0",
-    "source": "Finextra",
-    "title": "BaaS bank Griffin raises \u00a320m to add cards and stablecoin capabilities",
-    "summary": "UK Banking-as-a-Service bank Griffin has raised \u00a320 million in a Series B funding round that values the business at over \u00a3100 million.",
-    "link": "https://www.finextra.com/newsarticle/48746/baas-bank-griffin-raises-20m-to-add-cards-and-stablecoin-capabilities?utm_medium=rssfinextra&utm_source=finextrafeed",
-    "published": "Thu, 12 Nov 2026 14:41:00 GMT",
-    "fetched": "2026-11-13T13:50:04.607532"
+    "fetched": "2026-11-14T12:53:16.531600"
   },
   {
     "id": "ffc4414e4427",
@@ -96,34 +60,7 @@
     "summary": "Visa is working with Anchorage Digital to support select stablecoins as native settlement assets on the payment giant's network, starting with Western Union's USDPT.",
     "link": "https://www.finextra.com/newsarticle/48752/visa-and-anchorage-digital-bring-western-union-stablecoin-to-settlement-network?utm_medium=rssfinextra&utm_source=finextrafeed",
     "published": "Fri, 13 Nov 2026 00:01:00 GMT",
-    "fetched": "2026-11-13T13:50:04.607478"
-  },
-  {
-    "id": "500f4d6f942c",
-    "source": "The Block",
-    "title": "Andreessen Horowitz, DeFi Education Fund push back against Illinois crypto tax",
-    "summary": "Crypto industry heavyweights are banding together to challenge Illinois over its controversial crypto tax.",
-    "link": "https://www.theblock.co/news/regulation/2026-11-12-andreessen-horowitz-defi-education-fund-push-back-against-illinois-crypto-tax-438573",
-    "published": "Thu, 12 Nov 2026 15:01:02 +0000",
-    "fetched": "2026-11-13T13:50:04.475239"
-  },
-  {
-    "id": "feb0c263ba14",
-    "source": "The Block",
-    "title": "Visa adds Western Union\u2019s USDPT stablecoin to its settlement network in Anchorage tie-up",
-    "summary": "Anchorage Digital and Visa will support select Anchorage-issued stablecoins as settlement assets on VisaNet, starting with USDPT.",
-    "link": "https://www.theblock.co/news/business/2026-11-12-visa-adds-western-unions-usdpt-stablecoin-to-its-settlement-network-in-anchorage-tie-up-438520",
-    "published": "Thu, 12 Nov 2026 16:00:00 +0000",
-    "fetched": "2026-11-13T13:50:04.475213"
-  },
-  {
-    "id": "a10ed2146d34",
-    "source": "The Block",
-    "title": "Avalanche Owns Five Percent of Tokenized Stocks",
-    "summary": "One Venue, One Chain Over this past week, three U.S. tokenized stock venues picked three different blockchains to launch on. The WSJ reported Monday that NYSE chose Avalanche as the sole settlement chain for its planned 24/7 platform. On November 4, $CNTN became the first U.S. equity to trade under the SEC\u2019s Innovation Exemption. Five [\u2026]",
-    "link": "https://www.theblock.co/newsletters/tokenization-briefing/2026-11-12-avalanche-owns-five-percent-tokenized-stocks-437310",
-    "published": "Thu, 12 Nov 2026 20:02:00 +0000",
-    "fetched": "2026-11-13T13:50:04.475174"
+    "fetched": "2026-11-14T12:53:16.531466"
   },
   {
     "id": "1ce3d6d53878",
@@ -132,7 +69,7 @@
     "summary": "The draft rules also require that stablecoins be transferred only between accounts or wallets belonging to the same person.",
     "link": "https://www.theblock.co/news/regulation/2026-11-13-thailand-seeks-daily-stablecoin-cap-439676",
     "published": "Fri, 13 Nov 2026 10:16:04 +0000",
-    "fetched": "2026-11-13T13:50:04.475076"
+    "fetched": "2026-11-14T12:53:16.420670"
   },
   {
     "id": "7f0644634d43",
@@ -141,16 +78,16 @@
     "summary": "Three central banks published findings from a cross-border FX settlement trial using Partior's synchronization prototype.",
     "link": "https://www.theblock.co/news/regulation/2026-11-13-uk-singapore-and-thailand-central-banks-complete-foreign-exchange-settlement-trial-linking-traditional-and-tokenized-systems-439692",
     "published": "Fri, 13 Nov 2026 12:27:41 +0000",
-    "fetched": "2026-11-13T13:50:04.475069"
+    "fetched": "2026-11-14T12:53:16.420665"
   },
   {
-    "id": "ca91ee0f800f",
-    "source": "CoinDesk",
-    "title": "India\u2019s financial crimes watchdog raids crypto exchanges CoinDCX and Delta over alleged illegal cross-border trades",
-    "summary": "",
-    "link": "https://www.coindesk.com/policy/2026/11/12/india-s-financial-crimes-watchdog-raids-crypto-exchanges-coindcx-and-delta-over-alleged-illegal-cross-border-trades",
-    "published": "Thu, 12 Nov 2026 10:10:48 +0000",
-    "fetched": "2026-11-13T13:50:04.349816"
+    "id": "f1a168593ec6",
+    "source": "The Block",
+    "title": "Ethereum and Layer 1s Explained",
+    "summary": "Ethereum 101 explains how Ethereum made blockchains programmable. It covers smart contracts, accounts and the EVM, ETH and gas fees, Proof of Stake, network upgrades, and how alternative Layer 1s trade off security, decentralization and scalability.",
+    "link": "https://www.theblock.co/learn/campus/ethereum-and-layer-1s-explained-435883",
+    "published": "Fri, 13 Nov 2026 14:12:23 +0000",
+    "fetched": "2026-11-14T12:53:16.420651"
   },
   {
     "id": "5039c94bf527",
@@ -159,7 +96,7 @@
     "summary": "",
     "link": "https://www.coindesk.com/business/2026/11/12/uk-bank-griffin-raises-usd20-million-to-expand-into-stablecoin-payments",
     "published": "Thu, 12 Nov 2026 12:04:42 +0000",
-    "fetched": "2026-11-13T13:50:04.349783"
+    "fetched": "2026-11-14T12:53:16.326652"
   },
   {
     "id": "5c4e18de3e58",
@@ -168,7 +105,7 @@
     "summary": "",
     "link": "https://www.coindesk.com/coindesk-indices/2026/11/12/crypto-for-advisors-the-blockchain-built-to-run-financial-markets",
     "published": "Thu, 12 Nov 2026 15:34:29 +0000",
-    "fetched": "2026-11-13T13:50:04.349753"
+    "fetched": "2026-11-14T12:53:16.326628"
   },
   {
     "id": "7aa6ef65f8c4",
@@ -177,7 +114,7 @@
     "summary": "",
     "link": "https://www.coindesk.com/business/2026/11/12/dtcc-adds-solana-to-wall-street-tokenization-plans-targeting-2027-rollout",
     "published": "Thu, 12 Nov 2026 15:45:48 +0000",
-    "fetched": "2026-11-13T13:50:04.349744"
+    "fetched": "2026-11-14T12:53:16.326622"
   },
   {
     "id": "8d846827eb84",
@@ -186,7 +123,7 @@
     "summary": "",
     "link": "https://www.ecb.europa.eu//press/key/date/2026/html/ecb.sp261029~e9b57c3495.en.html",
     "published": "Thu, 29 Oct 2026 16:50:00 +0100",
-    "fetched": "2026-11-13T13:50:04.110120"
+    "fetched": "2026-11-14T12:53:16.072763"
   },
   {
     "id": "8ff19e61d51d",
@@ -195,25 +132,7 @@
     "summary": "",
     "link": "https://www.ecb.europa.eu//press/key/date/2026/html/ecb.sp261110~9422461bad.en.html",
     "published": "Tue, 10 Nov 2026 15:00:00 +0100",
-    "fetched": "2026-11-13T13:50:04.110044"
-  },
-  {
-    "id": "4090ad68b367",
-    "source": "Federal Reserve",
-    "title": "Federal Reserve Board requests public comment on two proposals related to establishing a regulatory framework for Board-supervised payment stablecoin issuers under the GENIUS Act",
-    "summary": "Federal Reserve Board requests public comment on two proposals related to establishing a regulatory framework for Board-supervised payment stablecoin issuers under the GENIUS Act",
-    "link": "https://www.federalreserve.gov/newsevents/pressreleases/bcreg20260924a.htm",
-    "published": "Thu, 24 Sep 2026 18:30:00 GMT",
-    "fetched": "2026-11-13T13:50:03.387876"
-  },
-  {
-    "id": "a107a33fc8f3",
-    "source": "a16z Crypto",
-    "title": "How Zero-Knowledge Proofs Were Invented (ft. Co-Inventor and Turing Award Winner Shafi Goldwasser)",
-    "summary": "Turing Award winner Shafi Goldwasser tells the origin story of zero-knowledge proofs, from mental poker and interactive proofs to SNARKs, blockchain scaling, privacy, and verifiable AI.",
-    "link": "https://a16zfrontier.com/posts/article/zero-knowledge-proofs-shafi-goldwasser/",
-    "published": "Fri, 07 Aug 2026 14:00:47 GMT",
-    "fetched": "2026-11-13T13:50:02.716662"
+    "fetched": "2026-11-14T12:53:16.072696"
   },
   {
     "id": "454424fbbef8",
@@ -222,7 +141,7 @@
     "summary": "9 key moments from Marc Andreessen and Chris Dixon on the CLARITY Act",
     "link": "https://a16zfrontier.com/posts/article/9-key-moments-from-marc-andreessen-and-chris-dixon-on-the-clarity-act/",
     "published": "Fri, 07 Aug 2026 18:21:26 GMT",
-    "fetched": "2026-11-13T13:50:02.716652"
+    "fetched": "2026-11-14T12:53:14.249409"
   },
   {
     "id": "0515ccd3712f",
@@ -231,7 +150,7 @@
     "summary": "Stablecoins are increasingly being spent by card swipe. Crypto payment cards have gone from a novelty to more than $750 million in monthly spend. These cards let people pay with crypto anywhere traditional card networks are accepted. Behind the scenes, the crypto \u2014 stablecoins, overwhelmingly \u2014 gets...",
     "link": "https://a16zfrontier.com/posts/article/charts-payment-card-stablecoin-spend/",
     "published": "Fri, 07 Aug 2026 19:52:54 GMT",
-    "fetched": "2026-11-13T13:50:02.716642"
+    "fetched": "2026-11-14T12:53:14.249399"
   },
   {
     "id": "41684662c1e9",
@@ -240,7 +159,7 @@
     "summary": "Stablecoins solved an urgent problem in Argentina. Then people kept using them.",
     "link": "https://a16zfrontier.com/posts/article/how-argentina-uses-crypto-5-charts/",
     "published": "Sun, 30 Aug 2026 15:59:26 GMT",
-    "fetched": "2026-11-13T13:50:02.716598"
+    "fetched": "2026-11-14T12:53:14.249360"
   },
   {
     "id": "4276f10ef13e",
@@ -249,7 +168,7 @@
     "summary": "Throughput was only the first test.",
     "link": "https://a16zfrontier.com/posts/article/blockchains-are-fast-enough-are-they-ready-for-financial-markets/",
     "published": "Wed, 02 Sep 2026 14:00:45 GMT",
-    "fetched": "2026-11-13T13:50:02.716585"
+    "fetched": "2026-11-14T12:53:14.249349"
   },
   {
     "id": "749c6060fb89",
@@ -258,7 +177,7 @@
     "summary": "Many financial institutions are taking advantage of one of the most innovative advancements in blockchain technology \u2014 permissionless networks. Franklin Templeton has kept the official share register of its onchain U.S. government money fund on permissionless blockchains since 2021 and added the Sol...",
     "link": "https://a16zfrontier.com/posts/article/financial-integrity-framework-permissionless-networks/",
     "published": "Thu, 10 Sep 2026 12:17:48 GMT",
-    "fetched": "2026-11-13T13:50:02.716560"
+    "fetched": "2026-11-14T12:53:14.249327"
   },
   {
     "id": "77da3859c553",
@@ -267,6 +186,24 @@
     "summary": "The SEC should clarify the circumstances in which developers of DEXs and their apps fall outside the Exchange Act\u2019s exchange registration requirements.",
     "link": "https://a16zfrontier.com/posts/article/sec-clarify-exchange-rules-blockchains/",
     "published": "Tue, 22 Sep 2026 12:58:35 GMT",
-    "fetched": "2026-11-13T13:50:02.716535"
+    "fetched": "2026-11-14T12:53:14.249303"
+  },
+  {
+    "id": "802a37d5043a",
+    "source": "a16z Crypto",
+    "title": "The rise of the $700-billion RWA perp market",
+    "summary": "Monthly RWA perp volume is up 1,148x in a year as demand grows for round-the-clock exposure to stocks and commodities.",
+    "link": "https://a16zfrontier.com/posts/article/rwa-perps-charts/",
+    "published": "Wed, 23 Sep 2026 22:01:22 GMT",
+    "fetched": "2026-11-14T12:53:14.249292"
+  },
+  {
+    "id": "5e513e7a2279",
+    "source": "a16z Crypto",
+    "title": "Blockchains create net new markets",
+    "summary": "Blockchains are the first technology that lets the supply of markets catch up with latent global demand.",
+    "link": "https://a16zfrontier.com/posts/article/blockchains-create-net-new-markets/",
+    "published": "Tue, 29 Sep 2026 13:00:08 GMT",
+    "fetched": "2026-11-14T12:53:14.249283"
   }
 ]
