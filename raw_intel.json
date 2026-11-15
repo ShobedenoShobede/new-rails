@@ -6,7 +6,7 @@
     "summary": "<p style=\"float: right; margin: 0 0 10px 15px; width: 240px;\"><img alt=\"Trump nominates Hester Peirce successor among SEC, CFTC picks\" class=\"type:primaryImage\" src=\"https://s3-images.ctmedia.io/media/article-covers/2026/11/01M79AVSJ6NY5RD5MSVWPM12XB/white-house-stablecoin-trump.jpg\" /></p><p>The White House also named a former CFTC commissioner and two CLARITY Act veterans as nominees to fill vacancies at the SEC and CFTC.</p>",
     "link": "https://cointelegraph.com/news/trump-nominates-hester-peirce-successor-among-sec-cftc-picks?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
     "published": "Fri, 13 Nov 2026 02:29:27 +0000",
-    "fetched": "2026-11-14T12:53:17.243254"
+    "fetched": "2026-11-15T13:21:11.236449"
   },
   {
     "id": "d39497dfd125",
@@ -15,7 +15,7 @@
     "summary": "<p style=\"float: right; margin: 0 0 10px 15px; width: 240px;\"><img alt=\"Adam Back makes case for simpler security as Blockstream launches Bitcoin custody system\" class=\"type:primaryImage\" src=\"https://s3-images.ctmedia.io/media/article-covers/2026/11/01M7BCCR5CYZHHWDA4BH24H4DA/portraitadam-back.png\" /></p><p>Blockstream\u2019s new custody system, developed with Thales, uses dedicated hardware for transaction signing as Adam Back advocates for offline security to reduce cyber risks.</p>",
     "link": "https://cointelegraph.com/news/adam-back-simpler-security-blockstream-bitcoin-custody-system?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
     "published": "Fri, 13 Nov 2026 21:49:27 +0000",
-    "fetched": "2026-11-14T12:53:17.243033"
+    "fetched": "2026-11-15T13:21:11.236168"
   },
   {
     "id": "60275bf183b2",
@@ -24,7 +24,7 @@
     "summary": "<p style=\"float: right; margin: 0 0 10px 15px; width: 240px;\"><img alt=\"Bitcoin ETFs shed $2.35B in 2 weeks, BlackRock\u2019s losing streak hits 11\" class=\"type:primaryImage\" src=\"https://s3-images.ctmedia.io/media/article-covers/2026/10/01M4FQAANP3H5Z0XYV77PNYB10/hi-will-the-blockchain-stop-leaks-of-crypto.jpg\" /></p><p>US spot Bitcoin ETFs recorded $185.4 million in net outflows Friday, with BlackRock\u2019s IBIT accounting for $143.5 million and Fidelity\u2019s FBTC shedding $41.9 million.</p>",
     "link": "https://cointelegraph.com/markets/bitcoin-etf-outflows-2-35-billion-blackrock-11-session-streak?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
     "published": "Sat, 14 Nov 2026 06:33:13 +0000",
-    "fetched": "2026-11-14T12:53:17.242996"
+    "fetched": "2026-11-15T13:21:11.236120"
   },
   {
     "id": "1ddfaadcbccb",
@@ -33,7 +33,16 @@
     "summary": "<p style=\"float: right; margin: 0 0 10px 15px; width: 240px;\"><img alt=\"MegaETH parent cuts 20% of staff amid restructuring, AI push\" class=\"type:primaryImage\" src=\"https://s3-images.ctmedia.io/media/article-covers/2026/11/01M7CHQ8H5VMWGN9MBP9CQVNVC/layoffs-fired-human-resource-hr-leaving-quit-people-ai-2.jpg\" /></p><p>MegaETH co-founder Shuyao Kong said the restructuring affected employees who helped build the project\u2019s blockchain, wallet and ecosystem.</p>",
     "link": "https://cointelegraph.com/news/megaeth-parent-cuts-20-percent-staff-ai-push?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
     "published": "Sat, 14 Nov 2026 08:12:30 +0000",
-    "fetched": "2026-11-14T12:53:17.242980"
+    "fetched": "2026-11-15T13:21:11.236097"
+  },
+  {
+    "id": "f1f1dc344d00",
+    "source": "CoinTelegraph",
+    "title": "RWA protocol stUSDT winds down three years after $2.3B TVL peak",
+    "summary": "<p style=\"float: right; margin: 0 0 10px 15px; width: 240px;\"><img alt=\"RWA protocol stUSDT winds down three years after $2.3B TVL peak\" class=\"type:primaryImage\" src=\"https://s3-images.ctmedia.io/media/article-covers/2026/10/01M4STR9GPNQXV18RZ1XBHZJV9/hi-coinflares-exit-and-the-future-of-cloud-mining-3.jpg\" /></p><p>The stUSDT team did not disclose a reason for winding down the RWA protocol but assured holders that all underlying assets remain fully backed.</p>",
+    "link": "https://cointelegraph.com/news/rwa-protocol-stusdt-winds-down-three-years-after-23b-tvl-peak?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+    "published": "Sun, 15 Nov 2026 06:27:26 +0000",
+    "fetched": "2026-11-15T13:21:11.236037"
   },
   {
     "id": "547ccb312a5a",
@@ -41,26 +50,8 @@
     "title": "Here\u2019s what happened in crypto today",
     "summary": "<p style=\"float: right; margin: 0 0 10px 15px; width: 240px;\"><img alt=\"Here\u2019s what happened in crypto today\" class=\"type:primaryImage\" src=\"https://s3-images.ctmedia.io/media/article-covers/article-covers-110589-what-happened-in-crypto-today.jpg\" /></p><p>Need to know what happened in crypto today? Here is the latest news on daily trends and events impacting Bitcoin price, blockchain, DeFi, Web3 and crypto regulation.</p>",
     "link": "https://cointelegraph.com/news/what-happened-in-crypto-today?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-    "published": "Sat, 14 Nov 2026 11:28:12 +0000",
-    "fetched": "2026-11-14T12:53:17.242946"
-  },
-  {
-    "id": "09fd51969534",
-    "source": "Finextra",
-    "title": "Wirex launches Navoka, an AI agent that pays from its own bank account and card",
-    "summary": "Wirex, the global stablecoin infrastructure platform, has today launched Navoka, the first AI agent that pays on behalf of users from a dedicated bank account and card.",
-    "link": "https://www.finextra.com/pressarticle/111665/wirex-launches-navoka-an-ai-agent-that-pays-from-its-own-bank-account-and-card?utm_medium=rssfinextra&utm_source=finextrafeed",
-    "published": "Fri, 13 Nov 2026 09:59:00 GMT",
-    "fetched": "2026-11-14T12:53:16.531600"
-  },
-  {
-    "id": "ffc4414e4427",
-    "source": "Finextra",
-    "title": "Visa and Anchorage Digital bring Western Union stablecoin to settlement network",
-    "summary": "Visa is working with Anchorage Digital to support select stablecoins as native settlement assets on the payment giant's network, starting with Western Union's USDPT.",
-    "link": "https://www.finextra.com/newsarticle/48752/visa-and-anchorage-digital-bring-western-union-stablecoin-to-settlement-network?utm_medium=rssfinextra&utm_source=finextrafeed",
-    "published": "Fri, 13 Nov 2026 00:01:00 GMT",
-    "fetched": "2026-11-14T12:53:16.531466"
+    "published": "Sun, 15 Nov 2026 11:18:48 +0000",
+    "fetched": "2026-11-15T13:21:11.235982"
   },
   {
     "id": "1ce3d6d53878",
@@ -69,7 +60,7 @@
     "summary": "The draft rules also require that stablecoins be transferred only between accounts or wallets belonging to the same person.",
     "link": "https://www.theblock.co/news/regulation/2026-11-13-thailand-seeks-daily-stablecoin-cap-439676",
     "published": "Fri, 13 Nov 2026 10:16:04 +0000",
-    "fetched": "2026-11-14T12:53:16.420670"
+    "fetched": "2026-11-15T13:21:10.344850"
   },
   {
     "id": "7f0644634d43",
@@ -78,7 +69,7 @@
     "summary": "Three central banks published findings from a cross-border FX settlement trial using Partior's synchronization prototype.",
     "link": "https://www.theblock.co/news/regulation/2026-11-13-uk-singapore-and-thailand-central-banks-complete-foreign-exchange-settlement-trial-linking-traditional-and-tokenized-systems-439692",
     "published": "Fri, 13 Nov 2026 12:27:41 +0000",
-    "fetched": "2026-11-14T12:53:16.420665"
+    "fetched": "2026-11-15T13:21:10.344841"
   },
   {
     "id": "f1a168593ec6",
@@ -87,34 +78,25 @@
     "summary": "Ethereum 101 explains how Ethereum made blockchains programmable. It covers smart contracts, accounts and the EVM, ETH and gas fees, Proof of Stake, network upgrades, and how alternative Layer 1s trade off security, decentralization and scalability.",
     "link": "https://www.theblock.co/learn/campus/ethereum-and-layer-1s-explained-435883",
     "published": "Fri, 13 Nov 2026 14:12:23 +0000",
-    "fetched": "2026-11-14T12:53:16.420651"
+    "fetched": "2026-11-15T13:21:10.344821"
   },
   {
-    "id": "5039c94bf527",
+    "id": "5451245ba7c0",
     "source": "CoinDesk",
-    "title": "UK bank Griffin raises $20 million to expand into stablecoin payments",
+    "title": "UK, Singapore, and Thailand central banks test cross-border FX settlement as stablecoins gain ground",
     "summary": "",
-    "link": "https://www.coindesk.com/business/2026/11/12/uk-bank-griffin-raises-usd20-million-to-expand-into-stablecoin-payments",
-    "published": "Thu, 12 Nov 2026 12:04:42 +0000",
-    "fetched": "2026-11-14T12:53:16.326652"
+    "link": "https://www.coindesk.com/policy/2026/11/14/uk-singapore-and-thailand-central-banks-test-cross-border-fx-settlement-as-stablecoins-gain-ground",
+    "published": "Sat, 14 Nov 2026 15:00:00 +0000",
+    "fetched": "2026-11-15T13:21:10.204648"
   },
   {
-    "id": "5c4e18de3e58",
+    "id": "8cc05916cddf",
     "source": "CoinDesk",
-    "title": "Crypto for Advisors: The blockchain built to run financial markets",
+    "title": "Kazakhstan plans tokenized government bonds in first quarter after $22 million note sale",
     "summary": "",
-    "link": "https://www.coindesk.com/coindesk-indices/2026/11/12/crypto-for-advisors-the-blockchain-built-to-run-financial-markets",
-    "published": "Thu, 12 Nov 2026 15:34:29 +0000",
-    "fetched": "2026-11-14T12:53:16.326628"
-  },
-  {
-    "id": "7aa6ef65f8c4",
-    "source": "CoinDesk",
-    "title": "DTCC adds Solana to Wall Street tokenization plans, targeting 2027 rollout",
-    "summary": "",
-    "link": "https://www.coindesk.com/business/2026/11/12/dtcc-adds-solana-to-wall-street-tokenization-plans-targeting-2027-rollout",
-    "published": "Thu, 12 Nov 2026 15:45:48 +0000",
-    "fetched": "2026-11-14T12:53:16.326622"
+    "link": "https://www.coindesk.com/business/2026/11/14/kazakhstan-plans-tokenized-government-bonds-in-first-quarter-after-usd22-million-note-sale",
+    "published": "Sat, 14 Nov 2026 15:38:27 +0000",
+    "fetched": "2026-11-15T13:21:10.204638"
   },
   {
     "id": "8d846827eb84",
@@ -123,7 +105,7 @@
     "summary": "",
     "link": "https://www.ecb.europa.eu//press/key/date/2026/html/ecb.sp261029~e9b57c3495.en.html",
     "published": "Thu, 29 Oct 2026 16:50:00 +0100",
-    "fetched": "2026-11-14T12:53:16.072763"
+    "fetched": "2026-11-15T13:21:09.813975"
   },
   {
     "id": "8ff19e61d51d",
@@ -132,7 +114,7 @@
     "summary": "",
     "link": "https://www.ecb.europa.eu//press/key/date/2026/html/ecb.sp261110~9422461bad.en.html",
     "published": "Tue, 10 Nov 2026 15:00:00 +0100",
-    "fetched": "2026-11-14T12:53:16.072696"
+    "fetched": "2026-11-15T13:21:09.813878"
   },
   {
     "id": "454424fbbef8",
@@ -141,7 +123,7 @@
     "summary": "9 key moments from Marc Andreessen and Chris Dixon on the CLARITY Act",
     "link": "https://a16zfrontier.com/posts/article/9-key-moments-from-marc-andreessen-and-chris-dixon-on-the-clarity-act/",
     "published": "Fri, 07 Aug 2026 18:21:26 GMT",
-    "fetched": "2026-11-14T12:53:14.249409"
+    "fetched": "2026-11-15T13:21:08.552135"
   },
   {
     "id": "0515ccd3712f",
@@ -150,7 +132,7 @@
     "summary": "Stablecoins are increasingly being spent by card swipe. Crypto payment cards have gone from a novelty to more than $750 million in monthly spend. These cards let people pay with crypto anywhere traditional card networks are accepted. Behind the scenes, the crypto \u2014 stablecoins, overwhelmingly \u2014 gets...",
     "link": "https://a16zfrontier.com/posts/article/charts-payment-card-stablecoin-spend/",
     "published": "Fri, 07 Aug 2026 19:52:54 GMT",
-    "fetched": "2026-11-14T12:53:14.249399"
+    "fetched": "2026-11-15T13:21:08.552121"
   },
   {
     "id": "41684662c1e9",
@@ -159,7 +141,7 @@
     "summary": "Stablecoins solved an urgent problem in Argentina. Then people kept using them.",
     "link": "https://a16zfrontier.com/posts/article/how-argentina-uses-crypto-5-charts/",
     "published": "Sun, 30 Aug 2026 15:59:26 GMT",
-    "fetched": "2026-11-14T12:53:14.249360"
+    "fetched": "2026-11-15T13:21:08.552066"
   },
   {
     "id": "4276f10ef13e",
@@ -168,7 +150,7 @@
     "summary": "Throughput was only the first test.",
     "link": "https://a16zfrontier.com/posts/article/blockchains-are-fast-enough-are-they-ready-for-financial-markets/",
     "published": "Wed, 02 Sep 2026 14:00:45 GMT",
-    "fetched": "2026-11-14T12:53:14.249349"
+    "fetched": "2026-11-15T13:21:08.552030"
   },
   {
     "id": "749c6060fb89",
@@ -177,7 +159,7 @@
     "summary": "Many financial institutions are taking advantage of one of the most innovative advancements in blockchain technology \u2014 permissionless networks. Franklin Templeton has kept the official share register of its onchain U.S. government money fund on permissionless blockchains since 2021 and added the Sol...",
     "link": "https://a16zfrontier.com/posts/article/financial-integrity-framework-permissionless-networks/",
     "published": "Thu, 10 Sep 2026 12:17:48 GMT",
-    "fetched": "2026-11-14T12:53:14.249327"
+    "fetched": "2026-11-15T13:21:08.551998"
   },
   {
     "id": "77da3859c553",
@@ -186,7 +168,7 @@
     "summary": "The SEC should clarify the circumstances in which developers of DEXs and their apps fall outside the Exchange Act\u2019s exchange registration requirements.",
     "link": "https://a16zfrontier.com/posts/article/sec-clarify-exchange-rules-blockchains/",
     "published": "Tue, 22 Sep 2026 12:58:35 GMT",
-    "fetched": "2026-11-14T12:53:14.249303"
+    "fetched": "2026-11-15T13:21:08.551966"
   },
   {
     "id": "802a37d5043a",
@@ -195,7 +177,7 @@
     "summary": "Monthly RWA perp volume is up 1,148x in a year as demand grows for round-the-clock exposure to stocks and commodities.",
     "link": "https://a16zfrontier.com/posts/article/rwa-perps-charts/",
     "published": "Wed, 23 Sep 2026 22:01:22 GMT",
-    "fetched": "2026-11-14T12:53:14.249292"
+    "fetched": "2026-11-15T13:21:08.551949"
   },
   {
     "id": "5e513e7a2279",
@@ -204,6 +186,6 @@
     "summary": "Blockchains are the first technology that lets the supply of markets catch up with latent global demand.",
     "link": "https://a16zfrontier.com/posts/article/blockchains-create-net-new-markets/",
     "published": "Tue, 29 Sep 2026 13:00:08 GMT",
-    "fetched": "2026-11-14T12:53:14.249283"
+    "fetched": "2026-11-15T13:21:08.551935"
   }
 ]
