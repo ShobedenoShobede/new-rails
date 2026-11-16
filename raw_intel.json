@@ -1,21 +1,12 @@
 [
   {
-    "id": "8c6f5701e1b6",
-    "source": "CoinTelegraph",
-    "title": "Trump nominates Hester Peirce successor among SEC, CFTC picks",
-    "summary": "<p style=\"float: right; margin: 0 0 10px 15px; width: 240px;\"><img alt=\"Trump nominates Hester Peirce successor among SEC, CFTC picks\" class=\"type:primaryImage\" src=\"https://s3-images.ctmedia.io/media/article-covers/2026/11/01M79AVSJ6NY5RD5MSVWPM12XB/white-house-stablecoin-trump.jpg\" /></p><p>The White House also named a former CFTC commissioner and two CLARITY Act veterans as nominees to fill vacancies at the SEC and CFTC.</p>",
-    "link": "https://cointelegraph.com/news/trump-nominates-hester-peirce-successor-among-sec-cftc-picks?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-    "published": "Fri, 13 Nov 2026 02:29:27 +0000",
-    "fetched": "2026-11-15T13:21:11.236449"
-  },
-  {
     "id": "d39497dfd125",
     "source": "CoinTelegraph",
     "title": "Adam Back makes case for simpler security as Blockstream launches Bitcoin custody system",
     "summary": "<p style=\"float: right; margin: 0 0 10px 15px; width: 240px;\"><img alt=\"Adam Back makes case for simpler security as Blockstream launches Bitcoin custody system\" class=\"type:primaryImage\" src=\"https://s3-images.ctmedia.io/media/article-covers/2026/11/01M7BCCR5CYZHHWDA4BH24H4DA/portraitadam-back.png\" /></p><p>Blockstream\u2019s new custody system, developed with Thales, uses dedicated hardware for transaction signing as Adam Back advocates for offline security to reduce cyber risks.</p>",
     "link": "https://cointelegraph.com/news/adam-back-simpler-security-blockstream-bitcoin-custody-system?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
     "published": "Fri, 13 Nov 2026 21:49:27 +0000",
-    "fetched": "2026-11-15T13:21:11.236168"
+    "fetched": "2026-11-16T14:36:30.131380"
   },
   {
     "id": "60275bf183b2",
@@ -24,7 +15,7 @@
     "summary": "<p style=\"float: right; margin: 0 0 10px 15px; width: 240px;\"><img alt=\"Bitcoin ETFs shed $2.35B in 2 weeks, BlackRock\u2019s losing streak hits 11\" class=\"type:primaryImage\" src=\"https://s3-images.ctmedia.io/media/article-covers/2026/10/01M4FQAANP3H5Z0XYV77PNYB10/hi-will-the-blockchain-stop-leaks-of-crypto.jpg\" /></p><p>US spot Bitcoin ETFs recorded $185.4 million in net outflows Friday, with BlackRock\u2019s IBIT accounting for $143.5 million and Fidelity\u2019s FBTC shedding $41.9 million.</p>",
     "link": "https://cointelegraph.com/markets/bitcoin-etf-outflows-2-35-billion-blackrock-11-session-streak?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
     "published": "Sat, 14 Nov 2026 06:33:13 +0000",
-    "fetched": "2026-11-15T13:21:11.236120"
+    "fetched": "2026-11-16T14:36:30.131343"
   },
   {
     "id": "1ddfaadcbccb",
@@ -33,16 +24,70 @@
     "summary": "<p style=\"float: right; margin: 0 0 10px 15px; width: 240px;\"><img alt=\"MegaETH parent cuts 20% of staff amid restructuring, AI push\" class=\"type:primaryImage\" src=\"https://s3-images.ctmedia.io/media/article-covers/2026/11/01M7CHQ8H5VMWGN9MBP9CQVNVC/layoffs-fired-human-resource-hr-leaving-quit-people-ai-2.jpg\" /></p><p>MegaETH co-founder Shuyao Kong said the restructuring affected employees who helped build the project\u2019s blockchain, wallet and ecosystem.</p>",
     "link": "https://cointelegraph.com/news/megaeth-parent-cuts-20-percent-staff-ai-push?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
     "published": "Sat, 14 Nov 2026 08:12:30 +0000",
-    "fetched": "2026-11-15T13:21:11.236097"
+    "fetched": "2026-11-16T14:36:30.131327"
   },
   {
-    "id": "f1f1dc344d00",
+    "id": "d63d8659526d",
     "source": "CoinTelegraph",
-    "title": "RWA protocol stUSDT winds down three years after $2.3B TVL peak",
-    "summary": "<p style=\"float: right; margin: 0 0 10px 15px; width: 240px;\"><img alt=\"RWA protocol stUSDT winds down three years after $2.3B TVL peak\" class=\"type:primaryImage\" src=\"https://s3-images.ctmedia.io/media/article-covers/2026/10/01M4STR9GPNQXV18RZ1XBHZJV9/hi-coinflares-exit-and-the-future-of-cloud-mining-3.jpg\" /></p><p>The stUSDT team did not disclose a reason for winding down the RWA protocol but assured holders that all underlying assets remain fully backed.</p>",
+    "title": "RWA protocol stUSDT winds down 3 years after $2.3B TVL peak",
+    "summary": "<p style=\"float: right; margin: 0 0 10px 15px; width: 240px;\"><img alt=\"RWA protocol stUSDT winds down 3 years after $2.3B TVL peak\" class=\"type:primaryImage\" src=\"https://s3-images.ctmedia.io/media/article-covers/2026/10/01M4STR9GPNQXV18RZ1XBHZJV9/hi-coinflares-exit-and-the-future-of-cloud-mining-3.jpg\" /></p><p>The stUSDT team did not disclose a reason for winding down the RWA protocol but assured holders that all underlying assets remain fully backed.</p>",
     "link": "https://cointelegraph.com/news/rwa-protocol-stusdt-winds-down-three-years-after-23b-tvl-peak?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
     "published": "Sun, 15 Nov 2026 06:27:26 +0000",
-    "fetched": "2026-11-15T13:21:11.236037"
+    "fetched": "2026-11-16T14:36:30.131297"
+  },
+  {
+    "id": "2a73742ba296",
+    "source": "CoinTelegraph",
+    "title": "Enterprise blockchain is going to come back from the dead",
+    "summary": "<p style=\"float: right; margin: 0 0 10px 15px; width: 240px;\"><img alt=\"Enterprise blockchain is going to come back from the dead\" class=\"type:primaryImage\" src=\"https://s3-images.ctmedia.io/media/article-covers/2026/11/01M6ZMF6J25WASD4RQJDF0BRKT/hi-if-blockchain-is-the-door-to-the-future-of-finance-liquidity-is-the-key.jpg\" /></p><p>With scalability, privacy tools and onchain liquidity improving, businesses may finally have the infrastructure to make enterprise blockchain work.</p>",
+    "link": "https://cointelegraph.com/opinion/enterprise-blockchain-come-back-from-dead?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+    "published": "Sun, 15 Nov 2026 14:30:00 +0000",
+    "fetched": "2026-11-16T14:36:30.131257"
+  },
+  {
+    "id": "ad60aa5f881a",
+    "source": "CoinTelegraph",
+    "title": "US sellers drive Bitcoin crash, Jensen plots Nvidia comeback: Hodler\u2019s Digest",
+    "summary": "<p style=\"float: right; margin: 0 0 10px 15px; width: 240px;\"><img alt=\"US sellers drive Bitcoin crash, Jensen plots Nvidia comeback: Hodler\u2019s Digest\" class=\"type:primaryImage\" src=\"https://s3-images.ctmedia.io/media/article-covers/2026/11/01M7GHDR0B3KQVHBYYPZ3528NV/jensen-in-flames.png\" /></p><p>Anchorage Digital data suggests the Bitcoin selloff is being driven by US investors. A \u201cwar room\u201d has been set up by supporters to reinstate Nvidia boss Jensen Huang.</p>",
+    "link": "https://cointelegraph.com/magazine/us-sellers-drive-bitcoin-crash-jensen-plots-comeback-hodlers-digest?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+    "published": "Sun, 15 Nov 2026 22:50:59 +0000",
+    "fetched": "2026-11-16T14:36:30.131245"
+  },
+  {
+    "id": "3044945b2033",
+    "source": "CoinTelegraph",
+    "title": "Jensen Huang weighs Nvidia comeback days after shock exit: FT",
+    "summary": "<p style=\"float: right; margin: 0 0 10px 15px; width: 240px;\"><img alt=\"Jensen Huang weighs Nvidia comeback days after shock exit: FT\" class=\"type:primaryImage\" src=\"https://s3-images.ctmedia.io/media/article-covers/2026/11/01M7GS2G61SYB3FQX1TYFRT8TR/nvidia-knock.jpg\" /></p><p>Silicon Valley executives are reportedly organizing a campaign to bring Huang back and are looking to gain White House support. </p>",
+    "link": "https://cointelegraph.com/news/jensen-huang-weighs-nvidia-comeback-days-after-shock-exit?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+    "published": "Sun, 15 Nov 2026 23:47:45 +0000",
+    "fetched": "2026-11-16T14:36:30.131229"
+  },
+  {
+    "id": "7f72993742ff",
+    "source": "CoinTelegraph",
+    "title": "DBS, JPMorgan\u2019s Kinexys launch 24/7 transfers of tokenized deposits",
+    "summary": "<p style=\"float: right; margin: 0 0 10px 15px; width: 240px;\"><img alt=\"DBS, JPMorgan\u2019s Kinexys launch 24/7 transfers of tokenized deposits\" class=\"type:primaryImage\" src=\"https://s3-images.ctmedia.io/media/article-covers/2026/11/01M7HQDZG97Z39GHB9PREQ9EAS/hi-open-finance-vs-decentralized-finance-dbs-bank.jpg\" /></p><p>Ant International is the first customer to use the service, which lets clients transfer US dollar deposits between Singapore and the US.</p>",
+    "link": "https://cointelegraph.com/news/dbs-jpmorgans-kinexys-launch-tokenized-transfers?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+    "published": "Mon, 16 Nov 2026 08:50:50 +0000",
+    "fetched": "2026-11-16T14:36:30.131145"
+  },
+  {
+    "id": "029883762d27",
+    "source": "CoinTelegraph",
+    "title": "Singapore, Germany test cross-border FX settlement with CBDCs",
+    "summary": "<p style=\"float: right; margin: 0 0 10px 15px; width: 240px;\"><img alt=\"Singapore, Germany test cross-border FX settlement with CBDCs\" class=\"type:primaryImage\" src=\"https://s3-images.ctmedia.io/media/article-covers/2026/11/01M7HWN6S3QM8JYZVAE091TE12/hi-love-it-or-hate-it-cryptos-vibe-shift-is-now-imminent2.jpg\" /></p><p>Project Simbolon aims to reduce the cost and time of cross-border settlement and promote common standards for payments and FX</p>",
+    "link": "https://cointelegraph.com/news/singapore-german-central-banks-settlement-cbdcs?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+    "published": "Mon, 16 Nov 2026 10:49:12 +0000",
+    "fetched": "2026-11-16T14:36:30.131119"
+  },
+  {
+    "id": "07fff493c529",
+    "source": "CoinTelegraph",
+    "title": "HKMA, Swift explore tokenized deposits for cross-border bank payments",
+    "summary": "<p style=\"float: right; margin: 0 0 10px 15px; width: 240px;\"><img alt=\"HKMA, Swift explore tokenized deposits for cross-border bank payments\" class=\"type:primaryImage\" src=\"https://s3-images.ctmedia.io/media/article-covers/2026/11/01M7J398NA409DFNBP1NFSP0YW/blockchain-technology-takes-hold-swift-1.jpg\" /></p><p>HKMA and Swift will explore linking Project Ensemble with Swift\u2019s ledger for cross-border payments using tokenized deposits in multiple currencies.</p>",
+    "link": "https://cointelegraph.com/news/hkma-swift-tokenized-deposits-cross-border-payments?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+    "published": "Mon, 16 Nov 2026 12:54:51 +0000",
+    "fetched": "2026-11-16T14:36:30.131113"
   },
   {
     "id": "547ccb312a5a",
@@ -50,35 +95,44 @@
     "title": "Here\u2019s what happened in crypto today",
     "summary": "<p style=\"float: right; margin: 0 0 10px 15px; width: 240px;\"><img alt=\"Here\u2019s what happened in crypto today\" class=\"type:primaryImage\" src=\"https://s3-images.ctmedia.io/media/article-covers/article-covers-110589-what-happened-in-crypto-today.jpg\" /></p><p>Need to know what happened in crypto today? Here is the latest news on daily trends and events impacting Bitcoin price, blockchain, DeFi, Web3 and crypto regulation.</p>",
     "link": "https://cointelegraph.com/news/what-happened-in-crypto-today?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-    "published": "Sun, 15 Nov 2026 11:18:48 +0000",
-    "fetched": "2026-11-15T13:21:11.235982"
+    "published": "Mon, 16 Nov 2026 13:31:49 +0000",
+    "fetched": "2026-11-16T14:36:30.131052"
   },
   {
-    "id": "1ce3d6d53878",
-    "source": "The Block",
-    "title": "Thailand seeks $148,000 daily cap on certain stablecoin transfers to curb money laundering",
-    "summary": "The draft rules also require that stablecoins be transferred only between accounts or wallets belonging to the same person.",
-    "link": "https://www.theblock.co/news/regulation/2026-11-13-thailand-seeks-daily-stablecoin-cap-439676",
-    "published": "Fri, 13 Nov 2026 10:16:04 +0000",
-    "fetched": "2026-11-15T13:21:10.344850"
+    "id": "dd1ddddde848",
+    "source": "PYMNTS",
+    "title": "CarMax and Carvana Face Off as Used-Car Buying Moves Online",
+    "summary": "<p>The king of America\u2019s big-box automotive retail space is reportedly facing a challenge to its throne. That\u2019s according to a report Sunday (Nov. 15) from The Wall Street Journal (WSJ) on the rivalry between CarMax and its digital challenger Carvana. The report noted an apparent dig at his competitor last month by Carvana CEO Ernie [&#8230;]</p>\n<p>The post <a href=\"https://www.pymnts.com/news/retail/2026/carmax-and-carvana-face-off-as-used-car-buying-moves-online/\">CarMax and Carvana Face Off as Used-Car Buying Moves Online</a> appeared first on <a href=\"https://www.pymnts.com\">PYMNTS.com</a",
+    "link": "https://www.pymnts.com/news/retail/2026/carmax-and-carvana-face-off-as-used-car-buying-moves-online/",
+    "published": "Mon, 16 Nov 2026 02:01:34 +0000",
+    "fetched": "2026-11-16T14:36:29.572758"
   },
   {
-    "id": "7f0644634d43",
+    "id": "976b3d960688",
     "source": "The Block",
-    "title": "UK, Singapore, and Thailand central banks complete foreign exchange settlement trial linking traditional and tokenized systems",
-    "summary": "Three central banks published findings from a cross-border FX settlement trial using Partior's synchronization prototype.",
-    "link": "https://www.theblock.co/news/regulation/2026-11-13-uk-singapore-and-thailand-central-banks-complete-foreign-exchange-settlement-trial-linking-traditional-and-tokenized-systems-439692",
-    "published": "Fri, 13 Nov 2026 12:27:41 +0000",
-    "fetched": "2026-11-15T13:21:10.344841"
+    "title": "South Korean fintech giant Toss to launch in-app non-custodial crypto wallet: report",
+    "summary": "The firm is also said to be preparing for a VASP license for a business expansion to support stablecoin payments.",
+    "link": "https://www.theblock.co/news/business/2026-11-16-toss-non-custodial-crypto-wallet-440847",
+    "published": "Mon, 16 Nov 2026 08:52:33 +0000",
+    "fetched": "2026-11-16T14:36:29.373433"
   },
   {
-    "id": "f1a168593ec6",
+    "id": "6c38d2af6db7",
     "source": "The Block",
-    "title": "Ethereum and Layer 1s Explained",
-    "summary": "Ethereum 101 explains how Ethereum made blockchains programmable. It covers smart contracts, accounts and the EVM, ETH and gas fees, Proof of Stake, network upgrades, and how alternative Layer 1s trade off security, decentralization and scalability.",
-    "link": "https://www.theblock.co/learn/campus/ethereum-and-layer-1s-explained-435883",
-    "published": "Fri, 13 Nov 2026 14:12:23 +0000",
-    "fetched": "2026-11-15T13:21:10.344821"
+    "title": "DBS, JPMorgan launch instant tokenized deposit transfers between US and Singapore",
+    "summary": "Ant International is their first client, deploying the service for treasury and liquidity management across its entities in both markets.",
+    "link": "https://www.theblock.co/news/business/2026-11-16-dbs-jpmorgan-launch-tokenized-deposit-transfers-440854",
+    "published": "Mon, 16 Nov 2026 09:26:39 +0000",
+    "fetched": "2026-11-16T14:36:29.373417"
+  },
+  {
+    "id": "91741ecb6cbe",
+    "source": "The Block",
+    "title": "Vitalik Buterin backs higher gas costs for creating accounts and deploying smart contracts to help Ethereum scale",
+    "summary": "Buterin defended Ethereum's proposed gas repricing, citing the need to increase transaction capacity without compromising decentralization.",
+    "link": "https://www.theblock.co/news/ecosystems/2026-11-16-vitalik-buterin-backs-higher-gas-costs-for-creating-accounts-and-deploying-smart-contracts-to-help-ethereum-scale-440870",
+    "published": "Mon, 16 Nov 2026 10:29:30 +0000",
+    "fetched": "2026-11-16T14:36:29.373410"
   },
   {
     "id": "5451245ba7c0",
@@ -87,7 +141,7 @@
     "summary": "",
     "link": "https://www.coindesk.com/policy/2026/11/14/uk-singapore-and-thailand-central-banks-test-cross-border-fx-settlement-as-stablecoins-gain-ground",
     "published": "Sat, 14 Nov 2026 15:00:00 +0000",
-    "fetched": "2026-11-15T13:21:10.204648"
+    "fetched": "2026-11-16T14:36:29.297915"
   },
   {
     "id": "8cc05916cddf",
@@ -96,7 +150,25 @@
     "summary": "",
     "link": "https://www.coindesk.com/business/2026/11/14/kazakhstan-plans-tokenized-government-bonds-in-first-quarter-after-usd22-million-note-sale",
     "published": "Sat, 14 Nov 2026 15:38:27 +0000",
-    "fetched": "2026-11-15T13:21:10.204638"
+    "fetched": "2026-11-16T14:36:29.297910"
+  },
+  {
+    "id": "2509851af38b",
+    "source": "CoinDesk",
+    "title": "Changing of Lagarde: How the candidates to be next ECB president view bitcoin, stablecoins and CBDCs",
+    "summary": "",
+    "link": "https://www.coindesk.com/policy/2026/11/14/changing-of-lagarde-how-the-candidates-to-be-next-ecb-president-view-bitcoin-stablecoins-and-cbdcs",
+    "published": "Sun, 15 Nov 2026 07:00:00 +0000",
+    "fetched": "2026-11-16T14:36:29.297887"
+  },
+  {
+    "id": "afb034208aec",
+    "source": "CoinDesk",
+    "title": "Singapore, Germany test cross-border payments to reduce settlement risk",
+    "summary": "",
+    "link": "https://www.coindesk.com/business/2026/11/16/singapore-germany-test-cross-border-payments-to-reduce-settlement-risk",
+    "published": "Mon, 16 Nov 2026 11:47:12 +0000",
+    "fetched": "2026-11-16T14:36:29.297810"
   },
   {
     "id": "8d846827eb84",
@@ -105,7 +177,7 @@
     "summary": "",
     "link": "https://www.ecb.europa.eu//press/key/date/2026/html/ecb.sp261029~e9b57c3495.en.html",
     "published": "Thu, 29 Oct 2026 16:50:00 +0100",
-    "fetched": "2026-11-15T13:21:09.813975"
+    "fetched": "2026-11-16T14:36:29.078795"
   },
   {
     "id": "8ff19e61d51d",
@@ -114,7 +186,7 @@
     "summary": "",
     "link": "https://www.ecb.europa.eu//press/key/date/2026/html/ecb.sp261110~9422461bad.en.html",
     "published": "Tue, 10 Nov 2026 15:00:00 +0100",
-    "fetched": "2026-11-15T13:21:09.813878"
+    "fetched": "2026-11-16T14:36:29.078727"
   },
   {
     "id": "454424fbbef8",
@@ -123,7 +195,7 @@
     "summary": "9 key moments from Marc Andreessen and Chris Dixon on the CLARITY Act",
     "link": "https://a16zfrontier.com/posts/article/9-key-moments-from-marc-andreessen-and-chris-dixon-on-the-clarity-act/",
     "published": "Fri, 07 Aug 2026 18:21:26 GMT",
-    "fetched": "2026-11-15T13:21:08.552135"
+    "fetched": "2026-11-16T14:36:27.669051"
   },
   {
     "id": "0515ccd3712f",
@@ -132,7 +204,7 @@
     "summary": "Stablecoins are increasingly being spent by card swipe. Crypto payment cards have gone from a novelty to more than $750 million in monthly spend. These cards let people pay with crypto anywhere traditional card networks are accepted. Behind the scenes, the crypto \u2014 stablecoins, overwhelmingly \u2014 gets...",
     "link": "https://a16zfrontier.com/posts/article/charts-payment-card-stablecoin-spend/",
     "published": "Fri, 07 Aug 2026 19:52:54 GMT",
-    "fetched": "2026-11-15T13:21:08.552121"
+    "fetched": "2026-11-16T14:36:27.669040"
   },
   {
     "id": "41684662c1e9",
@@ -141,7 +213,7 @@
     "summary": "Stablecoins solved an urgent problem in Argentina. Then people kept using them.",
     "link": "https://a16zfrontier.com/posts/article/how-argentina-uses-crypto-5-charts/",
     "published": "Sun, 30 Aug 2026 15:59:26 GMT",
-    "fetched": "2026-11-15T13:21:08.552066"
+    "fetched": "2026-11-16T14:36:27.668999"
   },
   {
     "id": "4276f10ef13e",
@@ -150,7 +222,7 @@
     "summary": "Throughput was only the first test.",
     "link": "https://a16zfrontier.com/posts/article/blockchains-are-fast-enough-are-they-ready-for-financial-markets/",
     "published": "Wed, 02 Sep 2026 14:00:45 GMT",
-    "fetched": "2026-11-15T13:21:08.552030"
+    "fetched": "2026-11-16T14:36:27.668987"
   },
   {
     "id": "749c6060fb89",
@@ -159,7 +231,7 @@
     "summary": "Many financial institutions are taking advantage of one of the most innovative advancements in blockchain technology \u2014 permissionless networks. Franklin Templeton has kept the official share register of its onchain U.S. government money fund on permissionless blockchains since 2021 and added the Sol...",
     "link": "https://a16zfrontier.com/posts/article/financial-integrity-framework-permissionless-networks/",
     "published": "Thu, 10 Sep 2026 12:17:48 GMT",
-    "fetched": "2026-11-15T13:21:08.551998"
+    "fetched": "2026-11-16T14:36:27.668962"
   },
   {
     "id": "77da3859c553",
@@ -168,7 +240,7 @@
     "summary": "The SEC should clarify the circumstances in which developers of DEXs and their apps fall outside the Exchange Act\u2019s exchange registration requirements.",
     "link": "https://a16zfrontier.com/posts/article/sec-clarify-exchange-rules-blockchains/",
     "published": "Tue, 22 Sep 2026 12:58:35 GMT",
-    "fetched": "2026-11-15T13:21:08.551966"
+    "fetched": "2026-11-16T14:36:27.668934"
   },
   {
     "id": "802a37d5043a",
@@ -177,7 +249,7 @@
     "summary": "Monthly RWA perp volume is up 1,148x in a year as demand grows for round-the-clock exposure to stocks and commodities.",
     "link": "https://a16zfrontier.com/posts/article/rwa-perps-charts/",
     "published": "Wed, 23 Sep 2026 22:01:22 GMT",
-    "fetched": "2026-11-15T13:21:08.551949"
+    "fetched": "2026-11-16T14:36:27.668922"
   },
   {
     "id": "5e513e7a2279",
@@ -186,6 +258,6 @@
     "summary": "Blockchains are the first technology that lets the supply of markets catch up with latent global demand.",
     "link": "https://a16zfrontier.com/posts/article/blockchains-create-net-new-markets/",
     "published": "Tue, 29 Sep 2026 13:00:08 GMT",
-    "fetched": "2026-11-15T13:21:08.551935"
+    "fetched": "2026-11-16T14:36:27.668912"
   }
 ]
